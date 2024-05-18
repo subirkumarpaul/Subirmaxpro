@@ -452,7 +452,7 @@ http://103.120.172.74:1140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
 http://103.120.172.74:4000
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
-http://ku.satocean.uk:8080/uk_ztvuk/index.m3u8?token=1a75090f7c7326dc158903d7110afa8b
+http://starshare.live:8080/live/Sylvia/Sylvia/161.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee Anmol
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
@@ -865,6 +865,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/109978.ts
 http://humsab.xyz/IN_SONYBBCHD/tracks-a1/mono.m3u8?token=85eec517c3ca302ffe0459c56f1f0056
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
 http://opplex.tv:8080/live/223322/223322/109978.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/190.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
@@ -898,7 +899,7 @@ http://starshare.live:8080/live/Sylvia/Sylvia/98877.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
-
+http://starshare.live:8080/live/Sylvia/Sylvia/1623.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Information",Travel XP English NL
@@ -1042,8 +1043,8 @@ http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/95.ts
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO Signature
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net HD
+http://starshare.live:8080/live/Sylvia/Sylvia/786.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
