@@ -39,16 +39,15 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://xtv.ooo:8080/live/shahz18/18usman/371469.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Sky Sports Cricket 
 http://xtv.ooo:8080/live/shahz18/18usman/167594.ts
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Astro Cricket
-https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
-#http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
-http://bone1.dvrdns.org:3232/astro.cricket/tracks-v1a1/mono.m3u8?token=c7f3f400ee67e37843f5f22146c969cd
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Super Sports Cricket
 http://xtv.ooo:8080/live/shahz18/18usman/238475.ts
-#https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Willow HD
-http://newg2.ddns.net:6421/willow-lb/tracks-v1a1/mono.m3u8?token=f16fca669db9ff114edf98d6d870e890
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
