@@ -591,14 +591,14 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
 http://xtv.ooo:8080/live/415663775/826262627/221260.ts
-#http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98856.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
 http://xtv.ooo:8080/live/RiyazMPT/433833/66241.ts
@@ -635,7 +635,7 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98864.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
@@ -849,7 +849,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Bangla
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98874.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
 http://xtv.ooo:8080/live/shahz18/18usman/109977.ts
 #http://148.113.5.31:8106/play/a00p/index.m3u8
@@ -859,6 +859,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/109977.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
 http://xtv.ooo:8080/live/shahz18/18usman/206587.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/98875.ts
 #http://148.113.5.31:8106/play/a00y/index.m3u8
 #https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
@@ -893,7 +894,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/109980.ts
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
 http://xtv.ooo:8080/live/shahz18/18usman/206294.ts
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98877.ts
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
@@ -1030,6 +1031,7 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
 http://xtv.ooo:8080/live/shahz18/18usman/109970.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/98842.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
 http://148.113.5.31:8106/play/a00o/index.m3u8
 
@@ -1055,7 +1057,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English  Movies",Zee Cafe HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98848.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
 http://xtv.ooo:8080/live/shahz18/18usman/109968.ts
