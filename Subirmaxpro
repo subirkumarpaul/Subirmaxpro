@@ -15,20 +15,18 @@ https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
-#http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
+http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-#https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=t_sports
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.ts
 http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
-http://pakin.satocean.uk:8080/bangla_tsports_hd/tracks-v1a1/mono.m3u8?token=3da13d349214b66aac9a47abc62b362e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://live01.keycdn.cc/BN_TSportsHD/index.m3u8?token=82d8569b8566859a9601b2e2df335399
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-http://103.151.60.214:7444/1102/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=gazi_tv_hd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
@@ -644,8 +642,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
-
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98865.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
@@ -657,11 +654,11 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/167577.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98867.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98867.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
@@ -669,21 +666,21 @@ http://103.120.172.74:4700
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98861.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98862.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98863.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
 
 
@@ -691,10 +688,10 @@ http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20https04.png"group-title="Sports",Sony Sports Ten 4
 http://xtv.ooo:8080/live/shahz18/18usman/167595.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
-
+http://starshare.live:8080/live/Sylvia/Sylvia/29469.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98870.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://103.120.172.74:1110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
@@ -703,7 +700,6 @@ http://103.120.172.74:1110
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=fox_action_movies_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
@@ -741,18 +737,19 @@ http://121.91.61.106:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
 http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
-
+http://starshare.live:8080/live/Sylvia/Sylvia/98.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
 http://xtv.ooo:8080/live/RiyazMPT/433833/167587.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/196594.ts
 
 #EXTINF:-1,Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-https://ptvsports2.com/playlist.m3u8/?id=willowusa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
+http://starshare.live:8080/live/Sylvia/Sylvia/215.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 http://xtv.ooo:8080/live/shahz18/18usman/220064.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
@@ -1041,8 +1038,8 @@ http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO PK
+http://starshare.live:8080/live/Sylvia/Sylvia/95.ts
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO Signature
