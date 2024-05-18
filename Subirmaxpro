@@ -363,9 +363,7 @@ http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
-#https://tv5.hoichoi24.com/1404/tracks-v1a1/mono.m3u8
-#https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
+http://starshare.live:8080/live/Sylvia/Sylvia/271038.ts
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
