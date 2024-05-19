@@ -4,24 +4,24 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Toffee Live
 #https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
-http://starshare.live:8080/live/Sylvia/Sylvia/304279.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304279.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English Match 2
-http://starshare.live:8080/live/Sylvia/Sylvia/304384.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304384.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English 4K
-http://starshare.live:8080/live/Sylvia/Sylvia/304290.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304290.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Hindi
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Hindi
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Hindi 4K
-http://starshare.live:8080/live/Sylvia/Sylvia/304291.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304291.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Bangla
-http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Bangla 4K
-http://starshare.live:8080/live/Sylvia/Sylvia/304296.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/304296.m3u8
 
 
 
