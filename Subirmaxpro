@@ -1,4 +1,4 @@
-#EXTM3U
+   #EXTM3U
 
 
 #EXTINF:-1 tvg-logo=""group-title="LIVE",LPL
@@ -565,6 +565,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&exten
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=b96e1803d53a56dd7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 http://xtv.ooo:8080/live/RiyazMPT/433833/66176.ts
