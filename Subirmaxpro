@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Toffee Live
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="LIVE",LPL
+https://a2uy.short.gy/LPL-Auction/Join-@HimelOP_Official/Zubayer-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
 http://starshare.live:8080/live/Sylvia/Sylvia/304279.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
@@ -33,12 +33,12 @@ http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-http://live01.keycdn.cc/BN_TSportsHD/index.m3u8?token=82d8569b8566859a9601b2e2df335399
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=2e5b0fc38cf59a1ff
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=2191a50904c3eea61
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
@@ -176,10 +176,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
-#http://startv365.com/9794783213/6955630461/400200127
-#http://xtv.ooo:8080/live/shahz18/18usman/245939.ts
-#http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
-https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=nagorik_tv
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
@@ -331,6 +328,7 @@ http://xtv.ooo:8080/Sehrish/12345/245898
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
 http://opplex.tv:8080/live/223322/223322/245893.m3u8
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=7a0a67de925cfe6ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
@@ -555,9 +553,8 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/109959.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/98858.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
-#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/61177.ts
-
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=34301216e33c509dc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 http://xtv.ooo:8080/live/RiyazMPT/433833/106133.ts
@@ -708,7 +705,7 @@ http://103.120.172.74:1110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
@@ -853,7 +850,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=48b25ad61d3247453
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Bangla
 http://starshare.live:8080/live/Sylvia/Sylvia/98874.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
@@ -999,14 +997,14 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_Junior_voot_MOB/Fallback/inde
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
-
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=47ef0cc5248f51856
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=41a15257f3d69e742
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
-
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=8cc4f85dc0437a8c3
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
 
 
@@ -1016,6 +1014,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
 http://xtv.ooo:8080/live/shahz18/18usman/167551.ts
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=44a348cf41ea62b92
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
