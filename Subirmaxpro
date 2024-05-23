@@ -244,7 +244,7 @@ http://cdn01.palki.tv/live/Independent-M/index.m3u8
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BD",ATN News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangla News",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
 #https://livess.ncare.live/live-orgin/atnws-sg.stream/chunks.m3u8
@@ -960,7 +960,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 
-#EXTINF:-1 tvg-logo="" group-title="IInformation",BBC Food
+#EXTINF:-1 tvg-logo="" group-title="Information",BBC Food
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",HG TV
@@ -1075,7 +1075,7 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English  Movies",Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
 http://starshare.live:8080/live/Sylvia/Sylvia/98848.ts
 
