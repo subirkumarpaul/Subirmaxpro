@@ -1115,20 +1115,19 @@ http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 http://89.187.177.137:8081/&FLIX/index.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98841.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98840.ts
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Cinemax ActionMax
-
-
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
-
+http://starshare.live:8080/live/Sylvia/Sylvia/179.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
