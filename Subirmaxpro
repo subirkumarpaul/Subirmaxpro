@@ -565,18 +565,18 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
-
+http://starshare.live:8080/live/Sylvia/Sylvia/967.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
-#http://xtv.ooo:8080/live/RiyazMPT/433833/207200.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/966.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Cinemalu
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
-
+http://starshare.live:8080/live/Sylvia/Sylvia/9016.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold
 http://xtv.ooo:8080/live/RiyazMPT/433833/109959.ts
