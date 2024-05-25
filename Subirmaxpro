@@ -148,8 +148,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
-http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
-#https://ekusheyserver.com/etvlivesn.m3u8
+#http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
@@ -180,7 +180,7 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
 #http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
-https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=desh_tv
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 https://myflixbd.com/0.m3u8
@@ -209,7 +209,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
+http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
@@ -218,8 +218,8 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla",Boishakhi TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githuhttpscontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
 #http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
@@ -260,8 +260,8 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News",Independent TV
 #https://himel-op.top/api/ytop.m3u8?id=52LOJFBGvdM
-#https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+#http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
