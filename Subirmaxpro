@@ -375,8 +375,8 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/ind
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
-http://xtv.ooo:8080/live/shahz18/18usman/245906.ts
-http://xtv.ooo:8080/Sehrish/12345/245906
+http://starshare.live:8080/live/Sylvia/Sylvia/3753.m3u8
+#http://xtv.ooo:8080/Sehrish/12345/245906
 #http://148.113.5.31:8106/play/a00z/index.m3u8
 
 
@@ -388,20 +388,18 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1,Ruposhi Bangla
-https://freeiptv25.netlify.app/live/app/Ruposhi/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Dd%20Bangla.png" group-title="Kolkata Bangla",DD Bangla
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://starshare.live:8080/live/Sylvia/Sylvia/98884.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
 http://xtv.ooo:8080/live/RiyazMPT/433833/245897.ts
-#httpps://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
-http://tv.cloudcdn.me/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 http://starshare.live:8080/live/Sylvia/Sylvia/271038.m3u8
@@ -636,7 +634,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index
 http://starshare.live:8080/live/Sylvia/Sylvia/98856.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
-http://xtv.ooo:8080/live/RiyazMPT/433833/66241.ts
+http://starshare.live:8080/live/Sylvia/Sylvia/20648.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Cinema HD
 
