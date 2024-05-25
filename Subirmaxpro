@@ -593,8 +593,8 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=34301216e33c509dc
 http://xtv.ooo:8080/live/RiyazMPT/433833/106133.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-http://xtv.ooo:8080/live/RiyazMPT/433833/221258.ts
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&extension=ts
+#http://xtv.ooo:8080/live/RiyazMPT/433833/221258.ts
+http://opplex.tv:8080/live/223322/223322/221258.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
