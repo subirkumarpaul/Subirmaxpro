@@ -663,7 +663,7 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/112972.ts
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 http://longstream-04.ajaah.com/PlayBoxTV/Goldmines/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPgPUL2JY03nWTqqyB_qWNynl5QWPkSbuHbg&usqp=CAU" group-title="Hindi Movies",BFlix Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
