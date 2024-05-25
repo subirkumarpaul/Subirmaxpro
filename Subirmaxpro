@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.png"group-title="ICC Mens T20 World Cup 2024",
+http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
+
 #EXTINF:-1,BAN VS USA
 http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
 #EXTINF:-1,BAN VS USA
@@ -12,7 +15,7 @@ https://a2uy.short.gy/BAN-VS-USA/Join-@HimelOP_Official/Zubayer-Op.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="LIVE",LPL
-https://a2uy.short.gy/LPL-Auction/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
 http://starshare.live:8080/live/Sylvia/Sylvia/304279.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
