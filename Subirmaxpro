@@ -1,13 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,BAN VS USA
-http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
-#EXTINF:-1,BAN VS USA
-https://himel~op@sports.lvyclv.com/live/m33292792/playlist.m3u8
-#EXTINF:-1,BAN VS USA
-https://a2uy.short.gy/BAN-VS-USA/Join-@HimelOP_Official/Zubayer-Op.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",T Sports HD
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=221571b860f9cbafd0867e2916b7e43e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",T Sports HD
 http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Gazi TV HD
