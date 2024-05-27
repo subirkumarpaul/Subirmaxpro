@@ -495,6 +495,7 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 http://starshare.live:8080/live/Sylvia/Sylvia/967.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
