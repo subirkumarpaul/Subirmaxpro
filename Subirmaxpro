@@ -281,6 +281,7 @@ http://xtv.ooo:8080/live/919990697539/9535126056/245989.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 http://starshare.live:8080/live/Sylvia/Sylvia/98883.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/198.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -289,7 +290,8 @@ http://xtv.ooo:8080/Sehrish/12345/245898
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
 http://opplex.tv:8080/live/223322/223322/245893.m3u8
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=7a0a67de925cfe6ff
+http://starshare.live:8080/live/Sylvia/Sylvia/435.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
@@ -298,6 +300,7 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 http://starshare.live:8080/live/Sylvia/Sylvia/98882.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/23306.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -324,10 +327,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://starshare.live:8080/live/Sylvia/Sylvia/98884.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/425.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
 http://xtv.ooo:8080/live/RiyazMPT/433833/245897.ts
-
+http://starshare.live:8080/live/Sylvia/Sylvia/49615.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 http://starshare.live:8080/live/Sylvia/Sylvia/271038.m3u8
