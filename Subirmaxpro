@@ -381,6 +381,9 @@ http://103.120.172.74:4400
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab HD
 https://toxicify.pro/sliv/stream.php?id=sony-sab-hd&e=.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Hindi",Sony Pal
+https://toxicify.pro/sliv/stream.php?id=sony-pal&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
 http://xtv.ooo:8080/live/RiyazMPT/433833/66166.ts
@@ -1033,9 +1036,9 @@ http://starshare.live:8080/live/Sylvia/Sylvia/786.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
+https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
