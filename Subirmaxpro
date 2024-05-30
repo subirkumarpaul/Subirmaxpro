@@ -369,6 +369,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
 http://starshare.live:8080/live/Sylvia/Sylvia/98854.m3u8
+https://toxicify.pro/sliv/stream.php?id=sony-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 http://103.120.172.74:5000
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
