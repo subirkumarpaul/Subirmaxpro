@@ -10,9 +10,9 @@ https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
 #http://pakin.satocean.uk:8080/bangla_tsports_hd/tracks-v1a1/mono.m3u8?token=714091bcb31b463cc07af81e576bc7d0
 #http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",T Sports HD
-http://starshare.live:8080/live/007/007/130714.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Gazi TV HD
 http://starshare.live:8080/live/007/007/767.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Gazi TV HD
+http://starshare.live:8080/live/007/007/130714.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Star Sports 1 HD
 http://starshare.live:8080/live/007/007/148.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Star Sports 1 HD
