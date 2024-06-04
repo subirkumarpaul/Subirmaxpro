@@ -124,9 +124,9 @@ https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
-https://myflixbd.com/0.m3u8
+#https://myflixbd.com/0.m3u8
 #http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
-#https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/MyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
