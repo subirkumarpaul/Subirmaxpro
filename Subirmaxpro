@@ -22,7 +22,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/167575.m3u8
 http://xtv.ooo:8080/live/shahz18/18usman/220062.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Star Sports 1 HD
 http://public.iptv18.tech/push.php?id=22149
-http://starshare.live:8080/live/007/007/98864.m3u8
+http://sansat.net:88/02029761595924/9d089925dc60a821/93724
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Cric Life 1
 http://starshare.live:8080/live/007/007/122979.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Super Sports Cricket
@@ -96,9 +96,9 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
-#http://xtv.ooo:8080/live/shahz18/18usman/245904.tshttps
+http://xtv.ooo:8080/live/shahz18/18usman/245904.tshttps
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
+#http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 #http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
@@ -334,9 +334,8 @@ http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://watchindia.net:8880/live/83023/62335/2290.ts
-#http://xtv.ooo:8080/Sehrish/12345/245906
 #http://148.113.5.31:8106/play/a00z/index.m3u8
-
+http://sansat.net:88/02029761595924/9d089925dc60a821/100754
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -354,6 +353,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://starshare.live:8080/live/007/007/425.m3u8
+http://sansat.net:88/02029761595924/9d089925dc60a821/95770
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
 http://xtv.ooo:8080/live/RiyazMPT/433833/245897.ts
@@ -985,7 +985,7 @@ https://toxicify.pro/sliv/stream.php?id=sony-yay&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 http://xtv.ooo:8080/live/shahz18/18usman/150482.ts
-
+http://xtv.ooo:8080/live/shahz18/18usman/150482.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
