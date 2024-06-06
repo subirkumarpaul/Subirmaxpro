@@ -75,9 +75,9 @@ http://fsdsdad.b-cdn.net/103/index.m3u8?token=romijul-jes-2028
 http://fsdsdad.b-cdn.net/104/index.m3u8?token=romijul-jes-2028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-
+http://fsdsdad.b-cdn.net/106/index.m3u8?token=romijul-jes-2028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-
+http://fsdsdad.b-cdn.net/107/index.m3u8?token=romijul-jes-2028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
