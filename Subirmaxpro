@@ -296,10 +296,8 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
+http://xtv.ooo:8080/live/shahz18/18usman/245989.m3u8
 http://live02.keycdn.cc/SonyAath/index.m3u8?token=503854bd376830800c7ef7aec81d611c
-http://starshare.live:8080/live/007/007/4083.m3u8
-#http://xtv.ooo:8080/Sehrish/12345/245889
 http://xtv.ooo:8080/live/919990697539/9535126056/245989.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 https://toxicify.pro/sliv/stream.php?id=sony-aath&e=.m3u8
