@@ -1310,12 +1310,11 @@ http://index2.circleftp.net/FILE/English%20Movies/2023/Mission%20Impossible%20-%
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Jungle Cruise
 
-
-
-
-
-
-#EXTINF:-1,Dhedkan
+#EXTINF:-1 tvg-logo="" group-title="Movies",Salaar
+http://cinemacity.live/hdd/4TB%20File/Salaar%20%282023%29%20Hindi%20Dubbed%201080p%20WEB-DL%20x264.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Jailer
+http://cinemacity.live/hdd/4TB%20File/Jailer%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Dhedkan
 http://cinemacity.live/hdd/4TB%20File/Hindi%20Movie%20HD/Dhadkan%20%282000%29~~Suniel%20Shetty~Shilpa%20Shetty~Akshay~Mahima/Dhadkan.mp4
 
 
