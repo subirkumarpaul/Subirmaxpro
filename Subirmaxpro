@@ -388,8 +388,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
-http://starshare.live:8080/live/007/007/98854.m3u8
 https://toxicify.pro/sliv/stream.php?id=sony-hd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 http://103.120.172.74:5000
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
@@ -407,11 +407,11 @@ https://toxicify.pro/sliv/stream.php?id=sony-pal&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
-http://xtv.ooo:8080/live/RiyazMPT/433833/66166.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66166.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
 http://103.120.172.74:4300
-http://xtv.ooo:8080/live/RiyazMPT/433833/66208.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66208.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
@@ -438,7 +438,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/i
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-
+http://xtv.ooo:8080/live/adnankb2006/86057314/109950.m3u8
 
 
 
@@ -455,10 +455,9 @@ http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/66172.m3u8
-http://humsab.xyz/IN_And/tracks-v1a1/mono.m3u8?token=6c7f7ad98bdafcb9664eb5bce509c8f0
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
-#http://watchindia.net:8880/live/62448/92037/782.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/109952.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
@@ -530,8 +529,8 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/61177.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/106133.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-#http://xtv.ooo:8080/live/RiyazMPT/433833/221258.m3u8
-http://opplex.tv:8080/live/223322/223322/221258.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/221258.m3u8
+http://xtv.ooo:8080/live/adnankb2006/86057314/221258.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://xtv.ooo:8080/live/RiyazMPT/433833/66186.m3u8
