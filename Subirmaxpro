@@ -438,14 +438,14 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/i
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-http://ku.satocean.uk:8080/uk_ztvuk/index.m3u8?token=1a75090f7c7326dc158903d7110afa8b
+
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
 http://103.120.172.74:4000
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/161.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee Anmol
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
@@ -454,7 +454,7 @@ http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/RiyazMPT/433833/66172.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66172.m3u8
 http://humsab.xyz/IN_And/tracks-v1a1/mono.m3u8?token=6c7f7ad98bdafcb9664eb5bce509c8f0
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
@@ -467,35 +467,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024826&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 3
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024830&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 4
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024828&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 5
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024827&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 6
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019880&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 7
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019881&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 8
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019882&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 9
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019883&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 10
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019884&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 11
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019888&extension=ts
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 12
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019886&extension=ts
-
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
-http://xtv.ooo:8080/live/RiyazMPT/433833/66179.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66179.m3u8
 https://toxicify.pro/sliv/stream.php?id=sony-max-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
@@ -504,29 +481,29 @@ http://103.120.172.74:1150
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
-http://xtv.ooo:8080/live/RiyazMPT/433833/66189.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66189.m_u8
 #http://208.86.19.13:81/7300.stream/index.m3u8
 https://toxicify.pro/sliv/stream.php?id=sony-max-2&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
 https://toxicify.pro/sliv/stream.php?id=sony-wah&e=.m3u8
-http://xtv.ooo:8080/live/RiyazMPT/433833/112979.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/112979.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
-http://xtv.ooo:8080/live/RiyazMPT/433833/206271.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/206271.m3u8
 http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-http://xtv.ooo:8080/live/RiyazMPT/433833/109958.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/109958.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema UK
 http://170.254.18.107/ZEECINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/967.m3u8
+
 http://tv.cloudcdn.me/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
@@ -534,34 +511,34 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/inde
 http://tv.cloudcdn.me/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
-http://starshare.live:8080/live/007/007/966.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:94:98:FE
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Cinemalu
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/9016.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold
-http://xtv.ooo:8080/live/RiyazMPT/433833/109959.ts
-http://starshare.live:8080/live/007/007/98858.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/109959.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
-http://xtv.ooo:8080/live/RiyazMPT/433833/61177.ts
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=34301216e33c509dc
+http://xtv.ooo:8080/live/RiyazMPT/433833/61177.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://xtv.ooo:8080/live/RiyazMPT/433833/106133.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/106133.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-#http://xtv.ooo:8080/live/RiyazMPT/433833/221258.ts
+#http://xtv.ooo:8080/live/RiyazMPT/433833/221258.m3u8
 http://opplex.tv:8080/live/223322/223322/221258.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
-http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=b96e1803d53a56dd7
+http://xtv.ooo:8080/live/RiyazMPT/433833/66186.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
-http://xtv.ooo:8080/live/RiyazMPT/433833/66176.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/66176.m3u8
 http://xtv.ooo:8080/adnankb2006/86057314/221257
 
 
@@ -573,11 +550,11 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 #http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/RiyazMPT/433833/206315.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/206315.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/RiyazMPT/433833/112983.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/112983.m3u8
 https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
@@ -585,18 +562,18 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 #https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
-http://xtv.ooo:8080/live/415663775/826262627/221260.ts
-http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
+http://xtv.ooo:8080/live/415663775/826262627/221260.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/66186.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/98856.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
-http://starshare.live:8080/live/007/007/20648.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Cinema HD
 
@@ -620,7 +597,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 #https://pos.bongohub.pw/mac.m3u8?id=11064
-http://xtv.ooo:8080/live/RiyazMPT/433833/112972.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/112972.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
