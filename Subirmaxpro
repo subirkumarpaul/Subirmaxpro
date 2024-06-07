@@ -1028,27 +1028,27 @@ http://starshare.live:8080/live/007/007/95.ts
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net HD
-http://starshare.live:8080/live/007/007/786.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/238569.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/109966.m3u8
 https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/98848.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
-http://xtv.ooo:8080/live/shahz18/18usman/109968.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/109968.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
-http://xtv.ooo:8080/live/shahz18/18usman/109965.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/109965.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/66266.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
@@ -1057,19 +1057,19 @@ http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 http://89.187.177.137:8081/&FLIX/index.m3u8
-http://starshare.live:8080/live/007/007/98841.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
-http://starshare.live:8080/live/007/007/98840.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
-http://starshare.live:8080/live/007/007/179.m3u8
+
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
