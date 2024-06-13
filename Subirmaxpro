@@ -71,6 +71,11 @@ http://public.iptv18.tech/push.php?id=23935
 http://xtv.ooo:8080/live/Minsa786/Fatima/103703.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",TYC Sports
+http://xtv.ooo:8080/live/Minsa786/Fatima/348162.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/live/Minsa786/Fatima/245930.m3u8
