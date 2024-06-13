@@ -72,8 +72,9 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/103703.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",TYC Sports
-http://xtv.ooo:8080/live/Minsa786/Fatima/348162.ts
-
+http://xtv.ooo:8080/live/Minsa786/Fatima/348162.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Sony Ten 5 HD
+http://xtv.ooo:8080/live/Minsa786/Fatima/109992.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
