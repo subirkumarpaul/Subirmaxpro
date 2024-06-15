@@ -387,7 +387,7 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/245897.m3u8
 http://watchindia.net:8880/live/83023/62335/2287.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-http://starshare.live:8080/live/007/007/271038.m3u8
+
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
@@ -863,17 +863,14 @@ http://watchindia.net:8880/live/83023/62335/790.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
-#http://xtv.ooo:8080/live/shahz18/18usman/206587.ts
-http://starshare.live:8080/live/007/007/7344.m3u8
+http://xtv.ooo:8080/live/Minsa786/Fatima/206286.ts
 #http://148.113.5.31:8106/play/a00y/index.m3u8
 #https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
-http://xtv.ooo:8080/live/shahz18/18usman/109978.ts
-http://humsab.xyz/IN_SONYBBCHD/tracks-a1/mono.m3u8?token=85eec517c3ca302ffe0459c56f1f0056
+http://xtv.ooo:8080/live/Minsa786/Fatima/109978.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
-http://opplex.tv:8080/live/223322/223322/109978.ts
-http://starshare.live:8080/live/007/007/190.m3u8
 https://toxicify.pro/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
@@ -889,15 +886,15 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/98879.m3u8
+
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-http://starshare.live:8080/live/007/007/187.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
-http://opplex.tv:8080/live/223322/223322/109980.ts
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
-http://xtv.ooo:8080/live/shahz18/18usman/109980.ts
+http://xtv.ooo:8080/live/Minsa786/Fatima/108890.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
