@@ -477,7 +477,7 @@ http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
 http://xtv.ooo:8080/live/adnankb2006/86057314/109950.m3u8
-
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
@@ -531,7 +531,7 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/206271.m3u8
 http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
+http://94.154.156.130:8080/zeecinema/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/109958.m3u8
 
@@ -548,8 +548,8 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/inde
 http://tv.cloudcdn.me/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
-http://tv.cloudcdn.me/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:94:98:FE
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:94:98:FE
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Cinemalu
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
@@ -1057,8 +1057,8 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66315.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO PK
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net HD
