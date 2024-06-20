@@ -129,8 +129,8 @@ https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla",Channel I
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://xtv.ooo:8080/live/RiyazMPT/433833/245913.ts
-#http://208.86.19.13:81/510.stream/index.m3u8
-http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+http://208.86.19.13:81/510.stream/index.m3u8
+#http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
 http://xtv.ooo:8080/live/shahz18/18usman/245904.m3u8
