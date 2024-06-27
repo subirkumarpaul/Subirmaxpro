@@ -74,9 +74,10 @@ http://public.iptv18.tech/push.php?id=18458
 http://public.iptv18.tech/push.php?id=24016
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Toffee Live
-https://newsbarta.com/Toffe/live.php?id=2e2fc5009116&e=.m3u8
+https://retosbd.com/toffe/toffe.php?id=match-4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Toffee Live
+https://cricfire.ranahin.top/toffe.php?id=match-4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",T Sports App
 https://fifabd.xyz/tttttt/play.php?id=2&q=720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Sports(Only Match Time)
