@@ -1030,10 +1030,14 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66315.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
-
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net HD
-http://xtv.ooo:8080/live/adnankb2006/86057314/238569.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
+http://xtv.ooo:8080/live/Minsa786/Fatima/238530.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
+http://xtv.ooo:8080/live/Minsa786/Fatima/238570.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
+http://xtv.ooo:8080/live/Minsa786/Fatima/238572.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 4
+http://xtv.ooo:8080/live/Minsa786/Fatima/238573.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
