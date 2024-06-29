@@ -116,7 +116,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
-https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+#https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV UK
@@ -243,14 +244,15 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News",Channel 24
-http://cdn01.palki.tv/live/Channel24-M/index.m3u8
-#https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
-#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#https://bongohub.pw/bioscope.php?cc=channel-24
+#http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangla News",News 24
-#https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
 http://cdn01.palki.tv/live/News24-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",DBC News
