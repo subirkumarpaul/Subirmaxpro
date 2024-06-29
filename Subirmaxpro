@@ -66,11 +66,13 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/245930.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
-http://51.159.212.144/live/mahendra44/mhnd1234/245930.m3u8?token=GhMNBEZcR1gRAlJeBlNRB10PAgMCVQoJA1dVB1IIAFJVVVQABwAHVAREGBoXEhZRBVtrXgVGAgJWUw4HAxQUFhJUFzpcUEdYEVIEDlBQUxZIFEBeDAEaClJKFURaXBRZQwNRUAwMR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR18XBVRaAkQYGgcJEVoQRE0VW0Z6dEBKFVFLTFMNElgKCxcORw8AEwwaSEQNRztEUUQVFl1RDwNFFgkaBkFNEwgETWsGDV0IUVsQDwtaFxQOFVBGFBIPCVldR1dEPBFYAUcPFldWBVADGhk=
+#http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+xQUFhJUFzpcUEdYEVIEDlBQUxZIFEBeDAEaClJKFURaXBRZQwNRUAwMR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR18XBVRaAkQYGgcJEVoQRE0VW0Z6dEBKFVFLTFMNElgKCxcORw8AEwwaSEQNRztEUUQVFl1RDwNFFgkaBkFNEwgETWsGDV0IUVsQDwtaFxQOFVBGFBIPCVldR1dEPBFYAUcPFldWBVADGhk=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+http://51.159.212.144/live/mahendra44/mhnd1234/245930.m3u8?token=GhMNBEZcR1gRAlJeBlNRB10PAgMCVQoJA1dVB1IIAFJVVVQABwAHVAREGBoXEhZRBVtrXgVGAgJWUw4HA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Sangsad
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
