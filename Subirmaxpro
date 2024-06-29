@@ -1029,9 +1029,9 @@ http://xtv.ooo:8080/live/Minsa786/Fatima/66315.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
-http://xtv.ooo:8080/live/Minsa786/Fatima/238530.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
 http://xtv.ooo:8080/live/Minsa786/Fatima/238570.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
+http://xtv.ooo:8080/live/Minsa786/Fatima/238571.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
 http://xtv.ooo:8080/live/Minsa786/Fatima/238572.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 4
