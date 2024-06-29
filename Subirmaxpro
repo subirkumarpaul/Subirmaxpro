@@ -553,18 +553,17 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/109960.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
-#http://tv.cloudcdn.me/live.ts?channelId=470&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
+http://xtv.ooo:8080/live/Minsa786/Fatima/206315.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-#http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/206315.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/112983.m3u8
-https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
+http://xtv.ooo:8080/live/Minsa786/Fatima/206310.m3u8
+https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
