@@ -245,12 +245,8 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="Bangla Music",24/7 Bangla Music
-http://starshare.live:8080/live/Sylvia/Sylvia/136502.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
-#https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
 
@@ -260,7 +256,7 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 #https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
-#https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
 
