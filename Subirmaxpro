@@ -20,8 +20,10 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/348162.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/109984.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Live
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",T Sports
-https://fifabd.xyz/tttttt/play.php?id=1&q=720
+https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",T Sports
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Live
@@ -57,10 +59,9 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/157690.m3u8
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 3
 https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
-https://fifabd.xyz/tttttt/play.php?id=1&q=720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 4
 https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
-https://fifabd.xyz/tttttt/play.php?id=2&q=720
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
