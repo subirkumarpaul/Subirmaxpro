@@ -1,10 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="Bangla",T Sports
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
+https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",T Sports App
 https://fifabd.xyz/tttttt/play.php?id=2&q=720
@@ -45,7 +47,6 @@ https://its-nayeemparvez.xyz/bdcast/hls/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 https://its-nayeemparvez.xyz/bdcast/hls/btv_chattogram.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Sangsad
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
@@ -55,8 +56,10 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/157690.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 2
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 3
+https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
 https://fifabd.xyz/tttttt/play.php?id=1&q=720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 4
+https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
 https://fifabd.xyz/tttttt/play.php?id=2&q=720
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
