@@ -849,7 +849,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206286.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/109978.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
-https://toxicify.pro/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1v69FYrmugbkICxHK5w3QBz
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
