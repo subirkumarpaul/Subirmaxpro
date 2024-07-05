@@ -5,11 +5,11 @@ http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIPMftEubcArSGv-8WT5FV1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJsv0TJ44Bc1zklHSaRGw2B
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live
