@@ -39,17 +39,15 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/245930.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-http://xtv.ooo:8080/live/865@moiz/2015486520/245922.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0QWUIaTh8EAkcG4JXwhFvX
-https://its-nayeemparvez.xyz/bdcast/hls/btv_world.m3u8
 #https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
-https://its-nayeemparvez.xyz/bdcast/hls/btv_chattogram.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Sangsad
-http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 1
@@ -57,9 +55,9 @@ https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 2
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 3
-https://bdix.proximitybd.xyz/lanka.php?id=live-01&e.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 4
-https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
@@ -71,7 +69,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1vo3tHHB3_NfponIfwbgKSg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla UK
@@ -101,7 +99,7 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla",RTV
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #http://cdn01.palki.tv/live/RTV-M/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1qc45KMYT2NJghIdeaxC5e
@@ -112,25 +110,24 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3
 #http://cdn01.palki.tv/live/SATV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/DeeptoTV-M/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3dAzdlqL8cIU_SmdwQKwZG
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
-http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+#http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP08cHQpul9m8tcfY8aHk5vl
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
 #http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-#https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv
-
+#https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJzgVgH6uepxMTvbtsWEavx
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
-https://myflixbd.com/0.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpcpGzwdKvDv-rJLlK4QGB0
-https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/MyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
@@ -147,7 +144,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3jjL732WYBCthYxhJi5MdU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla",Banglavision
@@ -162,18 +159,18 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3qZEru80-Jc7RSFYyVrAbB
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla",Boishakhi TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP16xnfLplvdQ5yl9pzHAD5o
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1Uz3j06ybM26-vuRcaBclV
 #https://livess.ncare.live/live-orgin/channel9hd.stream/chunks.m3u8
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",Nexus TV HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3KciXguQLOpEQvKW-_SNrg
@@ -181,7 +178,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3
 #http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Bangla",Global TV
-http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
+#http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1RuDCBNmOr6-348VcyilRR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
@@ -272,7 +269,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
 #https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
-http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0L3EqxOanpmhcCDNTqqRPo
 #http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music",ATN Music
@@ -283,9 +280,6 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 #https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
-
-
-#EXTINF:-1 group-title="Bangla Movies" tvg-logo="",24/7 Bangla Movies
 
 
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="",Movie Bangla
@@ -323,7 +317,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/245893.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
-http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIPPOZk2KVByk5SukkuI6AW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
@@ -332,7 +327,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/245895.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnKANuzYuBV9hq6xYHGQ_AeM
-http://xtv.ooo:8080/live/865@moiz/2015486520/245906.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/245906.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -349,18 +344,19 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/245900.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/245900.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP2DXU2kxTtvTO49T6zHbWDo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
-http://xtv.ooo:8080/live/865@moiz/2015486520/245897.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/245897.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwqVmTvXDShhBH1Q6VQ9PqcR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
+#https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnKqV2VszQWwZb3VMol_pUfn
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1,Sananda TV
 #https://fr.tvanondo.online/sananda/video.m3u8
@@ -388,7 +384,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
-https://toxicify.pro/sliv/stream.php?id=sony-hd&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 http://103.120.172.74:5000
@@ -529,12 +525,12 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 http://xtv.ooo:8080/live/865@moiz/2015486520/106133.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK6z9P-rftESs4Av4aU6DWI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
-http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
-
+#http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1vGjvPwcQmpXD0A8A5hBiof
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
@@ -596,19 +592,22 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ76NXVguGHVd3tedWQh9R2
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tKMFzUtC1kJgAgUEnszkJO
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgyGZ6mvYrKZkLH-Hd_sEEb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
-http://longstream-04.ajaah.com/PlayBoxTV/Goldmines/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
