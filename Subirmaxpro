@@ -1004,10 +1004,11 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgMe1E2X3DSCPXkfXG0d12S
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",WOW Kids
-#https://nayeem-parvez.pw/api/yupp.m3u8?id=wow-kidz-hindi
-https://is.gd/HIMYsi
+
+
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hindi Cartoon
 https://is.gd/1cQmcv
@@ -1075,7 +1076,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_g
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/109963.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
@@ -1083,7 +1084,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/66282.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j4vzMwpWLJXZBLr3jtCSbk
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
