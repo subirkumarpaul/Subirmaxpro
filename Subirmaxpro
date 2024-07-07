@@ -748,8 +748,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/220064.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgugYyfwNRjcTrjUlWzJYXf
 
-#EXTINF:-1 tvg-logo=""group-title="Sports",Viaplay Sports 1
-
+#EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIyCEK2pwACv51w5LTr-Ox
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 1
 http://xtv.ooo:8080/live/865@moiz/2015486520/371469.m3u8
