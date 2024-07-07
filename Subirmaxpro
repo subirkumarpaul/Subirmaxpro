@@ -1047,21 +1047,22 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/238573.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-http://xtv.ooo:8080/live/Minsa786/Fatima/109966.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
-http://xtv.ooo:8080/live/Minsa786/Fatima/66287.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
-http://xtv.ooo:8080/live/Minsa786/Fatima/109968.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/109968.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gyZ0oYhggFagV50Ckkf0l
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
-http://xtv.ooo:8080/live/Minsa786/Fatima/109965.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/109965.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-http://xtv.ooo:8080/live/Minsa786/Fatima/66266.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
@@ -1074,7 +1075,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_g
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/Minsa786/Fatima/109963.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/109963.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
@@ -1082,7 +1083,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
-http://xtv.ooo:8080/live/Minsa786/Fatima/66282.m3u8
+http://xtv.ooo:8080/live/865@moiz/2015486520/66282.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
