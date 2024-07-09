@@ -190,8 +190,11 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla Natok
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla Natok 1
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh2PJvoQxs-Eb10EWOcP6Rw
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla Natok 2
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShpJaDMMhi9dZWcLpJc0ac-
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
@@ -1042,6 +1045,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66315.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 http://xtv.ooo:8080/live/865@moiz/2015486520/346567.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerow06cwRqD-qpn3h5nMUHE34N_b-RU9GpMD8foeoThE3
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
 http://xtv.ooo:8080/live/865@moiz/2015486520/238570.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
@@ -1057,8 +1062,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/238573.m3u8
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49539
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
-
+#http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jkuPXoE8Ygssc3klpxRhCJ
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
