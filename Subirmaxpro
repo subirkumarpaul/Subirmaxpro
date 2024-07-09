@@ -296,7 +296,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 http://xtv.ooo:8080/live/865@moiz/2015486520/245989.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJJROB8OloZ2XO_E-wb9gY2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/17005
 
 
 
@@ -1028,7 +1028,7 @@ https://is.gd/1cQmcv
 http://xtv.ooo:8080/live/865@moiz/2015486520/109970.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
-
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267542
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
@@ -1049,7 +1049,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/238573.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
-http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49539
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
