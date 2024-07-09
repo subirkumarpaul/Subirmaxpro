@@ -205,7 +205,8 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News",Somoy TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0j2YoBWLpU1YvX8---pVIW
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh2_uxWD4pFeOu9yBmPAy0t
 #http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 
