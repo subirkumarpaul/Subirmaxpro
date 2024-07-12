@@ -718,44 +718,47 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
   
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports",PTV Sports
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ_pnkBVYRR3GYLHywb9c2Y
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLSdIYzK3jl7p4AfspspGZE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports",PTV Sports
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Sports",PTV Sports
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerow06cwRqD-qpn3h5nMUHE1dY5FOk9UBlvfVENIi_kiH
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gETNnZLp3MxNbLvJbW3wupw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
 http://homeip.biz/PK_PS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Sports",Geo Super
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerow06cwRqD-qpn3h5nMUHE0QR7Lp1bCIAgjva6d3hNCl
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOgjAMJTzVrNLg72IRiMU2Y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwq5WFYjGMqibHF-dHm9j-25
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBVERAK7ayN5Zo1suNaJXa0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP39KwqGm482aAak74UlEn-I
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPem_ZIGUX1PqlLjKd-6QTc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
 http://xtv.ooo:8080/live/865@moiz/2015486520/167587.m3u8
 
 
-#EXTINF:-1,Fast Sports
+#EXTINF:-1,Super Sports Cricket
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNbahjCB65ZqQ8TtiwevZFY
 
+#EXTINF:-1,Sky Sports Cricket
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqgZ9kis_NosRlGLZK8xvA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJcA_V3IJq84oxPl9oOiJu6
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFM6RSHXcsb7P31l9X0GPi4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 http://xtv.ooo:8080/live/865@moiz/2015486520/220064.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgugYyfwNRjcTrjUlWzJYXf
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGYk-rR7k6CQj6TDwkFBUzU
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIyCEK2pwACv51w5LTr-Ox
