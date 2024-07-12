@@ -185,7 +185,8 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1RuDCBNmOr6-348VcyilRR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
-https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla",CHANNEL S HD
