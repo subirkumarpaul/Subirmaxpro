@@ -7,9 +7,9 @@ https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIPMftEubcArSGv-8WT5FV1
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPi2sZSnTwujZxHqUEak64o
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJsv0TJ44Bc1zklHSaRGw2B
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 
 
@@ -484,17 +484,16 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwo3GDNy-GBcxzVTWLLLZZ_r
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3AhttpTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
 http://103.120.172.74:1150
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
-http://xtv.ooo:8080/live/865@moiz/2015486520/66189.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/66189.m3u8
 #http://208.86.19.13:81/7300.stream/index.m3u8
-https://toxicify.pro/sliv/stream.php?id=sony-max-2&e=.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gD6AiDd_3K4Hdo1vv_bEIRw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
 https://toxicify.pro/sliv/stream.php?id=sony-wah&e=.m3u8
@@ -542,7 +541,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/106133.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 #http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK6z9P-rftESs4Av4aU6DWI
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gC1KY5e0txAL_qwPX8gfCaM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
@@ -561,7 +560,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206315.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/206315.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iqe15R2FOQJtjO4HpqfhTy
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDcWwZillovfaKQfC_gfCaM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
@@ -606,13 +605,13 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ76NXVguGHVd3tedWQh9R2
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDbYl1hgGE7DIQL_f9eL1oI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tKMFzUtC1kJgAgUEnszkJO
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDCGk6m8P6STEelhCTfle14
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgyGZ6mvYrKZkLH-Hd_sEEb
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gANJ9sy-vbu9nTIfF28-xOM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
@@ -666,21 +665,21 @@ http://103.120.172.74:4700
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIY3bElohY4WcVHOCpspWCs
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPtD0aWMxoMePuBjJ0atEeA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 http://103.120.172.74:1140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIAuKRK6k6EfDlJ_oBS-xu
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBC7fuWDrVrPApJnQefuKPI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJTNRGdLx7UfMOtOzSpyFVx
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHnuGIbWnFtzp9RePp2E6IU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
 
 
@@ -691,7 +690,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/167595.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnKnxy5qMzTgziDyNv8s_yDR
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGbg3QzIL1Jekvj38srfAaA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://103.120.172.74:1110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
@@ -1002,7 +1001,7 @@ http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547
 http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
 
-#EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
+#EXTINF:-1 tvg-logo=""group-titDoU"KIDS",Super Hungama TV
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
@@ -1018,7 +1017,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgMe1E2X3DSCPXkfXG0d12S
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",WOW Kids
 
@@ -1036,6 +1035,7 @@ https://is.gd/1cQmcv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109970.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gN017j0gggR1Pl394EcTSzs
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267542
@@ -1049,7 +1049,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66315.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 http://xtv.ooo:8080/live/865@moiz/2015486520/346567.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerow06cwRqD-qpn3h5nMUHE34N_b-RU9GpMD8foeoThE3
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIWFbppqh5BfUYbnHTdlEEE
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
 http://xtv.ooo:8080/live/865@moiz/2015486520/238570.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
@@ -1066,15 +1066,15 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49539
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jkuPXoE8Ygssc3klpxRhCJ
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJhoO7TgR-QjPy-Uwe1IHlM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109968.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gyZ0oYhggFagV50Ckkf0l
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCWtE3Kp26wMDdceJ1RXlUY
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
 http://xtv.ooo:8080/live/865@moiz/2015486520/109965.m3u8
@@ -1088,7 +1088,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
