@@ -308,7 +308,9 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/17005
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gI51-g9Ledf2nUN-ki08WGA
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCU9bxftGajEzQ_z5ZBhvxM
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gI51-g9Ledf2nUN-ki08WGA
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -464,7 +466,8 @@ http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/66172.m3u8
+#http://xtv.ooo:8080/live/865@moiz/2015486520/66172.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCYvgJ-2FIjQgQP692juQLk
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109952.m3u8
@@ -485,6 +488,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3A
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
 http://103.120.172.74:1150
@@ -504,16 +508,15 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206271.m3u8
 http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
-http://94.154.156.130:8080/zeecinema/index.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/109958.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCpx-tmcgLQGHjZdrRjWW9I
+#http://xtv.ooo:8080/live/865@moiz/2015486520/109958.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema UK
-http://170.254.18.107/ZEECINEMA/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:94:98:FE
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNPW0m7_lSrBV12As_Sy7Gw
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
@@ -537,14 +540,15 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 http://xtv.ooo:8080/live/865@moiz/2015486520/106133.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJPywu8N3J0ZP1n_NsZ7Yqc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 #http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gC1KY5e0txAL_qwPX8gfCaM
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gC1KY5e0txAL_qwPX8R4vXI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1vGjvPwcQmpXD0A8A5hBiof
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHjR2bwhbSD8MoYvkBRfSnQ
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
