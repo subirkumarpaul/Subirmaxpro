@@ -28,20 +28,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Sony Ten 2 HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBC7fuWDrVrPApJnQefuKPI
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Sony Ten 2 HD
-http://xtv.ooo:8080/live/global/global/109984.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Sony Ten 5 HD
-http://xtv.ooo:8080/live/global/global/167580.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Sports TV+
-http://xtv.ooo:8080/live/global/global/352930.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/245930.m3u8
+http://xtv.ooo:8080/live/global/global/245930.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMGT4DdXC18ExHtI-3Fj3h0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
