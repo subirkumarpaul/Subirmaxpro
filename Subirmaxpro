@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten_3_MOB/Fallback/Ten_3_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
