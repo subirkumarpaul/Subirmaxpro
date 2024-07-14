@@ -433,7 +433,7 @@ http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors
 #http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIHFwg3OtDAtiWnb4SgU6R9
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM4TpRcVio-LCd9KiERDtwA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors UK
 http://170.254.18.107/COLORS/index.m3u8
@@ -484,7 +484,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3AhttpTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
 http://103.120.172.74:1150
 
@@ -496,7 +497,6 @@ http://103.120.172.74:1150
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gD6AiDd_3K4Hdo1vv_bEIRw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
-https://toxicify.pro/sliv/stream.php?id=sony-wah&e=.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/112979.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
@@ -513,7 +513,6 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
-
 http://tv.cloudcdn.me/live.ts?channelId=207&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
