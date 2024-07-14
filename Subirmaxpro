@@ -682,9 +682,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHnuGIbWnFtzp9RePp2E6IU
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20https04.png"group-title="Sports",Sony Sports Ten 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
 http://xtv.ooo:8080/live/global/global/167595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
