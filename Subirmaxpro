@@ -631,7 +631,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3bPuVqTCfzSt7Hoakw_N6o
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gORDuCm4HSjgZnZIqzqE2IQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
@@ -983,7 +983,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/26187.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick Bangla
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jDQ08ZtCTGfPrf6bBXXVzB
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 http://xtv.ooo:8080/live/865@moiz/2015486520/150482.m3u8
 
@@ -1002,7 +1002,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3
 
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
@@ -1011,8 +1011,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-#https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
 http://xtv.ooo:8080/live/865@moiz/2015486520/167551.m3u8
@@ -1028,12 +1027,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 #EXTINF:-1 tvg-logo=""group-title="KIDS",WOW Kids
 
 
-
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hindi Cartoon
-https://is.gd/1cQmcv
 
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",Hollywood HD
 
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
