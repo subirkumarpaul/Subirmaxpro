@@ -1,7 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten_3_MOB/Fallback/Ten_3_MOB/Fallback/index.m3u8
+http://himelop-back.ddns.net:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBC7fuWDrVrPApJnQefuKPI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Live Final
+http://xtv.ooo:8080/live/global/global/109984.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
@@ -19,23 +31,13 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Sony Ten 2 HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBC7fuWDrVrPApJnQefuKPI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Copa%20America%202024.png"group-title="Copa America 2024",Sony Ten 2 HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/109984.m3u8
+http://xtv.ooo:8080/live/global/global/109984.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Live
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",T Sports
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",T Sports
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Live
-http://145.239.5.177:8080/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Bein Sports 2
-http://145.239.5.177:8080/558/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Sony Ten 5 HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/167580.m3u8
+http://xtv.ooo:8080/live/global/global/167580.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Euro%20Cup%202024.png"group-title="EURO Cup 2024",Sports TV+
-http://xtv.ooo:8080/live/865@moiz/2015486520/352930.m3u8
+http://xtv.ooo:8080/live/global/global/352930.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
