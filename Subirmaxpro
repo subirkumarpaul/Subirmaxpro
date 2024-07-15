@@ -295,10 +295,9 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-http://xtv.ooo:8080/live/865@moiz/2015486520/245989.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGfERluCfvhKVdBXcOxNWrU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/17005
+http://xtv.ooo:8080/live/golbal/global/245989.m3u8
 
 
 
@@ -309,11 +308,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCU9bxftGajEzQ_z5ZBhvxM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-http://xtv.ooo:8080/live/865@moiz/2015486520/245898.m3u8
+http://xtv.ooo:8080/live/golbal/global/245898.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
-http://xtv.ooo:8080/live/865@moiz/2015486520/245893.m3u8
+http://xtv.ooo:8080/live/golbal/global/245893.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
@@ -326,12 +325,12 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
-http://xtv.ooo:8080/live/865@moiz/2015486520/245895.m3u8
+http://xtv.ooo:8080/live/golbal/global/245895.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
-#http://xtv.ooo:8080/live/865@moiz/2015486520/245906.m3u8
+#http://xtv.ooo:8080/live/golbal/global/245906.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -351,14 +350,14 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gK3D8Bb0Iu-BVyGTy3CCH_k
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies
-#http://xtv.ooo:8080/live/865@moiz/2015486520/245900.m3u8
+#http://xtv.ooo:8080/live/golbal/global/245909.m3u8
 https://s.id/Ferdos-Live-Tv-Jalsha-movies-sd-m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHYfy6NBtkBfBF6jNxRTug8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
-#http://xtv.ooo:8080/live/865@moiz/2015486520/245897.m3u8
+#http://xtv.ooo:8080/live/golbal/global/245897.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMu-GMjm017p8xJylQ3tf3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
@@ -413,11 +412,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gL4SriGq60bClFnaDLnoyag
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
-http://xtv.ooo:8080/live/865@moiz/2015486520/66166.m3u8
+http://xtv.ooo:8080/live/golbal/global/66166.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
 http://103.120.172.74:4300
-http://xtv.ooo:8080/live/865@moiz/2015486520/66208.m3u8
+http://xtv.ooo:8080/live/golbal/global/66208.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
@@ -438,14 +437,14 @@ http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 http://103.120.172.74:1070
-http://xtv.ooo:8080/live/865@moiz/2015486520/66168.m3u8
+http://xtv.ooo:8080/live/golbal/global/66168.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Rishtey.png"group-title="Hindi",Colors Rishtey
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-http://xtv.ooo:8080/live/865@moiz/2015486520/109950.m3u8
+http://xtv.ooo:8080/live/golbal/global/109950.m3u8
 http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
 
@@ -461,11 +460,11 @@ http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
-#http://xtv.ooo:8080/live/865@moiz/2015486520/66172.m3u8
+#http://xtv.ooo:8080/live/golbal/global/66172.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCYvgJ-2FIjQgQP692juQLk
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/109952.m3u8
+http://xtv.ooo:8080/live/golbal/global/109952.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
@@ -481,7 +480,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
-http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
+http://xtv.ooo:8080/live/golbal/global/667A.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
