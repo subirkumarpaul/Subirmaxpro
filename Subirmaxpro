@@ -856,7 +856,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206285.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
-http://xtv.ooo:8080/live/865@moiz/2015486520/206286.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKBs025ywR17OF_xKg0UUd0
 #http://148.113.5.31:8106/play/a00y/index.m3u8
 #https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
@@ -864,7 +864,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206286.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/109978.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1v69FYrmugbkICxHK5w3QBz
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDozT8vZbREKHjXFlRiGLPA
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
@@ -899,8 +899,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206294.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19856
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Hindi
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIkKCqPpdlF7h-Cuh0aVSU8/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Information",Travel XP English NL
@@ -1007,8 +1007,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
-http://xtv.ooo:8080/live/865@moiz/2015486520/167551.m3u8
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=44a348cf41ea62b92
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNYs7cTAJs4mNN-JBnhZmsk
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -1033,11 +1032,11 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/109970.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gN017j0gggR1Pl394EcTSzs
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/267542
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/66315.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBFKRMIoonXebE19KF81xP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
 
@@ -1177,14 +1176,15 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News",BBC World
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLQw1Krdc0zQQxzVYIl1Rf0
 
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGnER8Ff1cwps02fmaGPH8E
+#https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
