@@ -721,7 +721,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOgjAMJTzVrNLg72IRiMU2Y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBVERAK7ayN5Zo1suNaJXa0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDvgXEcxwbJKDF0HJI4Vzeo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPem_ZIGUX1PqlLjKd-6QTc
@@ -859,8 +859,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
-https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
-#https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM8MyRYw9fzikSfSlv9z_vA
 
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -1168,8 +1169,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLQw1Krdc0zQQxzVYIl1Rf0
 
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOlGtE1ogT8eN6Krgt-1s7s
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGnER8Ff1cwps02fmaGPH8E
@@ -1179,16 +1179,13 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGnER8Ff1cwps02fmaGPH8E
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News",France 24
-https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
-http://cdn01.palki.tv/live/WION-M/index.m3u8
+#http://cdn01.palki.tv/live/WION-M/index.m3u8
 
 
 
-
-
-https://1rdk.short.gy/Himel-OP-Premium/Hoichoi24.m3u
 
 
 
