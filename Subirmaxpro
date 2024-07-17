@@ -200,6 +200,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNp0y3m3imBjGDFO7IUYLZg
 #https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
 
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Mena Cartoon Bangla
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKXKPWxtyq8TVJywwipesqc
+
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
@@ -830,7 +833,7 @@ https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Information",Investigation Discovery Multi Audio
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
+#https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-DiscoverQTc3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Discovery.m3u8
 
 
@@ -846,9 +849,9 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFpIU1uKLTbed3v0jU42gL4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
 http://xtv.ooo:8080/live/865@moiz/2015486520/206285.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
