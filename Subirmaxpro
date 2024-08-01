@@ -514,8 +514,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:94:98:FE
+#https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:94:98:FE
+https://mrking.site/Ozee/stream.m3u8?id=0-9-zeeanmolcinema
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema 2
+https://mrking.site/Ozee/stream.m3u8?id=0-9-bigganga
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
 #http://tv.cloudcdn.me/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:94:98:FE
@@ -581,7 +585,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
-
+https://mrking.site/Ozee/stream.m3u8?id=0-9-209
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Cinema HD
 
@@ -1067,10 +1071,11 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/49539
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJhoO7TgR-QjPy-Uwe1IHlM
+#http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJhoO7TgR-QjPy-Uwe1IHlM
+https://mrking.site/Ozee/stream.m3u8?id=0-9-zeecafehd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Moviehttpw HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109968.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCWtE3Kp26wMDdceJ1RXlUY
 
@@ -1086,13 +1091,13 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
-
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
+https://mrking.site/Ozee/stream.m3u8?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
-
+#http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
+https://mrking.site/Ozee/stream.m3u8?id=0-9-9z5543514
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
