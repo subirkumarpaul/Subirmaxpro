@@ -595,7 +595,7 @@ https://mrking.site/Ozee/stream.m3u8?id=0-9-209
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJYKCimphvdVxBW0S4nj-0Y
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJYKCimphvdVxBW0S4nj-0Y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Kadak
 
@@ -607,30 +607,30 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDbYl1hgGE7DIQL_f9eL1oI
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDbYl1hgGE7DIQL_f9eL1oI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDCGk6m8P6STEelhCTfle14
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDCGk6m8P6STEelhCTfle14
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gANJ9sy-vbu9nTIfF28-xOM
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gANJ9sy-vbu9nTIfF28-xOM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH9uxDyxRKKsphXSuQmqJCw
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH9uxDyxRKKsphXSuQmqJCw
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJFS6R1L0s3ZdhdPaUeYYig
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJFS6R1L0s3ZdhdPaUeYYig
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLalt7HaGWIqTjrEw_Xrex8
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLalt7HaGWIqTjrEw_Xrex8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gORDuCm4HSjgZnZIqzqE2IQ
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gORDuCm4HSjgZnZIqzqE2IQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
