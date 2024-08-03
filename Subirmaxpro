@@ -1,19 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPi2sZSnTwujZxHqUEak64o
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2durMYUg2FHuS2javIhuAAYEQ0sjjc1Ib5Q&usqp=CAU"group-title="LPL",LPL 2024 T Sports 
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
@@ -33,7 +20,8 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnXHNayvDOukFLM78QYxgU
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 1
-https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
+#https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 2
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 3
@@ -45,9 +33,9 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFSLu1h31Nc1e_8OD248c0Y
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFSLu1h31Nc1e_8OD248c0Y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH7ed83qUuKC4r2f9bg5ivA
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH7ed83qUuKC4r2f9bg5ivA
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
@@ -623,9 +611,11 @@ http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH9uxDyxRKKsphXSuQmqJCw
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJFS6R1L0s3ZdhdPaUeYYig
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLalt7HaGWIqTjrEw_Xrex8
 
 
@@ -920,7 +910,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Travel
-https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Trave Channel
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
@@ -947,14 +937,16 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCz-fZV50QppaT9-bHHJGUU
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCz-fZV50QppaT9-bHHJGUU
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Food
 
 
 #EXTINF:-1 tvg-logo="" group-title="Information",HG TV
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
-#https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
+#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
+https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 #https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
@@ -964,8 +956,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Information",Nasa TV
-#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS",Cartoon Network
@@ -981,10 +973,10 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
 http://xtv.ooo:8080/live/865@moiz/2015486520/26187.m3u8
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU
+#http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick Bangla
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 http://xtv.ooo:8080/live/865@moiz/2015486520/150482.m3u8
 
@@ -1003,7 +995,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3
 
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
@@ -1188,7 +1180,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLQw1Krdc0zQQxzVYIl1Rf0
 
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOlGtE1ogT8eN6Krgt-1s7s
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOlGtE1ogT8eN6Krgt-1s7s
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGnER8Ff1cwps02fmaGPH8E
