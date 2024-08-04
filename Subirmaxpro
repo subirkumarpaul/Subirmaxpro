@@ -185,6 +185,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNp0y3m3imBjGDFO7IUYLZg
 #https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7ESEccxCMNT4Rt_f8E1vC__-pglZ6COUTqdbPLWTRVMfVQ3kKgaobkHp&s=10"group-title="KIDS",Mena Cartoon Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKXKPWxtyq8TVJywwipesqc
 
@@ -193,8 +194,8 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News",Somoy TV
 #https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ
-http://tv.cloudcdn.me/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ
+#http://tv.cloudcdn.me/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 
 
