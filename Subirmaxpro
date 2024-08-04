@@ -397,10 +397,11 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab
 http://103.120.172.74:4400
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gL4SriGq60bClFnaDLnoyag
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab-hd/index.ts
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gL4SriGq60bClFnaDLnoyag
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi",Sony Pal
-
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pal/index.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
