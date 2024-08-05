@@ -1088,14 +1088,13 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJhoO7TgR-QjPy-Uwe1IHlM
-https://mrking.site/Ozee/stream.m3u8?id=0-9-zeecafehd
+#https://mrking.site/Ozee/stream.m3u8?id=0-9-zeecafehd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Moviehttpw HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/109968.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCWtE3Kp26wMDdceJ1RXlUY
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
-http://xtv.ooo:8080/live/865@moiz/2015486520/109965.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIGE9iv7SS_AU38bQZzWaQo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
@@ -1105,14 +1104,14 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
-https://mrking.site/Ozee/stream.m3u8?id=0-9-channel_2105335046
+#https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
+#https://mrking.site/Ozee/stream.m3u8?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
-#http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
-https://mrking.site/Ozee/stream.m3u8?id=0-9-9z5543514
+#https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
+#https://mrking.site/Ozee/stream.m3u8?id=0-9-9z5543514
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
