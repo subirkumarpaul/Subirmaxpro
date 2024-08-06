@@ -67,7 +67,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
-#https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDgW4l1AxIA9B-ROLl1JlaA
 #http://tv.cloudcdn.me/live.ts?channelId=109&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #http://cdn01.palki.tv/live/NTV-M/index.m3u8
@@ -113,7 +113,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gE8jBQoSX7zJtrAVM-dATiQ
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
-https://mtlivestream.site/asian/ytlive/index.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gG0LpRuaEyg8rSrFeokPXfo
 #https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
 #http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
 
