@@ -321,6 +321,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPZFAYhNz2ja6MXsKWOCgB0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://jio.dinesh29.com.np/live/jio-universal/colors-bengali-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
@@ -567,8 +568,8 @@ http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOwsB-qs8xQXKReYYuGJa7A
-
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOwsB-qs8xQXKReYYuGJa7A
+https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
@@ -608,7 +609,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJYKCimphvdVxBW0S4nj-0Y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Kadak
-
+https://jio.dinesh29.com.np/live/jio-universal/b4u-kadak/index.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -910,7 +911,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/108890.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
-http://xtv.ooo:8080/live/865@moiz/2015486520/206294.m3u8
+https://jio.dinesh29.com.np/live/jio-universal/history-tv18-sd/index.ts
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
@@ -996,18 +997,18 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
-https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-yay/index.ts
+https://jio.dinesh29.com.np/live/jio-universal/sony-yay-hindi/index.ts
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick Bangla
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
+https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
-http://xtv.ooo:8080/live/865@moiz/2015486520/150482.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-
+https://jio.dinesh29.com.np/live/jio-universal/nick-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick JR
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
@@ -1016,7 +1017,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_Junior_voot_MOB/Fallback/inde
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
-
+https://jio.dinesh29.com.np/live/jio-universal/sonic-hindi/index.ts
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE
@@ -1085,9 +1086,11 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:
 #http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
+https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-sd/index.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJhoO7TgR-QjPy-Uwe1IHlM
+https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-hd/index.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
@@ -1106,8 +1109,12 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
+https://jio.dinesh29.com.np/live/jio-universal/and-flix-hd/index.ts
 
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
+https://jio.dinesh29.com.np/live/jio-universal/and-prive-hd/index.ts
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShiSTjDqzm5E7KglppQ8tVa
