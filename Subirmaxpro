@@ -403,6 +403,7 @@ https://jio.dinesh29.com.np/live/jio-universal/24-ghanta-tv/index.ts
 https://jio.dinesh29.com.np/live/jio-universal/news-time-tv/index.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-"Indian Bangla News,News18 Bangla News
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 https://jio.dinesh29.com.np/live/jio-universal/news18-bangla-news/index.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-"Indian Bangla News",Calcutta News
@@ -412,10 +413,14 @@ https://jio.dinesh29.com.np/live/jio-universal/calcutta-news/index.ts
 https://jio.dinesh29.com.np/live/jio-universal/kolkata-tv/index.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-"Indian Bangla News",TV9 Bangla
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 https://jio.dinesh29.com.np/live/jio-universal/tv9-bangla/index.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-"Indian Bangla News",Samay Kolkata
 https://jio.dinesh29.com.np/live/jio-universal/samay-kolkata/index.ts
+
+#EXTINF:-1 tvg-logo="" group-"Indian Bangla News",R Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNnq0vcHZbHKId_3uIzrbrY
