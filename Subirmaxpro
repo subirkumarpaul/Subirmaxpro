@@ -211,7 +211,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBRP9fyB9DAry7QhZ6ZtE6I
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
 #http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc
+#https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangla News",ATN News
 #http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
