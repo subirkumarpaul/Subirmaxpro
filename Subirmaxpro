@@ -811,14 +811,16 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGYk-rR7k6CQj6TDwkFBUzU
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIyCEK2pwACv51w5LTr-Ox
+#EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 1
-http://xtv.ooo:8080/live/865@moiz/2015486520/371469.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 2
-http://xtv.ooo:8080/live/865@moiz/2015486520/371470.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 3
-http://xtv.ooo:8080/live/865@moiz/2015486520/371471.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
@@ -844,10 +846,6 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 
 #EXTINF:-1,Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",ATN Abganisthan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
