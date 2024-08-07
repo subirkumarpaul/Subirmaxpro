@@ -370,8 +370,8 @@ https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 #https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
-#EXTINF:-1,Sananda TV
-#https://fr.tvanondo.online/sananda/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
+#http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 
