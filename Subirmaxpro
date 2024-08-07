@@ -245,7 +245,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gP0b4ACIINxtq2R_XKwoL5Y
 #https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",Ekhone TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png"group-title="Bangla News",Ekhone TV
 #https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w
 #http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
@@ -261,10 +261,6 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="Bangla Music",24/7 Bangla Music
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
 #https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
