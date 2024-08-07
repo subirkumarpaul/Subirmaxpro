@@ -815,12 +815,11 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 1
-
+http://xtv.ooo:8080/live/237985/258952/371469.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 2
-
-
+http://xtv.ooo:8080/live/237985/258952/371470.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 3
-
+http://xtv.ooo:8080/live/237985/258952/371471.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
@@ -1101,13 +1100,13 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/346567.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIWFbppqh5BfUYbnHTdlEEE
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
-http://xtv.ooo:8080/live/865@moiz/2015486520/238570.m3u8
+http://xtv.ooo:8080/live/237985/258952/238570.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
-http://xtv.ooo:8080/live/865@moiz/2015486520/238571.m3u8
+http://xtv.ooo:8080/live/237985/258952/238571.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
-http://xtv.ooo:8080/live/865@moiz/2015486520/238572.m3u8
+http://xtv.ooo:8080/live/237985/258952/238572.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 4
-http://xtv.ooo:8080/live/865@moiz/2015486520/238573.m3u8
+http://xtv.ooo:8080/live/237985/258952/238573.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
