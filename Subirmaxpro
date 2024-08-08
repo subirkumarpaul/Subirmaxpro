@@ -20,12 +20,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnXHNayvDOukFLM78QYxgU
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 1
-#https://homeip.biz/GaziTV/index.m3u8?token=c5d6c79f2497ae446f4d669883624ee3
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 2
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 3
-http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 4
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPi2sZSnTwujZxHqUEak64o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 5
@@ -34,7 +33,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCff6JsMkeu0EehcoC0GxtI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFSLu1h31Nc1e_8OD248c0Y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
