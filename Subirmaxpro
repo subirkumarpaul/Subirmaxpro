@@ -676,6 +676,8 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gORDuCm4HSjgZnZIqzqE2IQ
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD.
+http://103.84.57.155:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD Hindi
@@ -683,8 +685,8 @@ https://humsab.xyz/In_Hin/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNXK-4G6B9L5ZFM2LNMhl6o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
+http://103.84.57.155:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 http://103.120.172.74:4500
 
@@ -713,6 +715,8 @@ https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-1-hd/in
 http://103.120.172.74:1140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPtD0aWMxoMePuBjJ0atEeA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
+http://103.84.57.155:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-2-hd/index.ts
@@ -736,6 +740,8 @@ http://xtv.ooo:8080/live/global/global/167595.m3u8
 http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://103.120.172.74:1110
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5.
+http://103.84.57.155:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGbg3QzIL1Jekvj38srfAaA
 
@@ -1128,7 +1134,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCWtE3Kp26wMDdceJ1RXlUY
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIGE9iv7SS_AU38bQZzWaQo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/66266.m3u8
+http://103.84.57.155:8000/play/a030/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
@@ -1359,8 +1365,8 @@ https://ia902902.us.archive.org/30/items/female-4-2024-bengali-bongo-720p/Female
 #EXTINF:-1,Chhota Bheem Shakti
 http://ftp5.circleftp.net/FILE/Animation%20Movies/2023/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264.mkv
 
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bhoy
-
+#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Kidnap
+http://himelop.myftp.org/Data/Indian%20Bangla/new/Kidnap%20%282019%29/Kidnap%20%282019%29%20Bangla%201080p%20HD%20WEB%20DL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Love Marriage
 
 #EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Feludar%20Goyendagiri%20s01.jpg" group-title="Kolkata Bangla Movies",Feludar Goyendagiri
