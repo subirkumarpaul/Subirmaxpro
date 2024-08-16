@@ -934,9 +934,9 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDozT8vZbREKHjXFlRiGLPA
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
-#https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM8MyRYw9fzikSfSlv9z_vA
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM8MyRYw9fzikSfSlv9z_vA
 
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
