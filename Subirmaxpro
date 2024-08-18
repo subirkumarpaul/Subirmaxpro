@@ -28,7 +28,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPi2sZSnTwujZxHqUEak64o
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
@@ -147,7 +147,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
 #https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/955.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
@@ -380,7 +381,7 @@ http://tv.digitalview.live:8080/live/abidhasan/283829471947229/454.m3u8
 #https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71680.meu8
 
-#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",ETV Bangla Cinema
+#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/iui0J_0PhulaaQKiziUefrcvfvQzm6pNuJ6KgQzC3d332yrBLBv_tb1vN9CK-Bun0ZZPnrro_tEznKTwWv1Q-uMyabwydJ43tflmIsAVWxQmdtk7377OPMgNf1mBT8rh.jpg"group-title="Kolkata Bangla Movies",ETV Bangla Cinema
 http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71694.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
@@ -669,12 +670,15 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDbYl1hgGE7DIQL_f9eL1oI
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/41285.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDCGk6m8P6STEelhCTfle14
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/2173.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gANJ9sy-vbu9nTIfF28-xOM
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/696.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
@@ -921,7 +925,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFpIU1uKLTbed3v0jU42gL4
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFpIU1uKLTbed3v0jU42gL4
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/67909.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
@@ -974,7 +979,7 @@ https://jio.dinesh29.com.np/live/jio-universal/history-tv18-sd/index.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19856
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/581.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Hindi
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIkKCqPpdlF7h-Cuh0aVSU8/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
