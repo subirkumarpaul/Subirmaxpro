@@ -194,8 +194,8 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNp0y3m3imBjGDFO7IUYLZg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
 #http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
-
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/395.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7ESEccxCMNT4Rt_f8E1vC__-pglZ6COUTqdbPLWTRVMfVQ3kKgaobkHp&s=10"group-title="KIDS",Mena Cartoon Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKXKPWxtyq8TVJywwipesqc
@@ -335,7 +335,8 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPZFAYhNz2ja6MXsKWOCgB0
 https://jio.dinesh29.com.np/live/jio-universal/colors-bengali-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/455.m3u8
 #http://xtv.ooo:8080/live/golbal/global/245906.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=909do5b0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -372,11 +373,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw
-https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/454.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 #https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71680.meu8
+
+#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",ETV Bangla Cinema
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71694.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
@@ -1103,11 +1108,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gN017j0gggR1Pl394EcTSzs
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
@@ -1130,8 +1135,8 @@ http://xtv.ooo:8080/live/237985/258952/238573.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
-http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-
+#http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
