@@ -346,12 +346,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 #http://tv.cloudcdn.me/live.ts?channelId=92&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKCD93G4fztET2cC9XvsPnREJbv6-A8nV0XvU-7-LBc2H
+http://14.102.123.50:5001/live/1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 http://14.102.123.50:5001/live/756.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
@@ -413,7 +414,7 @@ EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Kolkata Bangla Movies",Khushboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+https://cdn3.pishow.tv/live/283/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Kolkata Bangla Music",Sangeet Bangla
@@ -568,7 +569,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gD6AiDd_3K4Hdo1vv_bEIRw
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
-https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
+http://14.102.123.50:5001/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
 #http://xtv.ooo:8080/live/865@moiz/2015486520/206271.m3u8
@@ -976,7 +977,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
+http://14.102.123.50:5001/live/1325.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
@@ -989,7 +990,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/108890.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
-https://jio.dinesh29.com.np/live/jio-universal/history-tv18-sd/index.ts
+http://14.102.123.50:5001/live/146.m3u8
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
@@ -1116,8 +1117,8 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNYs7cTAJs4mNN-JBnhZmsk
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCCXdBMi2LFJ1lHkaQA_DoU
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",WOW Kids
 
@@ -1165,7 +1166,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
-https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-sd/index.ts
+http://14.102.123.50:5001/live/1319.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
 https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-hd/index.ts
@@ -1188,7 +1189,7 @@ http://103.84.57.155:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLIk8qmP757WWuISFrplPbs
+http://14.102.123.50:5001/live/1322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
 https://jio.dinesh29.com.np/live/jio-universal/and-flix-hd/index.ts
 
@@ -1209,7 +1210,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
 http://103.84.57.155:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
+http://14.102.123.50:5001/live/1327.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_HD_MOB/Fallback/index.m3u8
 
