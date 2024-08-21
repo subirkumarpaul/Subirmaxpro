@@ -1079,7 +1079,7 @@ https://jio.dinesh29.com.np/live/jio-universal/sony-yay-hindi/index.ts
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick Bangla
-https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
+http://14.102.123.50:5001/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k
 
@@ -1093,9 +1093,9 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_Junior_voot_MOB/Fallback/inde
 http://103.84.57.155:8000/play/a042/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
-https://jio.dinesh29.com.np/live/jio-universal/sonic-hindi/index.ts
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic Bangla
+#https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
+http://14.102.123.50:5001/live/1345.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE
