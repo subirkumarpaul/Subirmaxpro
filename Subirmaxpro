@@ -852,9 +852,25 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFM6RSHXcsb7P31l9X0GPi4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-http://xtv.ooo:8080/live/865@moiz/2015486520/220064.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGYk-rR7k6CQj6TDwkFBUzU
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Football
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sky Sports Cricket
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJIyCEK2pwACv51w5LTr-Ox
