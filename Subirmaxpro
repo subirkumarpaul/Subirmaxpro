@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1724254263&md5=VWUxc7EBOulj5pV_aZ4xtQ&user=c28278b7cc41459ea95c1d05df91e3e7
+
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Gazi TV
-http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKGnnoArVcVu8H4dwV-xzUwz3At6W1eOq7XGzpFYzUYUv
+
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Gazi TV
 http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKCD93G4fztET2cC9XvsPnRHVGRqu2pHgCagPcbp6zO0E
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=p4_hj7cDE_y8CKNufNYk_A&expires=1724299349&user=ef71b837ceef4cd18a6cf7069722d83d
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
@@ -362,9 +362,9 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=909do5b0&e=.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Kolkata Bangla",Ruposhi Bangla
 http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKB4U1XLG_LXSEehYYHyLRTAHX80VXB5boUoZwBUM4PaA
@@ -667,8 +667,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Cinema HD
-
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",BFlix Movies
+http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Movies HD
 
@@ -1216,7 +1216,7 @@ http://103.84.57.155:8000/play/a030/index.m3u8
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 http://14.102.123.50:5001/live/1322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
-https://jio.dinesh29.com.np/live/jio-universal/and-flix-hd/index.ts
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
