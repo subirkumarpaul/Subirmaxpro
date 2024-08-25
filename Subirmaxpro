@@ -355,7 +355,7 @@ http://14.102.123.50:5001/live/756.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJqi83-ZMM6PNOqPOBYAaEU
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/455.m3u8
+http://14.102.123.50:5001/live/1669.m3u8
 #http://xtv.ooo:8080/live/golbal/global/245906.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=909do5b0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -392,15 +392,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 #https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gMDBUNbXWwyG2cF61ybw_Xw
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/454.m3u8
+http://14.102.123.50:5001/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 #https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71680.meu8
+
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/iui0J_0PhulaaQKiziUefrcvfvQzm6pNuJ6KgQzC3d332yrBLBv_tb1vN9CK-Bun0ZZPnrro_tEznKTwWv1Q-uMyabwydJ43tflmIsAVWxQmdtk7377OPMgNf1mBT8rh.jpg"group-title="Kolkata Bangla Movies",ETV Bangla Cinema
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71694.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
