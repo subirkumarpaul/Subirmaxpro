@@ -40,9 +40,9 @@ http://xtv.ooo:8080/live/237985/258952/245940.m3u8
 http://103.113.149.202:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-http://113.212.111.246:8080/hls/col12.m3u8
+https://bdix.proximitybd.xyz/buka.php?id=live-01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-
+https://bdix.proximitybd.xyz/buka.php?id=live-02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
