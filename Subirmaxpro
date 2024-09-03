@@ -561,7 +561,8 @@ http://103.120.172.74:1150
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
-http://14.102.123.50:5001/live/1393.m3u8
+#http://14.102.123.50:5001/live/1393.m3u8
+http://172.105.123.238:18002/play/a01q
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
 #http://xtv.ooo:8080/live/865@moiz/2015486520/206271.m3u8
@@ -613,12 +614,10 @@ http://217.20.112.199/stargold2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 #http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gC1KY5e0txAL_qwPX8R4vXI
+http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHjR2bwhbSD8MoYvkBRfSnQ
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 #http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOSw6OcVj8KloikeRiSc85E
@@ -626,6 +625,8 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select HD
 http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Ustsab Movies
+http://172.105.123.238:18002/play/a01n
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
 #https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_MOB
@@ -679,18 +680,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-https://evbr.short.gy/BDStreamHub/Goldmines.ts
+#https://evbr.short.gy/BDStreamHub/Goldmines.ts
+http://172.105.123.238:18002/play/a00z
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gANJ9sy-vbu9nTIfF28-xOM
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/696.m3u8
+http://172.105.123.238:18002/play/a01j
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Prime
+http://172.105.123.238:18002/play/a00j
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
@@ -779,8 +782,8 @@ http://14.102.123.50:5001/live/155.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Liv
-https://jio.dinesh29.com.np/live/jio-universal/sony-liv-exclusive/index.ts
+#EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports
+http://172.105.123.238:18002/play/a02b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 https://fifabangladesh.live/VHOD/go.php?id=Sports18_1_SD_voot_MOB
