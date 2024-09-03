@@ -784,6 +784,8 @@ http://14.102.123.50:5001/live/155.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports
 http://172.105.123.238:18002/play/a02b
+#EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports HD
+http://172.105.123.238:18002/play/a03d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
 https://fifabangladesh.live/VHOD/go.php?id=Sports18_1_SD_voot_MOB
