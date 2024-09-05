@@ -307,6 +307,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 #https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMIC Channel", PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="ISLAMIC Channel", PEACE TV ENGLISH
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="ISLAMIC Channel", MADANI TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="ISLAMIC Channel", MAKKAH TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
