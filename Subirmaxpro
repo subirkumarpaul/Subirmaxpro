@@ -52,16 +52,16 @@ http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 http://tv.digitalview.live:8080/live/abidhasan/283829471947229/409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTAGat96DktAtaFKVPpC1g
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCff6JsMkeu0EehcoC0GxtI
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKCD93G4fztET2cC9XvsPnRHVGRqu2pHgCagPcbp6zO0E
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKGnnoArVcVu8H4dwV-xzUwz3At6W1eOq7XGzpFYzUYUv
+
 
 
 
@@ -69,14 +69,12 @@ http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKGnnoArVcVu8H4dwV-xzUwz
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gABN1ENgUhd66dw0rFd-Aug
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=89&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 
@@ -90,7 +88,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDgW4l1AxIA9B-ROLl1JlaA
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #http://cdn01.palki.tv/live/NTV-M/index.m3u8
@@ -285,10 +282,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd",Jago News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="",Toffee Drama
-https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Toffee Movies
-https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
