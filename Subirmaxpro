@@ -1132,7 +1132,7 @@ http://14.102.123.50:5001/live/1345.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-http://xtv.ooo:8080/live/865@moiz/2015486520/150480.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
 
 #EXTINF:-1 tvg-logo=""group-titDoU"KIDS",Super Hungama TV
@@ -1154,8 +1154,8 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="KIDS",Hindi Cartoon
-
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Oogi and Cocrrose
+https://ythls-v3.onrender.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw.m3u8
 
 
 
