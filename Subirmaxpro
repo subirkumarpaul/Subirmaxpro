@@ -650,7 +650,7 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_Bollywood_voot_MOB
-#http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
+http://172.105.123.238:18002/play/a011
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
@@ -1071,8 +1071,8 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCz-fZV50QppaT9-bHHJGUU
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Food
 
