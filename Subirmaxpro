@@ -29,14 +29,13 @@ https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=5
 http://103.113.149.202:8000/play/a01d/index.m3u8
 #http://103.230.105.252:1935/live/btv/manifest.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnXHNayvDOukFLM78QYxgU
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/live-orgin/Btv-g.stream/chunks.m3u8?nimblesessionid=265766529
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
+http://103.113.149.202:8000/play/a01e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/live/237985/258952/245940.m3u8
+http://103.113.149.202:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Sangsad
 #http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
