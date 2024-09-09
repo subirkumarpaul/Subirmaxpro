@@ -1124,29 +1124,28 @@ https://ythls-v3.onrender.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies
-#
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
-
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
-http://xtv.ooo:8080/live/865@moiz/2015486520/346567.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
-http://xtv.ooo:8080/live/237985/258952/238570.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
-http://xtv.ooo:8080/live/237985/258952/238571.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
-http://xtv.ooo:8080/live/237985/258952/238572.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 4
-http://xtv.ooo:8080/live/237985/258952/238573.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
