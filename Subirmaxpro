@@ -1565,10 +1565,14 @@ http://ftp5.circleftp.net/FILE/Animation%20Movies/2023/Chhota%20Bheem%20Shakti%2
 
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Kidnap
 http://himelop.myftp.org/Data/Indian%20Bangla/new/Kidnap%20%282019%29/Kidnap%20%282019%29%20Bangla%201080p%20HD%20WEB%20DL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Pradhan
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/pradhan.jpg" group-title="Kolkata Bangla Movies",Pradhan
 http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Bangla/Kolkata/Pradhan%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Feludar%20Goyendagiri%20s01.jpg" group-title="Kolkata Bangla Movies",Feludar Goyendagiri
 http://103.109.56.115/ftpdata/bangla_movie/Feludar%20Goyendagiri%20s01.mp4
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/kirtan.jpg" group-title="Kolkata Bangla Movies",Kirtan
+http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Bangla/Kolkata/Kirtan%20(2023)%201080p%20WEBDL.mp4
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Oppenheimer
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
