@@ -1583,7 +1583,7 @@ http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Oxygen%20%282017%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264/Oxygen%20%282017%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264.mkv
 #EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies",Captain Miller 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",The Greatest of All Time
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/the_greatest_of_all_time.jpg" group-title="Hindi Dabbing Movies",The Greatest of All Time
 http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others%20Hindi%20Dubbed/2024/The%20Greatest%20of%20All%20Time%20%282024%29%20Hindi%20Dubbed%201080p%20HDTC%20x264/The%20Greatest%20of%20All%20Time%20%282024%29%20Hindi%20Dubbed%201080p%20HDTC%20x264.mkv
 http://10.16.100.213/iccftps13/iccftps13sasd5/Movies/South%20Indian%20(Hindi%20Dubbed)/The%20Greatest%20of%20All%20Time%20(2024)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Saripodhaa Sanivaaram
@@ -1603,8 +1603,8 @@ http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Malaikottai%20Vaaliban%2
 #EXTINF:-1 tvg-logo="" group-title=""Hindi Dabbing Movies",Extra Ordinary Man
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Extra%20Ordinary%20Man%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio%20DUB%29%2BTelugu%5D%20x264/Extra%20Ordinary%20Man%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio%20DUB%29%2BTelugu%5D%20x264.mkv
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Operation Valentine
-http://himelop.myftp.org/Data/Hindi/2024/Operation%20Valentine%20%282024%29/Operation%20Valentine.mp4
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/bad_newz.jpg" group-title="Movies",Bad News
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Hindi/Bad%20Newz%20(2024)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Jawan
 https://cinemacity.live/hdd/4TB%20File/Jawan%20%282023%29%20EXTENDED%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Tiger 3
