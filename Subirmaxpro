@@ -873,12 +873,6 @@ https://cdn1.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 1
-http://xtv.ooo:8080/live/237985/258952/371469.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 2
-http://xtv.ooo:8080/live/237985/258952/371470.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 3
-http://xtv.ooo:8080/live/237985/258952/371471.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
@@ -965,9 +959,9 @@ http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
-
+http://tv.cloudcdn.me/live.ts?channelId=177&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #http://148.113.5.31:8106/play/a00y/index.m3u8
-#https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
 
