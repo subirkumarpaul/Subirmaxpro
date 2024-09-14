@@ -829,11 +829,11 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/167587.m3u8
 
 
-#EXTINF:-1,Super Sports Cricket
-
+#EXTINF:-1,Fox Sports Cricket 501
+https://venomxop.com/play.m3u8?id=fox501
 
 #EXTINF:-1,Sky Sports Cricket
-
+https://venomxop.com/play.m3u8?id=skyscric
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 
@@ -860,13 +860,13 @@ https://cdn1.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 1
-
+https://venomxop.com/play.m3u8?id=bbtsp1
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 2
-
+https://venomxop.com/play.m3u8?id=bbtsp2
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 3
-
+https://venomxop.com/play.m3u8?id=bbtsp3
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 4
-
+https://venomxop.com/play.m3u8?id=bbtsp4
 
 
 
