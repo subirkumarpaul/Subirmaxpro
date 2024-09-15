@@ -7,11 +7,11 @@
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Youtube
 
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Gazi TV
-https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=58ba91c85d3ebbd597721149634d4fcf9c5a02b1-c0835931b44a10c01d142b7d045484d8-1725656790-1725645990
+d8-1725656790-1725645990
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK Gazi TV
-https://api.flixtronic.top/public/master.m3u8?id=gazitv
+
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
-https://api.flixtronic.top/public/master.m3u8?id=tsports
+
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
 https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://observerbd.com/2024/07/09/ob_1720459823.jpg"group-title="BD VS PAK",BD VS PAK T Sports
@@ -868,6 +868,11 @@ https://venomxop.com/play.m3u8?id=bbtsp3
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 4
 https://venomxop.com/play.m3u8?id=bbtsp4
 
+#EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
@@ -1270,7 +1275,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
-
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
