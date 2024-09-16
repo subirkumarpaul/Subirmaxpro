@@ -648,7 +648,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
-
+https://la.drmlive.au/tp/zee.php?id=andxplorehd
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
@@ -1180,7 +1180,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
-http://14.102.123.50:5001/live/1319.m3u8
+https://la.drmlive.au/tp/zee.php?id=cafehd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/66287.m3u8
 
