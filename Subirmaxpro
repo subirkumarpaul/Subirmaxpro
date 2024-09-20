@@ -369,7 +369,7 @@ http://217.20.112.199/colorsbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://14.102.123.50:5001/live/1669.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
+#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla",Sun Bangla HD
 http://opplex.tv:8080/live/global/global/245906.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
@@ -413,7 +413,7 @@ http://14.102.123.50:5001/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
 
 
-EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
+#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
@@ -673,12 +673,15 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://evbr.short.gy/BDStreamHub/Goldmines.ts
 http://172.105.123.238:18002/play/a00z
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Bollywood 
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 http://172.105.123.238:18002/play/a012
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
 http://172.105.123.238:18002/play/a01j
+
+#EXTINF:-1 tvg-logo="" group-title="GOLDMINES", Goldminnes Thtills
+http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
