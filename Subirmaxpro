@@ -838,7 +838,6 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/167587.m3u8
 https://venomxop.com/play.m3u8?id=fox501
 
 #EXTINF:-1,Sky Sports Cricket
-https://venomxop.com/play.m3u8?id=skyscric
 http://opplex.tv:8080/live/global/global/167594.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
