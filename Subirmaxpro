@@ -27,7 +27,8 @@ http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 #http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+#http://103.230.105.252:1935/live/btv/manifest.m3u8
+http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
@@ -118,7 +119,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
 #http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/playlist.m3u8
-#http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOjIk2xo1ObGuNT4g_XqiUk
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
@@ -702,9 +703,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-https://thenayeemparvez.xyz/cricfy2/play.php?id=22149
+https://donelfantastic.github.io/live/starSportsIn1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://172.19.178.39:18190/JS-TV-04/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD.
@@ -715,7 +716,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://cdn1.hotflix-bd.online/Star-Sports-1/tracks-v1a1/2024/09/11/06/23/45-08000.ts?token=415fbac06c4afee4ba607502e58b8c84005d374b-70829c312a6ea3db25573405c91c17cf-1725655988-1725645188
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
-https://cdn1.hotflix-bd.online/Star-Sports-2/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=89310f667b33475481f9322c3c837824d61bebe6-f759f705df9706775835b5d3e0de6408-1725656433-1725645633
+https://donelfantastic.github.io/live/starSportsIn2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 http://124.29.225.205:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
@@ -724,16 +725,16 @@ http://103.120.172.74:4200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
 http://103.84.57.155:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
-
+https://donelfantastic.github.io/live/starSportsIn3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-
+https://donelfantastic.github.io/live/starSportsIn_select1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-
+https://donelfantastic.github.io/live/starSportsIn_select2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
