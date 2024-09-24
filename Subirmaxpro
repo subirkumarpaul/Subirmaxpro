@@ -867,13 +867,13 @@ http://opplex.tv:8080/live/global/global/167594.ts
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 1
-https://venomxop.com/play.m3u8?id=bbtsp1
+http://opplex.tv:8080/live/global/global/346373.ts
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 2
-https://venomxop.com/play.m3u8?id=bbtsp2
+http://opplex.tv:8080/live/global/global/346374.ts
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 3
-https://venomxop.com/play.m3u8?id=bbtsp3
+http://opplex.tv:8080/live/global/global/346375.ts
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 4
-https://venomxop.com/play.m3u8?id=bbtsp4
+http://opplex.tv:8080/live/global/global/346376.ts
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
