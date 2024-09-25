@@ -340,7 +340,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#http://14.102.123.50:5001/live/697.m3u8
+https://api.iptvbd.xyz/api/sony_wah.m3u8
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 
 
@@ -468,7 +468,7 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
 #http://tv.cloudcdn.me/live.ts?channelId=194&uid=13603&deviceMac=00:1A:79:64:B4:A6
-https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f266101d225e6c4f57aa8eae3aca9a45e151471314de3cef0d6956c0ad3d30a35cf14b02c3436572dd7df304057e1536e03cd1016df8af6e8b75fb1689db7068c071a04c8a7804ac122af096ff21d0a76ac1501f2bce80a4e6692df623bd93f7b0f003ad2d395a548611be818283272bff1202b5d09e76f8b01aa146d81cf6a9c70bd0c7a4a72a0d023e1e872a9a74aa2f0f0bfcf0a2cf289ae5759cd777651d592f72004d7e4c27a633baecc72a240f2e6b9b4f7e95b2a9f7c6d377bf9094a4519d7b117696b40b425b67916547c3e13b17436a2f9165376247abed5aee558a0fc70639c543c0e664a1548ba230743b2012f420cef37aabac3962564acb093f5f1d31236ef12216705e9de40c734383e4719a570cc7aad679e3b2a2711a48ab9d3f9cc73d979d0763b293f34426a7dd274218cf7853626fb4cada008682c9439b2320a09fc2fa32001e5b7135efaf768ee
+https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 #http://103.120.172.74:5000
@@ -485,7 +485,7 @@ http://14.102.123.50:5001/live/154.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=191&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi",Sony Pal
-
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
@@ -557,7 +557,7 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #http://103.120.172.74:1150
 https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f26138101a186c423bad58fd845677ccfa3f637ff5d02dfb7d8f0fa689f8dbc131cfb4bc0511930667b42a3be45d9d2e7660d0f769a699526460f9ccaab008d03dd40425133a6c6c72ee585757e22c230a1329276c6564b619ec888ffd3617a6dc391dcd24aed97bc53a50960ee67002f7f5c37c305954858ec974164a7969ae869bcbb657cebd703ad1627083098f264e72418b49c8beab9f5b451947bb31049d901ded413124d5d74ee066ee5e5b9bf0f32a4c9ac02d8e13711eef035931bfd15241ecf5028d1f1e16b5dbcd589661a9f53c168beb9606472659ddfb2092b0e6978cbf086df8ce377d5773d2b6706f189ee30e4d05f98eff8fcb6814086a910dfc84450d35334e017a2daad2ce5ad72751b5e88a7f32bad845dc08e917ecd97b0bedb0f1ea8a6a585cc7c13f9454356624a3d454ebfb5817deb73fbb1f3362983f08b8967b3ceb777d11c32c0cb7643bc
-http://103.84.57.155:8000/play/a02b/index.m3u8
+https://api.iptvbd.xyz/api/set_max_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
 
@@ -566,7 +566,7 @@ http://103.84.57.155:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8
-#http://172.105.123.238:18002/play/a01q
+https://api.iptvbd.xyz/api/sony_wah.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
 #http://103.120.172.74:4100
@@ -659,6 +659,8 @@ http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies HD
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Kadak
 http://14.102.123.50:5001/live/1295.m3u8
 
@@ -980,7 +982,7 @@ http://103.84.57.155:8000/play/a02c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
-
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
@@ -1180,6 +1182,7 @@ http://tv.cloudcdn.me/live.ts?channelId=199&uid=13603&deviceMac=00:1A:79:64:B4:A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 #http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
+https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 #http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
@@ -1338,6 +1341,45 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
 #http://cdn01.palki.tv/live/WION-M/index.m3u8
+
+
+Toffe Playlist M3u8 Link 📡
+
+Sony Sports Ten 1
+https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+Sony Sports Ten 2
+https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+Sony Sports Ten 3
+https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
+Sony Sports Ten 5
+https://api.iptvbd.xyz/api/sony_six_hd.m3u8
+Sony Entertainment SD
+https://api.iptvbd.xyz/api/sony_entertainment.m3u8
+Sony Entertainment HD
+https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
+Sony Max SD
+https://api.iptvbd.xyz/api/sony_max.m3u8
+Sony Max HD
+https://api.iptvbd.xyz/api/set_max_hd.m3u8
+B4U Music
+https://api.iptvbd.xyz/api/b4umusic.m3u8
+Sony Aath
+https://api.iptvbd.xyz/api/sony_aath.m3u8
+Sony Sab HD
+https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
+Sony Max 2
+https://api.iptvbd.xyz/api/sony_max_2.m3u8
+Sony Waw
+https://api.iptvbd.xyz/api/sony_wah.m3u8
+Sony YAY
+https://api.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+Sony BBC EARTH HD
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+Sony PIX
+https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
+B4U Movies
+https://api.iptvbd.xyz/api/b4u_movies.m3u8
+
 
 
 
