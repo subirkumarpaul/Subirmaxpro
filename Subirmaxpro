@@ -996,16 +996,16 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#
+
 
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
-http://14.102.123.50:5001/live/1325.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity HD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_HD_voot_MOB
+
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
@@ -1015,7 +1015,7 @@ http://103.84.57.155:8000/play/a0ce/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
-http://14.102.123.50:5001/live/146.m3u8
+
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
@@ -1347,236 +1347,40 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 Toffe Playlist M3u8 Link 📡
 
-Sony Sports Ten 1
+#EXTINF:-1 group-title="Toffee",Sony Sports Ten 1
 https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
-Sony Sports Ten 2
+#EXTINF:-1 group-title="Toffee",Sony Sports Ten 2
 https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
-Sony Sports Ten 3
+#EXTINF:-1 group-title="Toffee",Sony Sports Ten 3
 https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
-Sony Sports Ten 5
+#EXTINF:-1 group-title="Toffee",Sony Sports Ten 5
 https://api.iptvbd.xyz/api/sony_six_hd.m3u8
-Sony Entertainment SD
+#EXTINF:-1 group-title="Toffee",Sony Entertainment SD
 https://api.iptvbd.xyz/api/sony_entertainment.m3u8
-Sony Entertainment HD
+#EXTINF:-1 group-title="Toffee",Sony Entertainment HD
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
-Sony Max SD
+#EXTINF:-1 group-title="Toffee",Sony Max SD
 https://api.iptvbd.xyz/api/sony_max.m3u8
-Sony Max HD
+#EXTINF:-1 group-title="Toffee",Sony Max HD
 https://api.iptvbd.xyz/api/set_max_hd.m3u8
-B4U Music
+#EXTINF:-1 group-title="Toffee",B4U Music
 https://api.iptvbd.xyz/api/b4umusic.m3u8
-Sony Aath
+#EXTINF:-1 group-title="Toffee",Sony Aath
 https://api.iptvbd.xyz/api/sony_aath.m3u8
-Sony Sab HD
+#EXTINF:-1 group-title="Toffee",Sony Sab HD
 https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
-Sony Max 2
+#EXTINF:-1 group-title="Toffee",Sony Max 2
 https://api.iptvbd.xyz/api/sony_max_2.m3u8
-Sony Waw
+#EXTINF:-1 group-title="Toffee",Sony Wah
 https://api.iptvbd.xyz/api/sony_wah.m3u8
-Sony YAY
+#EXTINF:-1 group-title="Toffee",Sony Yay
 https://api.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
-Sony BBC EARTH HD
+#EXTINF:-1 group-title="Toffee",Sony BBC EARTH HD
 https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
-Sony PIX
+#EXTINF:-1 group-title="Toffee",Sony PIX
 https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
-B4U Movies
+#EXTINF:-1 group-title="Toffee",B4U Movies
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
-
-
-
-
-#EXTINF:0,Planet Fun
-http://103.84.57.155:8000/play/a0au/index.m3u8
-#EXTINF:0,Disney Chan-Rs8
-http://103.84.57.155:8000/play/a03u/index.m3u8
-#EXTINF:0,Star Sports 3 Rs 4
-http://103.84.57.155:8000/play/a02r/index.m3u8
-#EXTINF:0,PTV-Teleschool
-http://103.84.57.155:8000/play/a0b3/index.m3u8
-#EXTINF:0,Disney Jr.-Rs 4
-http://103.84.57.155:8000/play/a03x/index.m3u8
-#EXTINF:0,DiscoveryScienc-Rs1
-http://103.84.57.155:8000/play/a0bw/index.m3u8
-#EXTINF:0,HISTORY TV18 HD-Rs 7
-http://103.84.57.155:8000/play/a09n/index.m3u8
-#EXTINF:0,MAX HD -Rs 17
-http://103.84.57.155:8000/play/a02b/index.m3u8
-#EXTINF:0,FOX Life HD-Rs 2
-http://103.84.57.155:8000/play/a0ce/index.m3u8
-#EXTINF:0,LTN FAMILY
-http://103.84.57.155:8000/play/a0ay/index.m3u8
-#EXTINF:0,Romedy NOW-Rs 6
-http://103.84.57.155:8000/play/a035/index.m3u8
-#EXTINF:0,MOVIES NO-Rs 10
-http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:0,Sony Ten 3 HD- Rs 17
-http://103.84.57.155:8000/play/a02q/index.m3u8
-#EXTINF:0,SET HD - Rs 19
-http://103.84.57.155:8000/play/a084/index.m3u8
-#EXTINF:0,Sony BBC EarHD-Rs 10
-http://103.84.57.155:8000/play/a09q/index.m3u8
-#EXTINF:0,MTV - Rs 3
-http://103.84.57.155:8000/play/a040/index.m3u8
-#EXTINF:0,Star Sport - Rs19
-http://103.84.57.155:8000/play/a02g/index.m3u8
-#EXTINF:0,Kidzone Pakistan
-http://103.84.57.155:8000/play/a0as/index.m3u8
-#EXTINF:0,DiscoveryTurbo-Rs1
-http://103.84.57.155:8000/play/a0bx/index.m3u8#EXTINF:0,BBC WORLD - Rs 1
-http://103.84.57.155:8000/play/a02y/index.m3u8
-#EXTINF:0,Vh1 - Rs 1
-http://103.84.57.155:8000/play/a041/index.m3u8
-#EXTINF:0,PTV-SPORTS-HD
-http://103.84.57.155:8000/play/a0b4/index.m3u8
-#EXTINF:0,PTV-World
-http://103.84.57.155:8000/play/a0b5/index.m3u8
-#EXTINF:0,SIX HD - Rs 19
-http://103.84.57.155:8000/play/a028/index.m3u8
-#EXTINF:0,STAR WOR P HD-Rs9
-http://103.84.57.155:8000/play/a023/index.m3u8
-#EXTINF:0,Sony Ten 4 - Rs 17
-http://103.84.57.155:8000/play/a03r/index.m3u8
-#EXTINF:0,&pictures HD -Rs 19
-http://103.84.57.155:8000/play/a09u/index.m3u8
-#EXTINF:0,SONIC- Rs 2
-http://103.84.57.155:8000/play/a03y/index.m3u8
-#EXTINF:0,STAR BHARAT HD-Rs 19
-http://103.84.57.155:8000/play/a09k/index.m3u8
-#EXTINF:0,MARVEL HQ- Rs 4
-http://103.84.57.155:8000/play/a03w/index.m3u8
-#EXTINF:0,nick HD+- Rs 10
-http://192.168.2.254:8000/
-#http://103.84.57.155:8000/play/a0a4/index.m3u8
-#EXTINF:0,Star Sports1 Kan Rs19 
-http://103.84.57.155:8000/play/a06x/index.m3u8
-#EXTINF:0,Evergreen Classics-Rs45
-http://103.84.57.155:8000/play/a0ca/index.m3u8
-#EXTINF:0,Discovery HD-Rs6
-http://103.84.57.155:8000/play/a00y/index.m3u8
-#EXTINF:0,Insight TV
-http://103.84.57.155:8000/play/a0aw/index.m3u8
-#EXTINF:0,Star Spo 1 HD-Rs19
-http://103.84.57.155:8000/play/a025/index.m3u8
-#EXTM3U
-#EXTINF:0,CNN INTL - 50p
-http://103.84.57.155:8000/play/a02x/index.m3u8
-#EXTINF:0,Star Sports-Rs7
-http://103.84.57.155:8000/play/a02k/index.m3u8
-#EXTINF:0,Star GOLD HD -Rs 10
-http://103.84.57.155:8000/play/a09m/index.m3u8
-#EXTINF:0,Star Sports S 2 HD-Rs 10
-http://103.84.57.155:8000/play/a09z/index.m3u8
-#EXTINF:0,DISCOVERY K-Rs3
-http://103.84.57.155:8000/play/a050/index.m3u8
-#EXTINF:0,PTV-NEWS HD
-http://103.84.57.155:8000/play/a0b2/index.m3u8
-#EXTINF:0,TLC HD- Rs3
-http://103.84.57.155:8000/play/a00s/index.m3u8
-#EXTINF:0,MNX - Rs 6
-http://103.84.57.155:8000/play/a030/index.m3u8
-#EXTINF:0,Colors HD-Rs 19
-http://103.84.57.155:8000/play/a082/index.m3u8
-#EXTINF:0,&flix HD-Rs 19
-http://103.84.57.155:8000/play/a083/index.m3u8
-#EXTINF:0,MN+ HD-Rs 10
-http://103.84.57.155:8000/play/a08s/index.m3u8
-#EXTINF:0,National G HD-Rs10
-http://103.84.57.155:8000/play/a00x/index.m3u8
-#EXTINF:0,Star Spo 2 HD- Rs19
-http://103.84.57.155:8000/play/a026/index.m3u8
-#EXTINF:0,Star Sport-Rs19
-http://103.84.57.155:8000/play/a02d/index.m3u8
-#EXTINF:0,Nick Jr. - Rs1
-http://103.84.57.155:8000/play/a042/index.m3u8
-#EXTINF:0,Pogo - Rs 4.25
-http://103.84.57.155:8000/play/a03z/index.m3u8
-#EXTINF:0,ZEE CINEMA HD-Rs 19
-http://103.84.57.155:8000/play/a09j/index.m3u8#EXTINF:0,Star Sport- Rs19
-http://103.84.57.155:8000/play/a02e/index.m3u8
-#EXTINF:0,Star Gold 2- Rs 2
-http://103.84.57.155:8000/play/a0c9/index.m3u8
-#EXTINF:0,ZEE Cafe HD - Rs19
-http://103.84.57.155:8000/play/a08r/index.m3u8
-#EXTINF:0,nick - Rs 6
-http://103.84.57.155:8000/play/a03v/index.m3u8
-#EXTINF:0,Star Plus HD -Rs 19
-http://103.84.57.155:8000/play/a080/index.m3u8
-#EXTINF:0,PTV-FEED
-http://103.84.57.155:8000/play/a0b6/index.m3u8
-#EXTINF:0,CARTOON-Rs4.25
-http://103.84.57.155:8000/play/a04t/index.m3u8
-#EXTINF:0,MTV Beats- 10p
-http://103.84.57.155:8000/play/a045/index.m3u8#EXTINF:0,Sony Ten 1 HD- Rs 19
-http://103.84.57.155:8000/play/a027/index.m3u8
-#EXTINF:0,Movie One
-http://103.84.57.155:8000/play/a0ax/index.m3u8
-#EXTINF:0,Filmax
-http://103.84.57.155:8000/play/a0az/index.m3u8
-#EXTINF:0,POP Kids HD
-http://103.84.57.155:8000/play/a0at/index.m3u8
-#EXTINF:0,NAT Geo Wild HD-Rs 5
-http://103.84.57.155:8000/play/a02c/index.m3u8
-#EXTINF:0,ZEE TV HD-Rs 19
-http://103.84.57.155:8000/play/a081/index.m3u8
-#EXTINF:0,Star Gold Thrills- Rs 2
-http://103.84.57.155:8000/play/a0c7/index.m3u8
-#EXTINF:0,Star Sports S 1 HD-Rs 19
-http://103.84.57.155:8000/play/a09y/index.m3u8
-#EXTINF:0,Star Sport-Rs17
-http://103.84.57.155:8000/play/a02p/index.m3u8
-#EXTINF:0,Star Gold SelHD-Rs 10
-http://103.84.57.155:8000/play/a09p/index.m3u8
-#EXTINF:0,STAR WORLD HD -Rs9
-http://103.84.57.155:8000/play/a024/index.m3u8
-#EXTINF:0,Star Sports1 Kan Rs19 http://103.84.57.155:8000/play/a02s/index.m3u8
-#EXTINF:0,Capital TV
-http://103.84.57.155:8000/play/a0cm/index.m3u8
-#EXTINF:0,PTV-Home
-http://103.84.57.155:8000/play/a0b1/index.m3u8
-#EXTINF:0,SONY SAB - Rs 19
-http://103.84.57.155:8000/play/a0a8/index.m3u8#EXTINF:0,&PRIVE HD-Rs 19
-http://103.84.57.155:8000/play/a0a6/index.m3u8
-#EXTINF:0,INPLUS Pakistan
-http://103.84.57.155:8000/play/a0cn/index.m3u8
-#EXTINF:0,&flix - Rs 15
-http://103.84.57.155:8000/play/a033/index.m3u8
-#EXTINF:0,Planet Fun
-http://103.84.57.155:8000/play/a0cl/index.m3u8
-#EXTINF:0,Champions TV
-http://103.84.57.155:8000/play/a0av/index.m3u8
-#EXTINF:0,ANIMAL PLAN HD-Rs 3
-http://103.84.57.155:8000/play/a09l/index.m3u8
-#EXTINF:0,Kidzone Pakistan
-http://103.84.57.155:8000/play/a0ck/index.m3u8
-#EXTINF:0,STAR MOV HD-Rs 19
-http://103.84.57.155:8000/play/a00v/index.m3u8
-#EXTINF:0,SONY MAX 2 - Rs 1
-http://103.84.57.155:8000/play/a0cc/index.m3u8
-#EXTINF:0,Star Gold Romance- Rs 2
-http://103.84.57.155:8000/play/a0c8/index.m3u8
-#EXTINF:0,Sony Ten 2 HD- Rs 17
-http://103.84.57.155:8000/play/a0a0/index.m3u8
-#EXTINF:0,StarMov S HD-Rs 10
-http://103.84.57.155:8000/play/a00w/index.m3u8
-#EXTINF:0,PIX HD - Rs 15
-http://103.84.57.155:8000/play/a09t/index.m3u8
-#EXTINF:0,DISCOVERY K-Rs3
-http://103.84.57.155:8000/play/a044/index.m3u8
-#EXTINF:0,hungama tv-Rs 6
-http://103.84.57.155:8000/play/a03t/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
