@@ -1043,9 +1043,11 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Xlpore English
