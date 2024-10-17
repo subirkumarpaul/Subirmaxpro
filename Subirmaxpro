@@ -1115,12 +1115,11 @@ http://14.102.123.50:5001/live/1341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
-https://fifabangladesh.live/VHOD/go.php?id=Nick_HD_Plus_voot_MOB
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick JR
-https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
-http://103.84.57.155:8000/play/a042/index.m3u8
+http://103.110.110.11:8081/live/NickJR/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic Bangla
