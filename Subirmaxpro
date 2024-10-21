@@ -322,6 +322,8 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Hare Krishna
+https://cdn.live.shemaroome.com/harekrsnatv/smil:harekrsnatvadp.smil/chunklist_b1873057_sleng.m3u8?hdnts=st%3D1729531978%7Eexp%3D1729542778%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D4a9cff441c74ee53027ed8d06dd658b61482cb0a87586bb796bba40cd48e5382
+#EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Hare Krishna
 https://yuppnimrestreammum.akamaized.net/290723/smil:harekrishna1.smil/hdntl=exp=1729617896~acl=%2f*~data=hdntl~hmac=f258253d4c103e259956ae1ca78292b3542e7a434f4d484d6f189ca2677357c0/chunklist_b696000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relagion Channel", Aastha TV
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1928000.m3u8
