@@ -1,38 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports ",Live
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://tsports.iptvbd.xyz/master_1080.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Woman World Cup T20 ",Nagorik TV
-
-
-#EXTINF:-1 tvg-logo=""group-title="BD VS IN",BD VS SA Sony Liv
-https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Toffee Live
-
-#EXTINF:-1 tvg-logo=""group-title="BD VS IN",BD VS SA T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=xg0MxScfF9qw1cq_UDXWlA&expires=1729699119&user=811838a63b224e85b02b925b31d0fece
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN T Sports
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN T Sports
-http://starshare.live:8080/live/Leroy123/Leroy123/18452.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Sports18 1 HD
-http://opplex.tv:8080/live/global/global/382205.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Sports18 1 HD
-http://opplex.tv:8080/live/global/global/382205.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN TNT Sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Cricbuzz Live 1 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Jio TV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Willow Cricket
-https://proximity-fire-team.xyz/play.php/willowusa.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN T Sports
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN T Sports
-
-#EXTINF:-1 tvg-logo=""group-title="Sports",Toffee Sports
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Toffee Sports
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
