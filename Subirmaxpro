@@ -2,9 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://tsports.iptvbd.xyz/master_1080.m3u8
+https://fr.globalplay.live/Sports-19/tracks-v1a1/mono.m3u8?token=424c9468b284b0a6d65430864731874ef5b163d2-0f66db08b1bbc2ccb8e2c4f1919c8c47-1730890676-1730879876
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8?token=f5d174329619afe69b6222da015219e0edbd7b66-2b0089d6749c9034788ceb32b09dee69-1730890760-1730879960
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",TNT Sports
 https://fr.globalplay.live/Sports-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",PK VS AUS
