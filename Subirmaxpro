@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+http://xtv.ooo:8080/live/global/global/167585.ts
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://fr.globalplay.live/Sports-19/tracks-v1a1/mono.m3u8?token=424c9468b284b0a6d65430864731874ef5b163d2-0f66db08b1bbc2ccb8e2c4f1919c8c47-1730890676-1730879876
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
