@@ -1,18 +1,22 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Toffee
+https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://starshare.live:8080/live/Leroy123/Leroy123/130714.ts
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://xtv.ooo:8080/live/global/global/167590.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://xtv.ooo:8080/live/global/global/167585.ts
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://fr.globalplay.live/Sports-19/tracks-v1a1/mono.m3u8?token=424c9468b284b0a6d65430864731874ef5b163d2-0f66db08b1bbc2ccb8e2c4f1919c8c47-1730890676-1730879876
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8?token=f5d174329619afe69b6222da015219e0edbd7b66-2b0089d6749c9034788ceb32b09dee69-1730890760-1730879960
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",TNT Sports
 https://fr.globalplay.live/Sports-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",PK VS AUS
@@ -329,7 +333,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mAathStar%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
+http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
@@ -375,7 +379,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies
-https://tgaadi-web.tech/portal/play.php?stream=117
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
