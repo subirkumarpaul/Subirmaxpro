@@ -723,6 +723,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://bapatv.live:8080/starsports2-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
 https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd?nimblesessionid=1734416873
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD
+https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/segment_u8vqom2v3_ctvideo_cfm4s_ridp0va0br500000_cs3650445270_mpd.m4s?nimblesessionid=1734424565
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 http://103.120.172.74:4200
 
