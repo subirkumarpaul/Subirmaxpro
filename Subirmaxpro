@@ -748,7 +748,7 @@ http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 http://103.120.172.74:5400
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
-https://tgaadi-web.tech/portal/play.php?stream=289
+http://bapatv.live:8080/sonyten1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
@@ -757,7 +757,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 http://103.120.172.74:4800
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
-https://tgaadi-web.tech/portal/play.php?stream=290
+http://bapatv.live:8080/54-sonysports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
@@ -777,8 +777,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://103.120.172.74:5300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5.
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
-#http://14.102.123.50:5001/live/155.m3u8
+http://bapatv.live:8080/sonysports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 
 
@@ -855,10 +854,10 @@ https://tgaadi-web.tech/portal/play.php?stream=302
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
 https://tgaadi-web.tech/portal/play.php?stream=287
 
-#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
-
+#EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
+	http://bapatv.live:8080/hls/beinsp-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Football
-
+http://bapatv.live:8080/sfootball/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
 https://cdn1.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
@@ -866,7 +865,7 @@ https://cdn1.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
 http://opplex.tv:8080/live/global/global/167594.ts
 #EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
-
+http://bapatv.live:8080/skysportsfootball/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Sky Sports Football
 https://tgaadi-web.tech/portal/play.php?stream=308
 
