@@ -734,11 +734,11 @@ https://donelfantastic.github.io/live/starSportsIn3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-https://tgaadi-web.tech/portal/play.php?stream=299
+https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd?nimblesessionid=1734415646
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-https://tgaadi-web.tech/portal/play.php?stream=300
+https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd?nimblesessionid=1734415646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
@@ -834,9 +834,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://tgaadi-web.tech/portal/play.php?stream=301
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
-
+https://moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?nimblesessionid=1734415522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
-http://xtv.ooo:8080/live/865@moiz/2015486520/167587.m3u8
+
 
 
 #EXTINF:-1,Fox Sports Cricket 501
@@ -1215,8 +1215,7 @@ http://103.84.57.155:8000/play/a030/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
-https://fifabangladesh.live/VHOD/go.php?id=And_Flix_HD_MOB
-http://14.102.123.50:5001/live/1322.m3u8
+https://moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.mpd?nimblesessionid=1734415339
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
 
 
