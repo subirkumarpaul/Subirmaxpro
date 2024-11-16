@@ -872,13 +872,13 @@ http://bapatv.live:8080/skysportsfootball/tracks-a1/mono.m3u8
 https://tgaadi-web.tech/portal/play.php?stream=308
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 1
-http://opplex.tv:8080/live/global/global/346373.ts
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 2
-http://opplex.tv:8080/live/global/global/346374.ts
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 3
-https://tgaadi-web.tech/portal/play.php?stream=269
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Sports",TNT Sports 4
-http://opplex.tv:8080/live/global/global/346376.ts
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -892,6 +892,20 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Astro Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 
+
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 1
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 2
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 3
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 4
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 5
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+#EXTINF:-1 tvg-logo=""group-title="Sports",Sports TV 6
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
