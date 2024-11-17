@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Toffee
-https://proximitybd.xyz/tsp.php/willowusa.m3u8
+http://bapatv.live:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
