@@ -15,11 +15,11 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://starshare.live:8080/live/Leroy123/Leroy123/130714.ts
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://xtv.ooo:8080/live/global/global/167585.ts
+http://xtv.:8080/live/global/global/167585.ts
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://103.175.242.10:8080/sports18/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-
+https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://sports.lvyclv.com/live/m33735002/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
