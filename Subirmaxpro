@@ -13,7 +13,7 @@ http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://starshare.live:8080/live/Leroy123/Leroy123/130714.ts
+https://cdn247.xyz/AGB/play.php?key=AKI&c=skyscric&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
