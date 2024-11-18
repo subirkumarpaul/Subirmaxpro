@@ -5,23 +5,23 @@ http://gcp-dash.ngslbs.com/TVD001/index.mpd
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://bapatv.live:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+http://stvlive.net:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/tensports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://cdn247.xyz/AGB/play.php?key=AKI&c=skyscric&e=.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-http://103.175.242.10:8080/sports18/tracks-v1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://solhtvhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://sports.lvyclv.com/live/m33735002/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://spstr.abntv.live/hls/psstream.m3u8
 
@@ -185,6 +185,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",METV
+http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla",Channel S UK HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
@@ -605,13 +608,13 @@ http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
-https://tgaadi-web.tech/portal/play.php?stream=196
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://217.20.112.199/stargold2/index.m3u8
+http://stvlive.net:8080/stargold2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://103.84.57.155:8000/play/a0c8/index.m3u8
@@ -1173,7 +1176,7 @@ https://ythls-v3.onrender.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
-http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
@@ -1196,12 +1199,11 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
-#http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-#http://xtv.ooo:8080/live/865@moiz/2015486520/109966.m3u8
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
+http://stvlive.net:8080/sonypix/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
 https://tgaadi-web.tech/portal/play.php?stream=212
@@ -1211,9 +1213,9 @@ https://tgaadi-web.tech/portal/play.php?stream=212
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now
-http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/moviesnow-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
-
+http://stvlive.net:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
 
