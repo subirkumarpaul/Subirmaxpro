@@ -7,7 +7,7 @@ http://bapatv.live:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://stvlive.net:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-
+https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 http://stvlive.net:8080/tensports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
