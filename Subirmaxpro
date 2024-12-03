@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Asia Cup
+https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live T10
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live T10
