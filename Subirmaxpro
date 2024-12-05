@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Asia Cup
-https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733412990/ei/HnRRZ_umIqHQ9fwPrK7sUA/ip/162.158.9.130/id/kbnNfOYWpQk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/spc/qtApAeR2IoR2noXn07oxMAona5UgNb8-nNOWguLU190uSXlLFnBwAlxcj__7nuQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOzs2Whb9qY0nbP_BP6p1DICdDCuuGP_T5WWCzuZ4lIUCIGbybQ58mIMMUl3UuLqA9gquMSPDzifTujqNrTo9kbqC/file/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live T10
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live T10
