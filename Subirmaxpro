@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Elevation
-http://index2.circleftp.net/FILE/English%20Movies/2024/Elevation%20%282024%29%201080p%20WEBRip%20x264/Elevation%20%282024%29%201080p%20WEBRip%20x264.mp4
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 https://tmsbd.top/jig/All%20Channels/m3u8.php?id=t_sports&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
@@ -1458,6 +1458,22 @@ http://10.16.100.206/ftps3/ftps3d3/TV%20Show/Bangla%20(Kolkata)/Gentlemen%20Seas
 #EXTINF:-1 tvg-logo="" group-title="Web Series",Gentlemen(S1E9)
 http://10.16.100.206/ftps3/ftps3d3/TV%20Show/Bangla%20(Kolkata)/Gentlemen%20Season%2001%20(2023)%20Completed/Gentlemen%20S01E09.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E1)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E01%20-%20Kaagaz%20Ke%20Phool.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E2)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E02%20-%20Guide.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E3)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E03%20-%20Mughal-E-Azam.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E4)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E04%20-%20Hum%20Kisi%20Se%20Kam%20Nahin.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E5)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E05%20-%20Chaudvin%20Ka%20Chand.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E6)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E06%20-%20Qurbani.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E7)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E07%20-%20Shatranj%20Ke%20Khiladi.mkv
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops(S1E8)
+http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Special%20OPS%20%28TV%20Series%202020-%29/Season%201%201080p/Special%20Ops%20-%20S01E08%20-%20Sholay.mkv
 
 
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/bad_newz.jpg" group-title="Movies",Bad News
