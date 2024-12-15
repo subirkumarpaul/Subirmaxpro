@@ -691,7 +691,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-https://evbr.short.gy/BDStreamHub/Goldmines.ts
+https://port.yuvraj.fun/ch/823.m3u8
 http://172.105.123.238:18002/play/a00z
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
@@ -955,10 +955,11 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery HD Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+#https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
 #https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
+https://port.yuvraj.fun/ch/341.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
@@ -1002,8 +1003,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD 
-http://cflare.mooo.com/test/natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
+https://port.yuvraj.fun/ch/605.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
 
 
@@ -1040,13 +1041,13 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
-http://103.84.57.155:8000/play/a0ce/index.m3u8
+https://port.yuvraj.fun/ch/367.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Star Life HD
 
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
-
+https://port.yuvraj.fun/ch/616.m3u8
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
