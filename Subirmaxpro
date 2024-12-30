@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://tmsbd.top/jig/All%20Channels/m3u8.php?id=t_sports&e=.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
-https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live T10
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
