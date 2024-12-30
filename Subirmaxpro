@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
