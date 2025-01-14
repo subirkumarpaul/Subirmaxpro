@@ -801,7 +801,7 @@ https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
 #http://103.120.172.74:4800
 https://bdixtv24.site/toffee/live.php?id=abc6677968ef&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
-http://bapatv.live:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+http://103.96.235.18:8080/bd-tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
