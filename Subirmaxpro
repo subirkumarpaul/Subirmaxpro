@@ -90,7 +90,7 @@ http://172.105.123.238:18002/play/a038
 #http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU"group-title="Bangla",BTV News
-http://xtv.ooo:8080/live/danyear12/am809100/245922.ts
+http://xtv.ooo:8080/live/danyear12/am809100/245922.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
