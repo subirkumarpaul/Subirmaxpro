@@ -9,7 +9,7 @@ http://lkn1.chowdhury-shaheb.com/tsport/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
-https://starshare.live/live/KVSingh/KVSingh/18452.m3u8
+https://starshare.live/KVSingh/KVSingh/18452
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
 https://raw.github.com/Mohammad-Apon/BPL-2025/main/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
@@ -43,7 +43,7 @@ http://172.105.123.238:18002/play/a038
 #http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU"group-title="Bangla",BTV News
-http://xtv.ooo:8080/live/danyear12/am809100/245922.m3u8
+http://xtv.ooo:8080/danyear12/am809100/245922
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
