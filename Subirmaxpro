@@ -6,17 +6,15 @@
 http://xtv.ooo:8080/danyear12/am809100/167583
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
 http://xtv.ooo:8080/danyear12/am809100/346373
-#http://lkn1.chowdhury-shaheb.com/tsport/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
 http://xtv.ooo:8080/danyear12/am809100/233178
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
 http://xtv.ooo:8080/danyear12/am809100/109988
 #https://starshare.live/KVSingh/KVSingh/18452
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
 https://raw.github.com/Mohammad-Apon/BPL-2025/main/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
-http://lkn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
@@ -51,20 +49,20 @@ http://xtv.ooo:8080/danyear12/am809100/245922
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-https://giveawayzone.xyz/m/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-https://fredflix.xyz/ctc/bz.php?id=https://live-cdn.tsports.com/live-01/master_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-https://fredflix.xyz/ctc/bz.php?id=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://bapatv.live:8080/gtv2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 
 
