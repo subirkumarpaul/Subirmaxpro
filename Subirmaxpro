@@ -2,28 +2,29 @@
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://xtv.ooo:8080/danyear12/am809100/167583
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 http://xtv.ooo:8080/danyear12/am809100/346373
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 http://xtv.ooo:8080/danyear12/am809100/233178
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Ind VS Eng
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 http://xtv.ooo:8080/danyear12/am809100/109988
 #https://starshare.live/KVSingh/KVSingh/18452
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://raw.github.com/Mohammad-Apon/BPL-2025/main/live.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",BPL 2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://spstr.abntv.live/hls/psstream.m3u8
 
 
@@ -49,9 +50,9 @@ http://xtv.ooo:8080/danyear12/am809100/245922
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
