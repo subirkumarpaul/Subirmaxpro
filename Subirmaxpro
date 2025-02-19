@@ -4,11 +4,12 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://t.kyni.us/live.php?id=match-1&e=.m3u8
-http://xtv.ooo:8080/danyear12/am809100/167583
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Bangla
 https://t.kyni.us/live.php?id=match-2&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://streamcdn2.nayeem-parvez.workers.dev/StarSports1HDx/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
+http://xtv.ooo:8080/danyear12/am809100/167583
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 http://xtv.ooo:8080/danyear12/am809100/346373
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
