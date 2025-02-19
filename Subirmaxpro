@@ -31,6 +31,22 @@ https://criccoder.pages.dev/astro.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Star sports 1 HD
+https://hocdn.news/live/star1in.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Star Sports 1 Hindi
+https://hocdn.news/live/starhindi.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Sky Sports  Cricket
+https://hocdn.news/live/skyscric.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy PTV Sports
+https://hocdn.news/live/ptvpk.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Willow Cricket HD
+https://hocdn.news/live/willowusa.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy SuperSport Cricket HD
+https://hocdn.news/live/supercricket.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy Willow Cricket Extra
+https://hocdn.news/live/willowextra.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10"group-title="ICC Champions Trophy",ICC Champions Trophy A Sports HD
+https://hocdn.news/live/asportshd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
