@@ -3,9 +3,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
@@ -35,21 +35,21 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/star1in.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/starhindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/skyscric.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/ptvpk.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/willowusa.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/supercricket.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/willowextra.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
-https://hocdn.news/live/asportshd.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
