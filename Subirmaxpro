@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo=""group-title="Brazil VS Argentina",Brazil VS Argentina
+http://xtv.ooo:8080/danyear12/am809100/353561
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="IPL 2025",IPL 2025
