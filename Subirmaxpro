@@ -178,7 +178,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
-http://103.240.4.59:8080/Nagorik-Tv/tracks-v1a1/mono.m3u8
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 
 
@@ -353,7 +353,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
-https://its-ferdos-alom.top/star7/live.php?id=178510
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://iptvcable.netlify.app/Altogether-007/Kolkata/SonyAath.m3u8
@@ -388,7 +388,7 @@ https://web.fredflix.fun/mac.php?cid=92&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
-
+http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
 http://xtv.ooo:8080/danyear12/am809100/245906
 
@@ -975,9 +975,10 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Bangla HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
+#https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
-http://xtv.ooo:8080/live/danyear12/am809100/245966.m3u8
+#http://xtv.ooo:8080/live/danyear12/am809100/245966.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
@@ -1003,6 +1004,7 @@ https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet
+http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
@@ -1014,7 +1016,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
@@ -1026,18 +1028,20 @@ http://xtv.ooo:8080/live/danyear12/am809100/245967.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
 http://tv.cloudcdn.me/live.ts?channelId=177&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
-http://cflare.mooo.com/test/natgeowild.m3u8
+http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
+http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth HD
+http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
-
-
+#EXTINF:-1 tvg-logo="" group-title="Information",BBC Lifestyle
+http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
@@ -1060,15 +1064,15 @@ https://port.yuvraj.fun/ch/367.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
-https://port.yuvraj.fun/ch/616.m3u8
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18 HD
+http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
-
+http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Hindi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
@@ -1207,22 +1211,24 @@ https://ythls-v3.onrender.com/channel/UCNEKMkg_DG8eAyR1BNWsSvw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
+http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
+#http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
-http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
+http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
-http://tv.cloudcdn.me/live.ts?channelId=199&uid=13603&deviceMac=00:1A:79:64:B4:A6
+http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=199&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
-
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M-Net Movies 1
-
+http://103.122.74.6:8888/hls/HBO.HD.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO Hits
+http://103.122.74.6:8888/hls/HBO.HITS.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
