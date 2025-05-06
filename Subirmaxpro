@@ -58,12 +58,14 @@ http://xtv.ooo:8080/danyear12/am809100/221417
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 #http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
-https://its-ferdos-alom.top/star7/live.php?id=178535
 #http://103.175.242.10:8080/hls/btv/tracks-v1a1/mono.m3u8
 #http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://38.96.178.201/live/BTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
 http://xtv.ooo:8080/danyear12/am809100/245922
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
