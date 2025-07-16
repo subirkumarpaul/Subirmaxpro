@@ -681,15 +681,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-https://port.yuvraj.fun/ch/823.m3u8
-http://172.105.123.238:18002/play/a00z
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Bollywood 
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 http://172.105.123.238:18002/play/a012
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-http://172.105.123.238:18002/play/a01j
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GOLDMINES", Goldminnes Thtills
 http://172.105.123.238:18002/play/a01h
