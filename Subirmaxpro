@@ -11,8 +11,9 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
 https://idx.gdplayertv.to/embed/willow-cricket/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
-
-
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
+https://cors-proxy.cooks.fyi/163.172.59.25/crc1/tracks-v1a1/mono.m3u8
 
 
 
