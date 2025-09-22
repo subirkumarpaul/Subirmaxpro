@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
-https://xfireflix.fun/Ayna/match.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
-http://45.148.145.57/ptvS/tracks-v1a1/mono.m3u8
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_1300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
-https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_1080p.m3u8
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
-https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/hdntl=exp=1752224858~acl=%2f*~id=1c90cfdf-41fb-46ee-9001-e65e7e3eaf3c~data=hdntl~hmac=bf7104c0ffac89533557334050bb6d10c8e957018114c87cabce14f92f10f4dd/master_3500.m3u8
+https://idx.gdplayertv.to/embed/willow-cricket/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png"group-title="Asia Cup",Asia Cup
 
 
