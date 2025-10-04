@@ -19,7 +19,7 @@ https://dontknow@hocdn.news/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-http://10.16.100.214:8080/hls/PtvSportsHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
 
 
@@ -29,15 +29,15 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://tvsen6.aynaott.com/CricketGold/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 ##EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
@@ -46,9 +46,9 @@ https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 #http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
-#http://103.175.242.10:8080/hls/btv/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/hls/btv/tracks-v1a1/mono.m3u8
 #http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
-https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
 http://xtv.ooo:8080/danyear12/am809100/245922
