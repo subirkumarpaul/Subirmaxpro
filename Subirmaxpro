@@ -1139,6 +1139,9 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Information",Trave Channel
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
