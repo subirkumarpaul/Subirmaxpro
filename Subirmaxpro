@@ -655,12 +655,13 @@ http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
 #http://103.120.172.74:4100
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+#http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinemahd1.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 #http://103.175.242.10:8080/63-Zeecinema/tracks-v1a1/mono.m3u8
-http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema UK
