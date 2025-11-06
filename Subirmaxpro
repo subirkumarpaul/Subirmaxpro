@@ -1,37 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-https://bongoflixbd.top/stream.php?id=abfabaee-3898-4279-8645-3da5b0232867
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Z6zFJ-S_-oUzF7K-0cVIpH42ZSfph1I9OQWX3EGGkuLdRHOPaywGo8&sx"group-title="ICC Women's World Cup 2025",ICC Women's World Cup 2025
-
-
-
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
