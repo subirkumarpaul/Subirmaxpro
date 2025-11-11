@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011429635_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
