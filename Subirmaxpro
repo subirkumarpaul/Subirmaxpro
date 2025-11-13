@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
@@ -17,10 +17,10 @@ https://bd-mc-fdlive.fancode.com/mumbai/137284_english_hls_99e371413130797_1ta-d
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1762418051&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c48b8f74b889a9835fd440788c7eeab2
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://103.175.242.10:8080/sonyten1/index.m3u8
-https://tvsen5.aynascope.net/snTn1HD/index.m3u8?e=1762418080&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=6fe633f02c7a8661ed5093c35f58f354
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://103.175.242.10:8080/sonyten2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
@@ -40,7 +40,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-http://xtv.ooo:8080/danyear12/am809100/245922
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 
 
