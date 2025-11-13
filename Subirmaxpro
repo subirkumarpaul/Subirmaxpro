@@ -122,6 +122,11 @@ https://tvsen7.aynascope.net/ntveurope/index.m3u8?e=1762417941&u=5448cf91-5746-4
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1762417690&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=5fb1af49f7b30fb9e41d03d9884f0f6c
 #http://cdn01.palki.tv/live/RTV-M/index.m3u8
 #https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Channels",RTV
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763025582&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5f4fd86e81269ca9ef9e4c4d753904f3
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangla",SATV
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
