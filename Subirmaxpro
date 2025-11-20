@@ -2,34 +2,33 @@
 
 
 
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+http://103.240.44.26/Sony-Ten-3-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://hugh.cdn.rumble.cloud/live/b9exd20e/slot-29/ogp1-opu9_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-https://bd-mc-fdlive.fancode.com/mumbai/137284_english_hls_99e371413130797_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-http://103.175.242.10:8080/sonyten1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-http://103.175.242.10:8080/sonyten2/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-http://103.175.242.10:8080/sonyten3/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
-http://103.175.242.10:8080/sonyten5/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-##EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",Live Sports
 https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
 
 
