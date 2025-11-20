@@ -1099,7 +1099,7 @@ http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth HD
-http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Lifestyle
 http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
@@ -1163,6 +1163,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature UHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",4k Nature
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Xlpore English
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
