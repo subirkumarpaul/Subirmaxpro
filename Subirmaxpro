@@ -1509,7 +1509,7 @@ http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Mission: Impossible – The Final Reckoning
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Bad Boys Ride or Die
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2024/Bad%20Boys%20Ride%20or%20Die%20%282024%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Bad%20Boys%20Ride%20or%20Die%20%282024%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
+
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Alienoid
 http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Dual%20Audio/Alienoid%20(Oegye+in%201bu)%20(2022)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Toworrowland
@@ -1518,14 +1518,6 @@ http://10.16.100.202/ftps10/iccftps10sasd8/Movies/English/Tomorrowland%20(2015)%
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/English/Dora%20and%20the%20Search%20for%20Sol%20Dorado%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",The Time Machaine
 
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E1)
-http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E01.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E2)
-http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E3)
-http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E03.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Special Ops 1.5: The Himmat Story (S1.5E4)
-http://10.16.100.206/ftps3/ftps3d1/TV%20Show/Hindi/Special%20Ops%201.5%20The%20Himmat%20Story%20Season%2001%20(2021)%20Completed/Special%20Ops%201.5%20The%20Himmat%20Story%20S01E04.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="Web Series",The Bads of Bollywood(S1E1)
@@ -1683,10 +1675,6 @@ http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/South%20Indian%20(Hindi%20D
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Kuberaa
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Agent
-http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/South%20Indian%20(Hindi%20Dubbed)/3BHK%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Maareesan
-http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/PT%20Sir%20(2024)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Kannappa
 
 EXTINF:-1  tvg-logo="" group-title="Hindi Dabbing Movies",Rangasthalam
 
