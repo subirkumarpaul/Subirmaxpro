@@ -2,29 +2,29 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/25/tracks-v1a1/mono.m3u8?token=1f6ffc7fa4050b4592372ad4a3ce2b8c525132fb-54e2b8266fee71cd73e96e6eff1c62a6-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/26/tracks-v1a1/mono.m3u8?token=39a1a9e598670614eacc3501723d341e4b562f12-c4c0ef9b6c108553ad13e03638efda05-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/1/tracks-v1a1/mono.m3u8?token=042dbfe379160919d05523ab7e05e92d845a1624-e35bcc7907ed740087a31929c8ab8d4f-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/Sony-Ten-3-HD/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/20/tracks-v1a1/mono.m3u8?token=c30e4e24173b92e31b1e518648f093724da0a105-c6f3ffc0211806e762f6258f3eaa4c4a-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/21/tracks-v1a1/mono.m3u8?token=f682897797acc40ff8cbe2b958947acb0d4bf229-d378bdd40e7439b6961d7dd7fb4cc63e-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/bk/22/tracks-v1a1/mono.m3u8?token=dddbc1ccd816eeedbd8fb82a74a5d1b16c55cfa3-e4a603ce6273acdc44f3680cb55d05fb-1764497318-1764486518
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+http://103.166.152.22:8080/roarzone/bk/24/tracks-v1a1/mono.m3u8?token=ce4a3c2aa7ffa2b010b5a10562a2a8b9f148de8c-1fd6195566890a9cf3000eea6e6c9adb-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.240.44.26/GEO-Super/tracks-v1/index.fmp4.m3u8
+http://103.166.152.22:8080/roarzone/toffee/ten_cricket/tracks-v1a1/mono.m3u8?token=c8c68c88bc6d44b2880a90a1c91b0354dc872b22-d4afe57b40c94825c443b8c3a69fd1cb-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-https://l.lioncdn.net/TNT-Sports-1/index.m3u8
+http://103.166.152.22:8080/roarzone/bk/28/tracks-v1a1/mono.m3u8?token=10552ba44a156ff58379aac2169e513885bd478c-344f3d7ceba0af2e5efbc2fb83754010-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-https://l.lioncdn.net/TNT-Sports-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-https://l.lioncdn.net/TNT-Sports-3/index.m3u8
+http://103.166.152.22:8080/roarzone/bk/27/tracks-v1a1/mono.m3u8?token=4b669c85194f7373089bd47105031b88d1cdf811-db613ba45108eb8e94caa406cabbf8cf-1764497318-1764486518
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://l.lioncdn.net/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
@@ -397,7 +397,7 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/SonyAath.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mAathStar%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
+http://103.166.152.22:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=4d2664b03a9410c2de125bc3d3d7c9d95e4fa98b-c6777d6d222d7df93b055753695ad3b1-1764497318-1764486518
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
