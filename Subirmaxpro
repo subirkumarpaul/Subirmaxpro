@@ -782,7 +782,7 @@ https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 http://172.105.123.238:18002/play/a024
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
-http://tv.cloudcdn.me/live.ts?channelId=210&uid=1868&deviceMac=00:1A:79:94:98:FE
+http://87.255.35.150:18861/
 
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 
