@@ -2,71 +2,30 @@
 
 
 
-#EXTINF:-1, Willow TV
-http://87.255.35.150:18957/index.ts
-#EXTINF:-1 tvg-id="1751" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1751.7.1.png",Star Sports 1 HD
-http://ctv.sungohd.com:18891/index.ts
-#EXTINF:-1 tvg-id="1753" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1753.7.1.png",Star Sports 2 HD
-http://ctv.sungohd.com:18892/index.ts
-#EXTINF:-1 tvg-id="1645" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1645.7.2.png",Star Sports Tamil HD
-http://87.255.35.150:18844/index.ts
-#EXTINF:-1 tvg-id="1565" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1565.7.5.png",Star Sports 3
-http://ctv.sungohd.com:18804/index.ts
-#EXTINF:-1 tvg-id="1755" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1755.7.2.png",Star Sports Select HD 1
-http://ctv.sungohd.com:18893/index.ts
-#EXTINF:-1 tvg-id="2003" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2003.7.1.png",Star Sports Select HD 2
-http://ctv.sungohd.com:18952/index.ts
-#EXTINF:-1 tvg-id="2147" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2147.7.4.png",Star Movies HD
-http://ctv.sungohd.com:18301/index.ts
-#EXTINF:-1 tvg-id="1633" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1633.7.2.png",Colors Infinity HD
-http://ctv.sungohd.com:18838/index.ts
-#EXTINF:-1 tvg-id="2418" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2418.7.3.png",Zee Cafe HD
-http://ctv.sungohd.com:18547/index.ts
-#EXTINF:-1 tvg-id="2238" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2238.7.2.png",Sony Pix HD
-http://ctv.sungohd.com:18495/index.ts
-#EXTINF:-1 tvg-id="2239" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2239.7.2.png",&Prive HD
-http://ctv.sungohd.com:18494/index.ts
-#EXTINF:-1 tvg-id="2035" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2035.7.4.png",Big Boss Tamil HD
-http://ctv.sungohd.com:18966/index.ts
-
-#EXTINF:-1 tvg-id="2035" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2035.7.4.png",jiotv
-https://mini.allinonereborn.fun/jiotv-in4/app/ts_live_817.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZWYhtvp/Penthouse-Gold.png",Penthouse Gold
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ea2af43c32671ae610492a42eb9d3d:8c93d80f9aef8ff702743eafda810b91
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-https://1a-1791.com/live/y16rq9u0/slot-137/6odd-ekvt/chunklist.m3u8
+http://ctv.sungohd.com:18891
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/26/tracks-v1a1/mono.m3u8?token=39a1a9e598670614eacc3501723d341e4b562f12-c4c0ef9b6c108553ad13e03638efda05-1764497318-1764486518
+http://ctv.sungohd.com:18892
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/1/tracks-v1a1/mono.m3u8?token=042dbfe379160919d05523ab7e05e92d845a1624-e35bcc7907ed740087a31929c8ab8d4f-1764497318-1764486518
+http://87.255.35.150:18844
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/20/tracks-v1a1/mono.m3u8?token=c30e4e24173b92e31b1e518648f093724da0a105-c6f3ffc0211806e762f6258f3eaa4c4a-1764497318-1764486518
+http://ctv.sungohd.com:18804
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/21/tracks-v1a1/mono.m3u8?token=f682897797acc40ff8cbe2b958947acb0d4bf229-d378bdd40e7439b6961d7dd7fb4cc63e-1764497318-1764486518
+http://ctv.sungohd.com:18893
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/22/tracks-v1a1/mono.m3u8?token=dddbc1ccd816eeedbd8fb82a74a5d1b16c55cfa3-e4a603ce6273acdc44f3680cb55d05fb-1764497318-1764486518
+http://ctv.sungohd.com:18952
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/24/tracks-v1a1/mono.m3u8?token=ce4a3c2aa7ffa2b010b5a10562a2a8b9f148de8c-1fd6195566890a9cf3000eea6e6c9adb-1764497318-1764486518
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/toffee/ten_cricket/tracks-v1a1/mono.m3u8?token=c8c68c88bc6d44b2880a90a1c91b0354dc872b22-d4afe57b40c94825c443b8c3a69fd1cb-1764497318-1764486518
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/28/tracks-v1a1/mono.m3u8?token=10552ba44a156ff58379aac2169e513885bd478c-344f3d7ceba0af2e5efbc2fb83754010-1764497318-1764486518
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://103.166.152.22:8080/roarzone/bk/27/tracks-v1a1/mono.m3u8?token=4b669c85194f7373089bd47105031b88d1cdf811-db613ba45108eb8e94caa406cabbf8cf-1764497318-1764486518
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://l.lioncdn.net/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
