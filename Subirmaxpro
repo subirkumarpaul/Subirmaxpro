@@ -1,65 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="1757" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1757.7.1.png",Sun TV
-http://ctv.sungohd.com:18894/index.ts
-#EXTINF:-1 tvg-id="1759" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1759.7.1.png",Sun Music
-http://ctv.sungohd.com:18895/index.ts
-#EXTINF:-1,Star Vijay
-http://87.255.35.150:18955/index.ts
-#EXTINF:-1,Zee Tamil
-http://87.255.35.150:18553/index.ts
-#EXTINF:-1, Colors Tamil
-http://87.255.35.150:18225/index.ts
-#EXTINF:-1, KTV
-http://87.255.35.150:18805/index.ts
-#EXTINF:-1, Vijay Super
-http://87.255.35.150:18954/index.ts
-#EXTINF:-1, Zee Thirai
-http://87.255.35.150:18597/index.ts
-#EXTINF:-1 tvg-id="1699" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1699.7.1.png",Kalaignar
-http://87.255.35.150:18871/index.ts
-#EXTINF:-1 tvg-id="1597" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1597.7.1.png",Jaya TV
-http://87.255.35.150:18820/index.ts
-#EXTINF:-1 tvg-id="1615" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1615.7.1.png",Jaya Max
-http://87.255.35.150:18829/index.ts
-#EXTINF:-1 tvg-id="1635" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1635.7.1.png",Raj TV
-http://87.255.35.150:18839/index.ts
-#EXTINF:-1 tvg-id="2256" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2256.7.1.png",Raj Musix
-http://87.255.35.150:18477/index.ts
-#EXTINF:-1 tvg-id="1837" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1837.7.2.png",ISAI ARUVI
-http://87.255.35.150:18912/index.ts
-#EXTINF:-1 tvg-id="2255" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2255.7.1.png",Raj Digital Plus
-http://87.255.35.150:18478/index.ts
-#EXTINF:-1 tvg-id="1637" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1637.7.1.png",Adithya
-http://87.255.35.150:18840/index.ts
-#EXTINF:-1, Sun Life
-http://87.255.35.150:18953/index.ts
-#EXTINF:-1,Vijay Takkar
-http://87.255.35.150:18950/index.ts
-#EXTINF:-1 tvg-id="1881" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1881.7.1.png",Discovery Tamil
-http://ctv.sungohd.com:18934/index.ts
-#EXTINF:-1 tvg-id="2125" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2125.7.2.png",Jothi TV
-http://ctv.sungohd.com:18254/index.ts
-
-#EXTINF:-1, Hungama
-http://87.255.35.150:18811/index.ts
-#EXTINF:-1, Discovery Kids
-http://87.255.35.150:18902/index.ts
-#EXTINF:-1, Cartoon Network
-http://87.255.35.150:18802/index.ts
-#EXTINF:-1 tvg-id="2163" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2163.7.2.png",Sony Yay
-http://ctv.sungohd.com:18285/index.ts
-#EXTINF:-1 tvg-id="1681" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/1681.7.1.png",Pogo
-http://ctv.sungohd.com:18862/index.ts
-#EXTINF:-1 tvg-id="2120" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2120.7.1.png",Nick
-http://ctv.sungohd.com:18249/index.ts
-#EXTINF:-1 tvg-id="2123" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2123.7.1.png",Nick JR
-http://ctv.sungohd.com:18252/index.ts
-#EXTINF:-1 tvg-id="2340" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2340.7.1.png",Nickelodeon
-http://ctv.sungohd.com:18393/index.ts
-#EXTINF:-1 tvg-id="2122" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2122.7.1.png",Disney Junior
-http://ctv.sungohd.com:18251/index.ts
 
 #EXTINF:-1, Willow TV
 http://87.255.35.150:18957/index.ts
