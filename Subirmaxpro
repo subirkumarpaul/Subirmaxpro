@@ -1265,6 +1265,8 @@ http://ctv.sungohd.com:18862
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
 http://ctv.sungohd.com:18251
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Disney XD
+http://ctv.sungohd.com:18262
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -1342,7 +1344,7 @@ http://103.84.57.155:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
-
+http://ctv.sungohd.com:18492
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
