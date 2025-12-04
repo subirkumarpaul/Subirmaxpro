@@ -707,7 +707,7 @@ http://87.255.35.150:18859/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+http://103.182.170.32:8888/play/a01z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
