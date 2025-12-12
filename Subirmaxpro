@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://fr.uvitech.eu/1/_.php?_=Ali130225_Cpyej2JL56Xy_1136
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
@@ -1260,8 +1260,8 @@ http://103.182.170.32:8888/play/a02s
 http://103.84.57.155:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Hungama TV
 http://87.255.35.150:18811
-#EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo=""group-titDoU"KIDS",Wow Kids
 https://yupp.nayeem-parvez.workers.dev/tv.php?c=wow-kidz-hindi
 
