@@ -237,7 +237,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1762417772&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=901f2c31e4dbe789583cc36744966f8a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",METV
@@ -1316,8 +1316,8 @@ http://87.255.35.150:18548
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 4
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Lotus
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
@@ -1940,3 +1940,12 @@ http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=c2cb11e78d085eeedeafd
 http://103.166.152.22:8080/roarzone/bk/85/index.m3u8?token=301485e59f890d93893bc825580d3d88055e307f-5ff91af24fb435f87c53635e85cb1010-1765624247-1765613447
 #EXTINF:-1 tvg-id="al jazeera" tvg-name="al jazeera" tvg-logo="http://tvassets.roarzone.info/images/89.png" group-title="english",al jazeera
 http://103.166.152.22:8080/roarzone/bk/89/index.m3u8?token=e48cfe7f6f20bfeaa9bdf601d19633f5cbd0a2ae-3994a09f8f576aca95aeb9c3389e1001-1765624247-1765613447
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg" group-title="📺 | MOVIES", Zee Cinema ᴴᴰ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
