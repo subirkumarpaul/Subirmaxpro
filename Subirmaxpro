@@ -1683,9 +1683,9 @@ http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/South%20Indian%20(Hindi%20D
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",OG
 http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/They%20Call%20Him%20OG%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",The Akaali
-10.16.100.214/iccftps14/iccftps14sasd6/Movies/South Indian (Hindi Dubbed)/The Akaali (2024) 1080p WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Kuberaa
-
+http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/South Indian (Hindi Dubbed)/The Akaali (2024) 1080p WEBDL.mp4
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",kaantha
+http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Kaantha%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Agent
 
 EXTINF:-1  tvg-logo="" group-title="Hindi Dabbing Movies",Rangasthalam
