@@ -10,27 +10,27 @@ https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://ctv.sungohd.com:18891
+http://66.102.120.18:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://ctv.sungohd.com:18892
+http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://87.255.35.150:18882
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://ctv.sungohd.com:18804
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://ctv.sungohd.com:18893
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://ctv.sungohd.com:18952
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://87.255.35.150:18926
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://87.255.35.150:18927
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://87.255.35.150:18848
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://87.255.35.150:18818
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
@@ -2370,4 +2370,519 @@ http://163.61.227.29:8000/play/a03x/index.m3u8
 #EXTINF:-1 ,Cartoon Network Hindi 
 http://163.61.227.29:8000/play/a064/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+2	http://87.255.35.150:18893
+3	#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+4	http://87.255.35.150:18952
+5	#EXTINF:-1 ,STAR SPORTS 1 Hindi
+6	http://103.182.170.32:8888/play/a02m
+7	#EXTINF:-1 ,STAR SPORTS 1 HD
+8	http://87.255.35.150:18923/
+9	#EXTINF:-1 ,STAR SPORTS 2 HD 
+10	http://87.255.35.150:18828
+11	#EXTINF:-1 ,SONY SPORTS TEN 3 HD
+12	http://87.255.35.150:18848/
+13	#EXTINF:-1 ,STAR SPORTS 2 HD 
+14	http://87.255.35.150:18882
+15	#EXTINF:-1 ,STAR SPORTS 3
+16	http://87.255.35.150:18804
+17	#EXTINF:-1 ,SONY SPORTS TEN 1 
+18	http://103.182.170.32:8888/play/a04j
+19	#EXTINF:-1 ,SONY SPORTS TEN 1 HD
+20	http://87.255.35.150:18926
+21	#EXTINF:-1 ,SONY SPORTS TEN 2 HD
+22	http://87.255.35.150:18927
+23	#EXTINF:-1 ,SONY SPORTS TEN 5 HD
+24	http://87.255.35.150:18879
+25	#EXTINF:-1 ,SONY SPORTS TEN 5
+26	http://87.255.35.150:18818
+27	#EXTINF:-1 ,A SPORTS
+28	http://163.61.227.29:8000/play/a03t/index.m3u8
+29	#EXTINF:-1 ,FAST SPORTS
+30	http://163.61.227.29:8000/play/a001/index.m3u8
+31	#EXTINF:-1 ,Willow Cricket
+32	https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+33	#EXTINF:-1 ,DD SPORTS HD
+34	http://87.255.35.150:18922
+35	#EXTINF:-1 ,SKY SPORTS CRICKET
+36	http://178.33.239.54:8080/503/index.m3u8
+37	#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE
+38	http://178.33.239.54:8080/506/index.m3u8
+39	#EXTINF:-1 ,TNT SPORTS 1
+40	http://178.33.239.54:8080/509/index.m3u8
+41	#EXTINF:-1 ,TNT SPORTS 2
+42	http://178.33.239.54:8080/510/index.m3u8
+43	#EXTINF:-1 ,TNT SPORTS 3
+44	http://178.33.239.54:8080/511/index.m3u8
+45	#EXTINF:-1 ,M4 SPORTS
+46	http://dvr1.kablova.tv/M4/index.m3u8
+47	#EXTINF:-1 ,T SPORTS HD
+48	https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+49	#EXTINF:-1 ,TEN SPORTS HD
+50	http://66.102.120.18:8000/play/a018/index.m3u8
+51	#EXTINF:-1 ,PTV SPORTS HD
+52	http://163.61.227.29:8000/play/a05l/index.m3u8
+53	#EXTINF:-1 , EURO SPORTS HD
+54	http://84.54.128.52:9090/play/4003/index.m3u8
+55	#EXTINF:-1 , EURO SPORTS HD
+56	https://7pal.short.gy/eusport4k
+57	#EXTINF:-1 , MAX SPORTS 3 HD
+58	http://77.46.130.252:99/maxsport3
+59	#EXTINF:-1 , ESPN 7
+60	http://201.230.121.186:8000/play/a0dz/index.m3u8
+61	#EXTINF:-1 , SPORTS.2
+62	https://pepsi.abntv.live/hls/4spstream.m3u8
+63	#EXTINF:-1 , Makka TV
+64	https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+65	#EXTINF:-1 ,GOD TV
+66	https://hlsb-us.god.tv/GODTV/USA-480.m3u8
+67	#EXTINF:-1 ,STAR PLUS HD 
+68	http://87.255.35.150:18850/
+69	#EXTINF:-1 ,STAR PLUS
+70	http://103.182.170.32:8888/play/a03o
+71	#EXTINF:-1,Star Movies
+72	http://87.255.35.150:18211
+73	#EXTINF:-1 ,Star Movies
+74	http://87.255.35.150:18301
+75	#EXTINF:-1 ,Star Movies
+76	http://103.182.170.32:8888/play/a029
+77	#EXTINF:-1 ,STAR MOVIES SELECT HD
+78	http://87.255.35.150:18548
+79	#EXTINF:-1 ,STAR MOVIES SELECT HD
+80	http://103.182.170.32:8888/play/a028
+81	#EXTINF:-1 ,SONY PIX HD
+82	http://87.255.35.150:18495
+83	#EXTINF:-1 ,SONY PIX HD
+84	http://103.182.170.32:8888/play/a027
+85	#EXTINF:-1 ,Bollywood HD
+86	https://ultrashort.info/i3WrCc
+87	#EXTINF:-1 ,AND PICTURES
+88	http://87.255.35.150:18510
+89	#EXTINF:-1 ,AND PICTURES HD
+90	http://119.152.240.15:8000/play/a0h7/index.m3u8
+91	#EXTINF:-1 ,And FLIX HD
+92	http://103.182.170.32:8888/play/a02a
+93	#EXTINF:-1 ,AND XPLOR HD
+94	http://66.102.120.18:8000/play/a012/index.m3u8
+95	#EXTINF:-1 ,And Prive HD
+96	http://87.255.35.150:18494
+97	#EXTINF:-1 , Colors Infinity Hd
+98	http://87.255.35.150:18838
+99	#EXTINF:-1 , Colors Cineplex
+100	http://87.255.35.150:18296
+101	#EXTINF:-1 , Colors Cineplex
+102	http://103.182.170.32:8888/play/a04i
+103	#EXTINF:-1 , Colors Cineplex Bollywood
+104	http://103.182.170.32:8888/play/a01o
+105	#EXTINF:-1 ,Colors Cineplex Superhits
+106	http://163.61.227.29:8000/play/a04c/index.m3u8
+107	#EXTINF:-1 ,HBO
+108	http://200.80.230.124:8000/play/a06o/index.m3u8
+109	#EXTINF:-1 ,HBO
+110	http://185.18.56.26:8888/hbo1/index.m3u8
+111	#EXTINF:-1 , HBO2
+112	http://200.80.230.124:8000/play/a06q/index.m3u8
+113	#EXTINF:-1 , HBO2
+114	http://185.18.56.26:8888/hbo2/index.m3u8
+115	#EXTINF:-1 , HBO3
+116	http://185.18.56.26:8888/hbo3/index.m3u8
+117	#EXTINF:-1 , HBO FAMILY
+118	https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+119	#EXTINF:-1 , HBO Zone
+120	http://200.80.230.124:8000/play/a06p/index.m3u8
+121	#EXTINF:-1 , HBO SIGNATURE HD
+122	http://119.59.118.159/live/ch28/xxccxgd134/index.m3u8
+123	#EXTINF:-1 , HBO XTREME HD
+124	http://200.80.230.124:8000/play/a02b/index.m3u8
+125	#EXTINF:-1 , HBO HITS
+126	http://119.59.118.159/live/ch27/xxccxgd134/index.m3u8
+127	#EXTINF:-1 , AXN
+128	http://185.18.56.26:8888/axn/index.m3u8
+129	#EXTINF:-1 , AXN BLACK
+130	http://84.54.128.52:9090/play/1008/index.m3u8
+131	#EXTINF:-1 , LOTUS MACAU
+132	http://163.61.227.29:8000/play/a03u/index.m3u8
+133	#EXTINF:-1 , MNX HD
+134	http://87.255.35.150:18936
+135	#EXTINF:-1 ,MOVIES NOW HD
+136	http://87.255.35.150:18935
+137	#EXTINF:-1 ,MOVIES NOW HD
+138	http://103.182.170.32:8888/play/a01n
+139	#EXTINF:-1 ,AXN
+140	https://ultrashort.info/XIM7NV
+141	#EXTINF:-1 ,STUDIO UNIVERSAL
+142	https://ultrashort.info/w7d3Dc
+143	#EXTINF:-1 ,GALAXY D
+144	https://ultrashort.info/eHs65P
+145	#EXTINF:-1 ,STAR BHARAT 
+146	http://87.255.35.150:18853
+147	#EXTINF:-1 ,STAR GOLD 
+148	http://87.255.35.150:18859/
+149	#EXTINF:-1 ,STAR GOLD 
+150	http://103.182.170.32:8888/play/a02j
+151	#EXTINF:-1 ,STAR GOLD Select 
+152	http://87.255.35.150:18429
+153	#EXTINF:-1 ,STAR GOLD Select 
+154	http://66.102.120.18:8000/play/a01s/index.m3u8
+155	#EXTINF:-1 ,STAR GOLD 2
+156	http://103.182.170.32:8888/play/a02k
+157	#EXTINF:-1 ,STAR GOLD 2
+158	http://103.182.170.32:8888/play/a01z
+159	#EXTINF:-1 ,STAR GOLD ROMANCE
+160	http://119.152.240.15:8000/play/a0ix/index.m3u8
+161	#EXTINF:-1 ,STAR GOLD 2
+162	http://87.255.35.150:18807
+163	#EXTINF:-1 ,STAR GOLD THRILLS
+164	http://119.152.240.15:8000/play/a0iy/index.m3u8
+165	#EXTINF:-1 ,Bollywood Classic
+166	https://ultrashort.info/Yc15ZO
+167	#EXTINF:-1 ,SHEMAROO JOSH
+168	http://202.164.50.194:8000/play/a03k/index.m3u8
+169	#EXTINF:-1 ,HUNGAMA 
+170	http://87.255.35.150:18811/
+171	#EXTINF:-1 ,8XM HD
+172	http://87.255.35.150:18883
+173	#EXTINF:-1 ,9XM 
+174	http://87.255.35.150:18885
+175	#EXTINF:-1 ,B4U MUSIC
+176	http://163.61.227.29:8000/play/a046/index.m3u8
+177	#EXTINF:-1 ,SONY TV HD 
+178	http://87.255.35.150:18809/
+179	#EXTINF:-1 ,SONY TV HD 
+180	http://103.182.170.32:8888/play/a03t
+181	#EXTINF:-1 ,SONY SAB HD 
+182	http://87.255.35.150:18810/
+183	#EXTINF:-1 ,SONY SAB 
+184	http://103.182.170.32:8888/play/a03r
+185	#EXTINF:-1 ,AAN TV
+186	http://163.61.227.29:8000/play/a02c/index.m3u8
+187	#EXTINF:-1 ,Epic
+188	http://epiconvh.akamaized.net/live/epic/master.m3u8
+189	#EXTINF:-1 ,Sony Max HD
+190	http://87.255.35.150:18851/
+191	#EXTINF:-1 ,SONY MAX HD
+192	http://103.182.170.32:8888/play/a04f
+193	#EXTINF:-1 ,SONY MAX
+194	http://66.102.120.18:8000/play/a00u/index.m3u8
+195	#EXTINF:-1 ,SONY MAX
+196	https://ultrashort.info/191sNI
+197	#EXTINF:-1 ,SONY MAX 2
+198	http://87.255.35.150:18841
+199	#EXTINF:-1 ,ZOOM 
+200	http://87.255.35.150:18842/
+201	#EXTINF:-1 ,MUSIC INDIA
+202	http://202.164.50.194:8000/play/a013/index.m3u8
+203	#EXTINF:-1 ,ARY MUSIK
+204	http://163.61.227.29:8000/play/a03r/index.m3u8
+205	#EXTINF:-1 ,MASTIII
+206	http://202.164.50.194:8000/play/a018/index.m3u8
+207	#EXTINF:-1 ,ZEE TV HD 
+208	http://87.255.35.150:18849/
+209	#EXTINF:-1 ,ZEE TV
+210	http://103.182.170.32:8888/play/a03s
+211	#EXTINF:-1 ,ZEE CINEMA HD 
+212	http://87.255.35.150:18808/
+213	#EXTINF:-1 ,ZEE CINEMA HD 
+214	http://119.152.240.15:8000/play/a0bf/index.m3u8
+215	#EXTINF:-1 ,ZEE CINEMA 
+216	https://ultrashort.info/weOxC6
+217	#EXTINF:-1 ,ZEE ACTION 
+218	http://87.255.35.150:18507
+219	#EXTINF:-1 ,ZEE BOLLYWOOD
+220	http://87.255.35.150:18861
+221	#EXTINF:-1 ,ZEE ANMOL CINEMA
+222	http://163.61.227.29:8000/play/a04j/index.m3u8
+223	#EXTINF:-1 ,ZEE CLASSIC
+224	http://103.182.170.32:8888/play/a054
+225	#EXTINF:-1 ,FILMAX
+226	http://163.61.227.29:8000/play/a02o/index.m3u8
+227	#EXTINF:-1 ,FILMAZIA
+228	http://163.61.227.29:8000/play/a02l/index.m3u8
+229	#EXTINF:-1 ,B4U MOVIES
+230	http://163.61.227.29:8000/play/a047/index.m3u8
+231	#EXTINF:-1 ,B4U KADAK
+232	http://202.164.50.194:8000/play/a01i/index.m3u8
+233	#EXTINF:-1 ,Afghan Nobel Movies
+234	https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+235	#EXTINF:-1 ,MH1 FILM
+236	http://202.164.50.194:8000/play/a03x/index.m3u8
+237	#EXTINF:-1 ,MH1 MOVIES
+238	http://202.164.50.194:8000/play/a03y/index.m3u8
+239	#EXTINF:-1 ,GOLDMINES BOLLYWOOD
+240	http://202.164.50.194:8000/play/a02s/index.m3u8
+241	#EXTINF:-1 ,GOLDMINES ACTION
+242	http://202.164.50.194:8000/play/a039/index.m3u8
+243	#EXTINF:-1 ,GOLDMINES 2
+244	http://202.164.50.194:8000/play/a02n/index.m3u8
+245	#EXTINF:-1 ,GOLDMINES MOVIES
+246	http://163.61.227.29:8000/play/a04l/index.m3u8
+247	#EXTINF:-1 ,Movies Thriller
+248	https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+249	#EXTINF:-1,START WORLD
+250	https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+251	#EXTINF:-1,START AIR 
+252	https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+253	#EXTINF:-1 ,ZEE CAFE
+254	http://87.255.35.150:18547
+255	#EXTINF:-1 ,ZEE NEWS 
+256	http://87.255.35.150:18854/
+257	#EXTINF:-1 ,Al Jazeera
+258	http://103.60.204.26:3255/Aljazeera/tracks-v1a1/mono.m3u8
+259	#EXTINF:-1 ,NEWS NATION
+260	http://202.164.50.194:8000/play/a035/index.m3u8
+261	#EXTINF:-1 ,NEWS18 INDIA
+262	http://103.140.254.2:3500/live/530.m3u8
+263	#EXTINF:-1 ,TV9 BANGLA
+264	http://202.164.50.194:8000/play/a031/index.m3u8
+265	#EXTINF:-1 ,TRT 1
+266	https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+267	#EXTINF:-1 ,TRT 2 HD
+268	https://tv-trt2.medya.trt.com.tr/master.m3u8
+269	#EXTINF:-1 ,ATV HD
+270	http://89.187.191.41/ATV-HD-TR/video.m3u8
+271	#EXTINF:-1 ,TRT TURK
+272	https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+273	#EXTINF:-1 ,A2
+274	https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+275	#EXTINF:-1 ,ARY Zindagi
+276	http://163.61.227.29:8000/play/a03o/index.m3u8
+277	#EXTINF:-1 ,AND TV HD
+278	http://87.255.35.150:18221
+279	#EXTINF:-1 ,BIG MAGIC
+280	http://163.61.227.29:8000/play/a04f/index.m3u8
+281	#EXTINF:-1 ,ARY DIGITAL
+282	http://163.61.227.29:8000/play/a03p/index.m3u8
+283	#EXTINF:-1 ,Play HD
+284	http://163.61.227.29:8000/play/a03c/index.m3u8
+285	#EXTINF:-1 ,AND TV HD
+286	http://119.152.240.15:8000/play/a0j9/index.m3u8
+287	#EXTINF:-1 ,Aur Life HD
+288	http://163.61.227.29:8000/play/a03e/index.m3u8
+289	#EXTINF:-1 ,VENUS ENTERTAINMENT
+290	http://163.61.227.29:8000/play/a02y/index.m3u8
+291	#EXTINF:-1 ,Dangal
+292	https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+293	#EXTINF:-1 ,Dangal 2
+294	http://163.61.227.29:8000/play/a04b/index.m3u8
+295	#EXTINF:-1 ,STAR BHARAT HD 
+296	http://87.255.35.150:18555
+297	#EXTINF:-1 ,Hi Dost!
+298	https://mumt03.tangotv.in/HIDOST/index.m3u8
+299	#EXTINF:-1 ,Express HD 
+300	http://163.61.227.29:8000/play/a05i/index.m3u8
+301	#EXTINF:-1 ,ZEE ANMOL
+302	http://163.61.227.29:8000/play/a04a/index.m3u8
+303	#EXTINF:-1 ,A plus
+304	http://163.61.227.29:8000/play/a03l/index.m3u8
+305	#EXTINF:-1 ,SONY PAL
+306	http://87.255.35.150:18887
+307	#EXTINF:-1 ,DISCOVERY India
+308	http://87.255.35.150:18220
+309	#EXTINF:-1 ,Discover Pakistan
+310	http://163.61.227.29:8000/play/a03b/index.m3u8
+311	#EXTINF:-1 ,DISCOVERY
+312	http://163.61.227.29:8000/play/a01i/index.m3u8
+313	#EXTINF:-1 ,DISCOVERY TURBO
+314	http://163.61.227.29:8000/play/a01w/index.m3u8
+315	#EXTINF:-1 ,DISCOVERY SCIENCE
+316	http://103.140.254.2:3500/live/568.m3u8
+317	#EXTINF:-1 ,INVESTIGATION DISCOVERY
+318	http://119.152.240.15:8000/play/a0ke/index.m3u8
+319	#EXTINF:-1 ,National Geographic
+320	http://119.152.240.15:8000/play/a0i2/index.m3u8
+321	#EXTINF:-1 ,National Geographic
+322	http://151.80.18.177:86/National_Geo_HD/index.m3u8
+323	#EXTINF:-1 ,National Geographic
+324	http://163.61.227.29:8000/play/a01d/index.m3u8
+325	#EXTINF:-1 ,Wild
+326	http://103.182.170.32:8888/play/a01r
+327	#EXTINF:-1 ,SONY BBC EARTH 
+328	http://119.152.240.15:8000/play/a0bm/index.m3u8
+329	#EXTINF:-1 ,Animal Planet
+330	http://103.140.254.2:3500/live/567.m3u8
+331	#EXTINF:-1 ,History TV18 HD
+332	http://119.152.240.15:8000/play/a0bj/index.m3u8
+333	#EXTINF:-1 ,Ndtv Good Times
+334	http://103.140.254.2:3500/live/560.m3u8
+335	#EXTINF:-1 ,CARTOON NETWORK 
+336	http://87.255.35.150:18802/
+337	#EXTINF:-1 ,DD SPORTS
+338	http://87.255.35.150:18922/
+339	#EXTINF:-1 ,AAJ TAK 
+340	http://87.255.35.150:18958/
+341	#EXTINF:-1 ,5 NEWS HD
+342	http://163.61.227.29:8000/play/a03m/index.m3u8
+343	#EXTINF:-1 ,Zee 24 Ghanta
+344	https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+345	#EXTINF:-1 ,COLORS HD 
+346	http://87.255.35.150:18890/
+347	#EXTINF:-1 ,COLORS HD 
+348	http://103.182.170.32:8888/play/a041
+349	#EXTINF:-1 ,COLORS
+350	http://87.255.35.150:18803
+351	#EXTINF:-1 ,MTV HD
+352	http://119.152.240.15:8000/play/a01o
+353	#EXTINF:-1 ,MTV HD
+354	http://103.182.170.32:8888/play/a025
+355	#EXTINF:-1 ,MTV INDIA
+356	http://87.255.35.150:18901/
+357	#EXTINF:-1,Hindi Hits HD
+358	http://146.59.253.52:8080/hindihitshd/index.m3u8
+359	#EXTINF:-1,Green Entertainment
+360	http://163.61.227.29:8000/play/a02v/index.m3u8
+361	#EXTINF:-1 ,NDTV INDIA
+362	http://87.255.35.150:18819/
+363	#EXTINF:-1 ,Arré
+364	https://shorturl.at/aY95p
+365	#EXTINF:-1 ,SONY TEN 3 HD
+366	http://87.255.35.150:18848/
+367	#EXTINF:-1 ,AAKASH AATH
+368	https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+369	#EXTINF:-1 ,ZEE BANGLA CINEMA
+370	http://103.182.170.32:8888/play/a044
+371	#EXTINF:-1 ,Zee Bangla HD
+372	http://87.255.35.150:18238/
+373	#EXTINF:-1 ,Star Jalsha HD
+374	http://87.255.35.150:18237
+375	#EXTINF:-1 ,Star Jalsha HD
+376	https://ultrashort.info/5yLqax
+377	#EXTINF:-1 ,Zee Bangla HD
+378	https://ultrashort.info/QTSVF0
+379	#EXTINF:-1 ,Tara Cinema Bangla
+380	http://103.145.48.150:90/laosat24/taratv/index.m3u8
+381	#EXTINF:-1 ,Padma Tv
+382	https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+383	#EXTINF:-1 , Aakash Aath
+384	https://ultrashort.info/Z7cEes
+385	#EXTINF:-1 ,SUN BANGLA
+386	http://103.182.170.32:8888/play/a01v
+387	#EXTINF:-1 ,KOLKATA TV
+388	https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+389	#EXTINF:-1 ,ENTER10 BANGLA
+390	https://cdn-4.pishow.tv/live/241/master.m3u8
+391	#EXTINF:-1 ,STAR BHARAT 
+392	http://87.255.35.150:18853/
+393	#EXTINF:-1 ,Colors RISHTEY
+394	http://87.255.35.150:18886
+395	#EXTINF:-1 ,Colors Kannada
+396	http://87.255.35.150:18940
+397	#EXTINF:-1 ,Colors TAMIL HD
+398	http://87.255.35.150:18225
+399	#EXTINF:-1 ,Colors MARATHI HD
+400	http://87.255.35.150:18233
+401	#EXTINF:-1 ,Colors Bangla HD
+402	http://87.255.35.150:18236/
+403	#EXTINF:-1 ,ZEE CAFE HD
+404	http://103.182.170.32:8888/play/a01w
+405	#EXTINF:-1 ,GEMINI HD
+406	http://87.255.35.150:18856
+407	#EXTINF:-1 ,GEMINI MUSIC HD
+408	http://87.255.35.150:18857
+409	#EXTINF:-1 ,9X JALWA
+410	http://202.164.50.194:8000/play/a01h/index.m3u8
+411	#EXTINF:-1 ,PTV HOME
+412	http://163.61.227.29:8000/play/a05k/index.m3u8
+413	#EXTINF:-1 ,Gemini Comedy
+414	http://87.255.35.150:18858
+415	#EXTINF:-1 ,SUN NEWS HD
+416	http://87.255.35.150:18852
+417	#EXTINF:-1 ,ZEE BHARAT
+418	http://202.164.50.194:8000/play/a04m/index.m3u8
+419	#EXTINF:-1 ,ASIAN PLUS HD
+420	http://87.255.35.150:18831
+421	#EXTINF:-1 ,ASIANET HD
+422	http://87.255.35.150:18822
+423	#EXTINF:-1 , ETV HD
+424	http://87.255.35.150:18845
+425	#EXTINF:-1 , JAYA TV HD
+426	http://87.255.35.150:18820
+427	#EXTINF:-1 , STAR MAA TAMIL 
+428	http://87.255.35.150:18817
+429	#EXTINF:-1 , STAR MUSIC TAMIL 
+430	http://87.255.35.150:18816
+431	#EXTINF:-1 , STAR MAA GOLD 
+432	http://87.255.35.150:18815
+433	#EXTINF:-1 , K TV HD
+434	http://87.255.35.150:18805
+435	#EXTINF:-1 , ZEE TAMIL
+436	http://87.255.35.150:18876
+437	#EXTINF:-1 ,Hum Masala
+438	http://163.61.227.29:8000/play/a02g/index.m3u8
+439	#EXTINF:-1 ,The Q Kahaniyan
+440	http://163.61.227.29:8000/play/a04v/index.m3u8
+441	#EXTINF:-1 ,The Q
+442	http://202.164.50.194:8000/play/a02e/index.m3u8
+443	#EXTINF:-1 ,BBC NEWS
+444	http://45.148.145.57/IN_BN/index.m3u8
+445	#EXTINF:-1,FOX NEWS
+446	https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+447	#EXTINF:-1 ,TRAVEL XP HD 
+448	http://103.182.170.32:8888/play/a01x
+449	#EXTINF:-1 ,TLC HD
+450	http://103.182.170.32:8888/play/a01q
+451	#EXTINF:-1 , Kappa TV 
+452	http://87.255.35.150:18916
+453	#EXTINF:-1 , SANGEET BANGLA
+454	https://cdn-4.pishow.tv/live/1143/master.m3u8
+455	#EXTINF:-1 , 9X TASHAN
+456	http://87.255.35.150:18227
+457	#EXTINF:-1 ,Dhoom Music
+458	https://mumt03.tangotv.in/DHOOM/index.m3u8
+459	#EXTINF:-1 , SHOWBOX
+460	http://163.61.227.29:8000/play/a045/index.m3u8
+461	#EXTINF:-1 , Yrf Music
+462	https://ultrashort.info/bwswWI
+463	#EXTINF:-1 ,E24
+464	http://202.164.50.194:8000/play/a04y/index.m3u8
+465	#EXTINF:-1 ,SANGEET BANGLA
+466	https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+467	#EXTINF:-1 ,Cartoon Network Hindi
+468	http://103.182.170.32:8888/play/a04o
+469	#EXTINF:-1 , HUNGAMA
+470	http://87.255.35.150:18811
+471	#EXTINF:-1 , DISCOVERY KIDS
+472	http://87.255.35.150:18902
+473	#EXTINF:-1 ,DISNEY
+474	http://103.182.170.32:8888/play/a04g
+475	#EXTINF:-1 , Disney Junior
+476	http://103.182.170.32:8888/play/a03q
+477	#EXTINF:-1 ,DISNEY INTERNATIONAL HD
+478	http://103.182.170.32:8888/play/a01y
+479	#EXTINF:-1 , NICK JR
+480	http://87.255.35.150:18252
+481	#EXTINF:-1 , NICK 
+482	http://103.182.170.32:8888/play/a04q
+483	#EXTINF:-1 , NICK JUNIOR
+484	http://103.182.170.32:8888/play/a02q
+485	#EXTINF:-1 ,POGO
+486	http://103.182.170.32:8888/play/a02p
+487	#EXTINF:-1 ,SONY YAY
+488	http://103.182.170.32:8888/play/a04m
+489	#EXTINF:-1 ,Sonic Hindi
+490	http://103.182.170.32:8888/play/a02s
+491	#EXTINF:-1 , MANORANJAN MOVIES
+492	https://cdn-2.pishow.tv/live/228/master.m3u8
+493	#EXTINF:-1 ,Food Food
+494	http://202.164.50.194:8000/play/a025/index.m3u8
+495	#EXTINF:-1 ,Food Food
+496	https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+497	#EXTINF:-1 ,9x Jhakkas
+498	http://202.164.50.194:8000/play/a017/index.m3u8
+499	#EXTINF:-1 , MANORANJAN GRAND
+500	http://202.164.50.194:8000/play/a00h/index.m3u8
+501	#EXTINF:-1 , FASHION TV
+502	http://163.61.227.29:8000/play/a03v/index.m3u8
+503	#EXTINF:-1 , PLANET FUN
+504	http://163.61.227.29:8000/play/a03w/index.m3u8
+505	#EXTINF:-1 ,GUBBARE
+506	https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+507	#EXTINF:-1 , KIDS ZONE
+508	http://163.61.227.29:8000/play/a03x/index.m3u8
+509	#EXTINF:-1 ,Cartoon Network Hindi 
+510	http://163.61.227.29:8000/play/a064/index.m3u8
 
