@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
-https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
@@ -1700,8 +1700,8 @@ http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/South Indian (Hindi Dubbed)
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Kaantha%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Raayan
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Raayan%20(2024)%201080p%20WEBDL.mp4
-#8EXTINF:-1  tvg-logo="" group-title="Hindi Dabbing Movies",Rangasthalam
-
+#8EXTINF:-1  tvg-logo="" group-title="Hindi Dabbing Movies",Andhra King
+http://10.16.100.213/iccftps13/iccftps13sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/Andhra%20King%20Thaluka%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Ka Pae Ranasingam
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Robinhood
