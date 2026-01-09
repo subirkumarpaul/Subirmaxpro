@@ -1675,8 +1675,8 @@ http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Hindi/Dhurandhar%20(2025)%2
 http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/Band%20Baaja%20Baaraat%20(2010)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Blank
 http://10.16.100.245/ftps2d1/Movies/Hindi/Blank%20(2019)%20Hindi%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies",Bindaas
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",Raat Akeli Hai The Bansal Murders
+http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Hindi/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20(2025)%201080p%20WEBRip.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Mission Impossible Dead Reckoning Part 1
 
@@ -1716,12 +1716,12 @@ http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/South%20Indian%20(Hindi%20D
 http://10.16.100.213/iccftps13/iccftps13sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/Andhra%20King%20Thaluka%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Drive
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Drive%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Robinhood
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Chitralaria
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Saindhav
-
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Vrusshabha
+http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Vrusshabha%20(2025)%201080p%20HDRip.mp4
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",45
+http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/South%20Indian%20(Hindi%20Dubbed)/45%20(2025)%201080p%20DVDRip.mp4
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Others
+http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/South%20Indian%20(Hindi%20Dubbed)/Others%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Hit The Third Case
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Malaikottai Vaaliban
