@@ -214,7 +214,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
-http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
+http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
