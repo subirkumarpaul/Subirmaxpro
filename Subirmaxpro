@@ -1074,9 +1074,9 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery HD Multi Audio
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
-https://tv.ottking.top:443/ottking247/fuckyou/4.m3u8
+#https://tv.ottking.top:443/ottking247/fuckyou/4.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
-
+http://103.151.60.204/DiscoveryHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery UK
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
@@ -1110,7 +1110,7 @@ https://tvsen6.aynaott.com/discovery_turbo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet
 #https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+http://103.151.60.204/ZAHIR_EN8_90_110_P2/tracks-v1a1/mono.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
 #https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet HD
@@ -1123,9 +1123,9 @@ http://103.60.204.26:3255/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 http://103.60.204.26:3255/TLCHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
+http://103.151.60.204/ZAHIR_EN8_90_110_P7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-http://119.152.240.15:8000/play/a0i2/index.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
