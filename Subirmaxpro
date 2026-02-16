@@ -1557,6 +1557,10 @@ http://103.109.56.115/ftpdata/bangla_movie/Feludar%20Goyendagiri%20s01.mp4
 http://ftp.timepassbd.live/timepassbd-data/ftp4/MOVIES/INDIAN%20BANGLA/2025/%20Raktabeej%202%20%282025%29/%20Raktabeej.2.2025.1080p.Bangla.EAC3.WEB-DL.h264.ESub.mkv.mkv
 
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Heads of State
+http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Dual%20Audio/Heads%20of%20State%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="" group-title="English Movies",The Wrecking Crew
+http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/Dual%20Audio/The%20Wrecking%20Crew%20(2026)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Moana 2
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2024)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Mission: Impossible – The Final Reckoning
