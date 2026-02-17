@@ -1681,7 +1681,7 @@ http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip
 #EXTINF:-1 tvg-logo="" group-title="Movies",The Taj Story
 http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/Hindi/The%20Taj%20Story%20(2025)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Haq
-http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Hindi/Haq%20(2025)%201080p%20WEBRip.mp4
+http://160.187.56.254:8096/emby/videos/1013660/original.mkv?DeviceId=495ef711-2098-4ef4-82d9-c583b3b45b10&MediaSourceId=mediasource_1013660&PlaySessionId=1ad11a4cdc8a4fdd954a41bde42f2ec8&api_key=3938b7da4a60440a84f66dc0245d330b
 #EXTINF:-1 tvg-logo="" group-title="Movies",Son of Sardaar 2
 http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Hindi/Son%20of%20Sardaar%202%20(2025)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Tehran
