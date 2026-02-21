@@ -153,8 +153,8 @@ http://103.229.254.25:7001/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 #http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
@@ -514,7 +514,7 @@ http://103.182.170.32:8888/play/a044
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=282ba442357773982850e9fc9f63f5981562cc8c-abea0d202b49f21c7af0fa54e6fc9100-1771655715-1771644915
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 
