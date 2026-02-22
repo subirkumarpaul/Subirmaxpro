@@ -1126,7 +1126,7 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Information",TLC HD
 #https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
-http://103.60.204.26:3255/TLCHD/tracks-v1a1/mono.m3u8
+http://103.182.170.32:8888/play/a01q
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://103.229.254.25:7001/play/a038/index.m3u8
@@ -1308,8 +1308,8 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
 http://103.182.170.32:8888/play/a02p
 
-#EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
-
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Disney International
+http://103.182.170.32:8888/play/a01y
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney XD
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney JR
@@ -1363,17 +1363,17 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-http://ctv.sungohd.com:18495
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
-http://ctv.sungohd.com:18547
+http://103.182.170.32:8888/play/a01w
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe HD
 
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now
-http://87.255.35.150:18935
+http://103.182.170.32:8888/play/a01n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
 
 
@@ -1382,7 +1382,6 @@ http://87.255.35.150:18935
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-http://87.255.35.150:18936
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
