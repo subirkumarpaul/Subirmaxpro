@@ -759,11 +759,12 @@ http://103.182.170.32:8888/play/a02j
 http://103.182.170.32:8888/play/a01z
 http://103.182.170.32:8888/play/a02k
 http://103.175.73.12:8080/live/34/34_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
+http://103.175.73.12:8080/live/36/36_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
-http://119.152.240.15:8000/play/a0ix/index.m3u8
+http://103.175.73.12:8080/live/35/35_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 http://103.175.73.12:8080/live/40/40_0.m3u8
