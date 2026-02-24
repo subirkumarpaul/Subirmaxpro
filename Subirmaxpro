@@ -1122,11 +1122,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 http://103.175.73.12:8080/live/142/142_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Information",Discovery Turbo
-#https://raw.githubuseasiatent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
-#https://allottplay.com/tv/toffee/live.php?id=discovery_turbo&e=.m3u8
-https://tvsen6.aynaott.com/discovery_turbo/index.m3u8
-
+http://103.175.73.12:8080/live/330/330_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Information",Investigation Discovery Multi Audio
 http://103.175.73.12:8080/live/145/145_0.m3u8
@@ -1205,8 +1201,7 @@ http://103.175.73.12:8080/live/28/28_0.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18 HD
 http://103.229.254.25:7001/play/a02z/index.m3u8
-#EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
-
+http://103.175.73.12:8080/live/334/334_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
 http://103.182.170.32:8888/play/a01x
@@ -1378,7 +1373,7 @@ http://103.175.73.12:8080/live/63/63_0.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",Lotus
 https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
-
+http://103.175.73.12:8080/live/330/330_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 http://103.175.73.12:8080/live/59/59_0.m3u8
