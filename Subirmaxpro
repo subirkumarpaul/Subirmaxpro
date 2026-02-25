@@ -1223,26 +1223,24 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Trave Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",4k Nature
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Information",Love Nature UHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="Information",4k Nature
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Xlpore English
-http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Zee Zast HD
 http://103.175.73.12:8080/live/326/326_0.m3u8
@@ -1258,27 +1256,21 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Food
 
-#EXTINF:-68 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", Drone tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", Drone tv
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Information",HG TV
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
-https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
-https://dplus.gammacdn.workers.dev/videos/111.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Information",Asian Food Network
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Information",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nasatv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="h"group-title="KIDS",Tom & Jarry
@@ -1322,7 +1314,8 @@ http://103.175.73.12:8080/live/320/320_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo=""group-titDoU"KIDS",Wow Kids
-https://yupp.nayeem-parvez.workers.dev/tv.php?c=wow-kidz-hindi
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
 http://103.175.73.12:8080/live/323/323_0.m3u8
@@ -1341,7 +1334,7 @@ http://103.175.73.12:8080/live/129/129_0.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -1423,7 +1416,6 @@ http://202.70.146.135:8000/play/a05y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now
@@ -1476,8 +1468,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Mastii Music
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
@@ -1486,7 +1477,7 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",I Love U Music(BD)
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
@@ -1507,9 +1498,7 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Music",VH1 HD
 
 
-#EXTINF:-1 tvg-logo=""group-title="Jio TV",Clubbing TV
-https://fifabangladesh.live/VHOD/go.php?id=Clubbing_TV_voot_MOB
-#https://livevoot.co.in/voot/master.m3u8?id=Clubbing_TV_voot_MOB
+#EXTINF:-1 tvg-logo=""group-title="English Music",Clubbing TV
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",Aljazeera
