@@ -1284,7 +1284,7 @@ http://103.182.170.32:8888/play/a04o
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="KIDS",Discovery Kids
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
-#http://103.182.170.32:8888/play/a02o
+http://103.182.170.32:8888/play/a02o
 http://103.175.73.12:8080/live/130/130_0.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
 
