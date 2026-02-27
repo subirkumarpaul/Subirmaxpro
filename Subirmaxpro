@@ -452,6 +452,7 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-HD/live.mpd
 http://103.175.73.12:8080/live/194/194_0.m3u8
+http://103.229.254.25:7001/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1.m3u8
@@ -765,6 +766,7 @@ http://103.182.170.32:8888/play/a02j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 http://103.182.170.32:8888/play/a01z
 http://103.182.170.32:8888/play/a02k
+http://103.229.254.25:7001/play/a0d0/index.m3u8
 http://103.175.73.12:8080/live/34/34_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
