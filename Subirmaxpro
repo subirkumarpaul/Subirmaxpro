@@ -1259,10 +1259,8 @@ http://103.175.73.12:8080/live/327/327_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Information",BBC Food
-
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", Drone tv
-
+#EXTINF:-1 tvg-logo="" group-title="Information",CGTN Docment
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Information",HG TV
@@ -1507,7 +1505,7 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",Aljazeera
-
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News",BBC World
 
