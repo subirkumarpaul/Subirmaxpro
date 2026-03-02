@@ -700,6 +700,7 @@ http://xtv.ooo:8080/danyear12/am809100/263386
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 #http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://103.175.73.12:8080/live/33/33_0.m3u8
+http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 http://103.182.170.32:8888/play/a04f
@@ -944,6 +945,7 @@ http://103.175.73.12:8080/live/80/80_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 http://103.175.73.12:8080/live/81/81_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
+http://103.99.249.139/sonyten3/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",DD Sports 1.0
