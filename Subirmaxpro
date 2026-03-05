@@ -376,7 +376,8 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="",Music Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 
 #EXTINF:-1 group-title="Bangla Music" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png",Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
