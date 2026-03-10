@@ -1551,8 +1551,8 @@ http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/Dual%20Audio/The%20Wrecking
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2024)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Red Notice
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/English/Red%20Notice%20(2021)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-logo="" group-title="English Movies",Bad Boys Ride or Die
-
+#EXTINF:-1 tvg-logo="" group-title="English Movies",War Machine (2026) (Hindi + English)
+http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/War%20Machine%20(2026)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Alienoid
 http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Dual%20Audio/Alienoid%20(Oegye+in%201bu)%20(2022)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Toworrowland
@@ -1666,10 +1666,10 @@ http://103.225.94.27/Infobase/hdd-3/hindi/Border%202%20(2026)%20Hindi%20720p%20H
 http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",The Taj Story
 http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/Hindi/The%20Taj%20Story%20(2025)%201080p%20DVDRip.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies",Haq
-http://160.187.56.254:8096/emby/videos/1013660/original.mkv?DeviceId=495ef711-2098-4ef4-82d9-c583b3b45b10&MediaSourceId=mediasource_1013660&PlaySessionId=1ad11a4cdc8a4fdd954a41bde42f2ec8&api_key=3938b7da4a60440a84f66dc0245d330b
-#EXTINF:-1 tvg-logo="" group-title="Movies",Son of Sardaar 2
-http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Hindi/Son%20of%20Sardaar%202%20(2025)%201080p%20DVDRip.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Tu Jhoothi Main Makkaar(4K)
+http://10.16.100.214/iccftps14/iccftps14sasd6/Movies/4K/Hindi/Tu%20Jhoothi%20Main%20Makkaar%20(2023)%202160p%20WEBRip.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Tu Jhoothi Main Makkaar(4K)
+http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Hindi/Tu%20Jhoothi%20Main%20Makkaar%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Tehran
 http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Tehran%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Tehran
@@ -1686,9 +1686,8 @@ http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/Band%20Baaja%20Baaraat%20(2010)%
 http://10.16.100.245/ftps2d1/Movies/Hindi/Blank%20(2019)%20Hindi%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Raat Akeli Hai The Bansal Murders
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Hindi/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20(2025)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Mission Impossible Dead Reckoning Part 1
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",Subedaar
+http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/Hindi/Subedaar%20(2026)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Kurup
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Kurup%20(2021)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Test
