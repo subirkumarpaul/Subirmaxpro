@@ -630,6 +630,10 @@ http://103.229.254.25:7001/play/a0cs/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/andtvhd1.m3u8
 http://103.182.170.32:8888/play/a03v
@@ -704,8 +708,6 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Cassic
