@@ -445,7 +445,7 @@ http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
-
+http://103.161.153.165:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -502,8 +502,7 @@ http://103.182.170.32:8888/play/a04a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="Kolkata Bangla Movies",Sananda TV
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/live-orgin/sanandatv.stream/chunks.m3u8?nimblesessionid=714373137
-https://live.sanonda.tv/sanonda/index.m3u8
-https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -581,7 +580,8 @@ http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab
-http://103.229.254.25:7001/play/a09s/index.m3u8
+#http://103.229.254.25:7001/play/a09s/index.m3u8
+http://103.161.153.165:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab HD
 http://103.182.170.32:8888/play/a03r
 
@@ -701,7 +701,7 @@ http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
-
+http://103.161.153.165:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 #http://tv.cloudcdn.me/live.ts?channelId=209&uid=1868&deviceMac=00:1A:79:94:98:FE
@@ -778,8 +778,12 @@ http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Movies HD
-
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Gold 
+http://103.161.153.165:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Classic
+http://103.161.153.165:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Pictures
+http://103.161.153.165:8000/play/a03e/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
@@ -1330,10 +1334,18 @@ http://103.175.73.12:8080/live/60/60_0.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",Romedy Now
 http://103.175.73.12:8080/live/63/63_0.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 2
-
-#EXTINF:-1 tvg-logo=""group-title="English Movies",M Net Movies 3
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Fox Movies Premier 
+http://103.161.153.165:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Fox Action Movies
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Hollywood HD
+http://103.161.153.165:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",MBC 2 HD
+http://103.161.153.165:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Cine + HD Primer
+http://103.161.153.165:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Hollmark HD
+http://103.161.153.165:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English Movies",Lotus
 https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
 http://103.175.73.12:8080/live/330/330_0.m3u8
