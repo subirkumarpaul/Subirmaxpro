@@ -13,7 +13,7 @@ http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-
+http://103.161.153.165:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
@@ -24,7 +24,7 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+#EXTINF:-1 tvg-logo="https://encrypted mtbs 0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
@@ -117,7 +117,8 @@ http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 #http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://103.161.153.165:8000/play/a02j/index.m3u8
+#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
@@ -150,20 +151,20 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/playlist.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-
+http://103.161.153.165:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
 #https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
 #https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
-
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 #http://tv.cloudcdn.me/live.ts?channelId=106&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 #https://mytvbangla.com/0.m3u8
-http://116.204.149.16/mytv/index.m3u8
+#http://116.204.149.16/mytv/index.m3u8
+http://103.161.153.165:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
 #https://mtlivestream.com/asian/ytlive/index.m3u8
@@ -195,6 +196,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
 http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+http://103.161.153.165:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
@@ -211,7 +213,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
-https://tvsen6.aynaott.com/channel9/index.m3u8
+http://103.161.153.165:8000/play/a02g/index.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 #http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
@@ -231,11 +233,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",METV
-http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla",Channel S UK HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
+http://103.161.153.165:8000/play/a02k/index.m3u8
 
 *#EXTINF:-1 group-title="Bangla" tvg-logo="https://ibb.co.com/nPXPTPK",Srk Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -1014,7 +1016,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 1
-
+http://103.161.153.165:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 2
 
 
