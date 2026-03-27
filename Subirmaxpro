@@ -42,7 +42,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
-
+http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=5b6415337962f25866833fe31301083004fbf2f4-d1ab2f41664c169fd75579b2fdbbc9d0-1774634780-1774623980&remote=no_check_ip
 
 
 
