@@ -8,6 +8,12 @@
 #EXTVLCOPT:http-referrer=https://player0003.com/
 https://jan.bhalocast.com:7059/hls/astrocric.m3u8?md5=OU-fcWmpyPeEq36c92LEdA&expires=1774712379&ch=astrocric&s=20c241d5fdf42037738b546fe019d154
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
+#EXTVLCOPT:http-referrer=https://player0003.com/
+https://jan.bhalocast.com:7059/hls/star1co.m3u8?md5=tYHqQ8quAIiO-KF10EBnIg&expires=1774712369&ch=star1co&s=a60632718ab0d0a58fd05f48dfa45c51
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+https://n6.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=5eb21unphe4rtk_vQ9VWkA&expires=1774714748
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
 http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ==&e=.m3u8
@@ -19,6 +25,9 @@ http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=18581078ed533bb3b82d
 http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
 http://103.144.89.251:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=5856217e4eb3315c8bc4d50bb070968a42f65a21-3a54cb2beeccbac085f1f494683e39be-1774717459-1774706659
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+https://n14.sanwalyaarpya.com:1686/hls/star2in.m3u8?md5=x4-zPBHB6cDmh2eI_9GJjw&expires=1774714759
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
@@ -54,15 +63,19 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
-
+#EXTVLCOPT:http-referrer=https://player0003.com/
+https://dz2.bhalocast.com:7059/hls/asportsd.m3u8?md5=xxPPorl2FIGTU0KObZd0lg&expires=1774712373&ch=asportsd&s=ab8050be5d0808a0046103e444830eab
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"group-title="PSL 2026",PSL 2026
-http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+https://n14.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=ihVFRV_2_E8AIcSzV646kg&expires=1774714760
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
