@@ -1204,7 +1204,6 @@ http://103.175.73.12:8080/live/133/133_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
-http://103.175.73.12:8080/live/131/131_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
 http://103.175.73.12:8080/live/255/255_0.m3u8
 
@@ -1214,7 +1213,6 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
-http://65.108.239.207/bbc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
@@ -1723,8 +1721,8 @@ http://10.16.100.214/iccftps14/iccftps14sasd2/Tv%20Show/Serials%20(Hindi)/The%20
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Saiyaara
 http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Hindi/Saiyaara%20(2025)%201080p%20DVDRip.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies",Tiger 3
-http://103.225.94.27/Infobase/hdd-3/hindi/Border%202%20(2026)%20Hindi%20720p%20HDTS%20x264%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Romeo
+http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Hindi/O%20Romeo%20(2026)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Mardaani 3
 http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",The Taj Story
