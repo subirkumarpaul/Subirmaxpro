@@ -2,9 +2,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
-http://premimum.online/live/jen12345/jen54321/113069.ts
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1777709106~acl=/hls/*~hmac=7f8130a40a2a39bf2af8c6be30936f86bf130782dffe02e0d9f293a2c16a147d
 #EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+http://premimum.online/live/jen12345/jen54321/113069.ts
+#http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
