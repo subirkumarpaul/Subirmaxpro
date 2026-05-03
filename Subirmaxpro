@@ -1,12 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
-https://zubayerop.short.gy/BD-V-NZ-3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
-http://premimum.online/live/jen12345/jen54321/113069.ts
-#http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD Vs NZ",BD VS NZ
 http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
@@ -21,7 +15,9 @@ http://premimum.online/live/jen12345/jen54321/703301.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026 4K
 http://premimum.online/live/jen12345/jen54321/705142.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026 4K
-http://premimum.online/live/jen12345/jen54321/705142.ts
+http://premimum.online/live/jen12345/jen54321/705143.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026 
+http://premimum.online/live/jen12345/jen54321/705136.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026 Bangla
 http://premimum.online/live/jen12345/jen54321/705160.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026",IPL 2026 Bangla 4K
@@ -73,8 +69,7 @@ https://n14.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=ihVFRV_2_E8AIcSzV646kg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaM4YRQ&s=10"group-title="Live Sports",Live Sports
+http://27.124.71.27/T-Sports/index.m3u8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://198.195.239.50:8095/WiLLow/index.m3u8
@@ -102,7 +97,8 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvZ2F6aQ==&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstat
+ic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 
