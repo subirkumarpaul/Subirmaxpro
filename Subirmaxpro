@@ -231,15 +231,13 @@ https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 http://sm-monirul.top/AyNa/play.php?id=c0480a4a-f066-4a20-9f7d-73bbd852260f&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
-#https://mtlivestream.com/asian/ytlive/index.m3u8
-#http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
-http://sm-monirul.top/AyNa/play.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
 #https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
-http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
@@ -506,7 +504,7 @@ http://103.229.254.25:7001/play/a076/index.m3u8
 https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-COLORS-BNAGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
-http://103.182.170.32:8888/play/a01v
+http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla HD
 http://103.161.153.165:8000/play/a03k/index.m3u8
 
@@ -631,6 +629,25 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Tom & Jerry TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Oggy and the Cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",
+
+#EXTINF:-1 tvg-logo="" group-title="CARTOON Drama",
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
 #http://tv.cloudcdn.me/live.ts?channelId=194&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #http://103.182.170.32:8888/play/a03t
@@ -714,11 +731,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1  group-title="Hindi" tvg-logo="",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 1
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 2
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 3
+https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
