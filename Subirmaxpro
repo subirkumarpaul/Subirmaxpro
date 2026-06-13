@@ -10,6 +10,8 @@ http://172.31.235.10:8080/hls/32-nagorik/1_0/index.m3u8?tkn=108312029
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8?tkn=2682966316
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 202
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 https://aponn.vercel.app/iptv.m3u
