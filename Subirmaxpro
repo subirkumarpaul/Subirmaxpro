@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="BD VS ZIM",BD VS ZIM
 http://172.31.235.10:8080/hls/34-tsportssd/1_0/38063092_38065092.ts?tkn=3524717559
 #EXTINF:-1 tvg-logo=""group-title="BD VS ZIM",BD VS ZIM
@@ -1694,21 +1697,13 @@ https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01
 #EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E2)
 https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E02%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 #EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E3)
-https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E02%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E4)
 https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E03%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E5)
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E4)
 https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E04%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E6)
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E5)
 https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E05%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E7)
-http://10.16.100.213/iccftps13/iccftps13sasd10/TV%20Show/Serials%20(Hindi)/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20Season%2001%20(2026)%20Completed/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20S01E07.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Muthu Alias Kaattaan (Muthu Engira Kaattaan)(S1E8)
-http://10.16.100.213/iccftps13/iccftps13sasd10/TV%20Show/Serials%20(Hindi)/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20Season%2001%20(2026)%20Completed/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20S01E08.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Muthu Alias Kaattaan (Muthu Engira Kaattaan)(S1E9)
-http://10.16.100.213/iccftps13/iccftps13sasd10/TV%20Show/Serials%20(Hindi)/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20Season%2001%20(2026)%20Completed/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20S01E09.mp4
-#EXTINF:-1 tvg-logo="" group-title="Web Series",Muthu Alias Kaattaan (Muthu Engira Kaattaan)(S1E10)
-http://10.16.100.213/iccftps13/iccftps13sasd10/TV%20Show/Serials%20(Hindi)/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20Season%2001%20(2026)%20Completed/Muthu%20Alias%20Kaattaan%20(Muthu%20Engira%20Kaattaan)%20S01E10.mp4
+#EXTINF:-1 tvg-logo="" group-title="Web Series",Pritam and Pedro(S1E6)
+https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E06%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 
 
 
