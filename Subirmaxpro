@@ -10,7 +10,7 @@ http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8?tkn=1332989570
 #EXTINF:-1 tvg-logo=""group-title="BD VS ZIM",BD VS ZIM
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://103.151.60.162:2121/play/a013/index.m3u8?hls
+http://10.50.50.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=f240dd4fe63fae62c127cc1c9af98b577227671c-c63a71e5a7eeec21c5129beef38499f9-1783683170-1783672370
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
