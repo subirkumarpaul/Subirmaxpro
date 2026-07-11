@@ -10,39 +10,29 @@ http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8?tkn=1332989570
 #EXTINF:-1 tvg-logo=""group-title="BD VS ZIM",BD VS ZIM
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://10.50.50.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=f240dd4fe63fae62c127cc1c9af98b577227671c-c63a71e5a7eeec21c5129beef38499f9-1783683170-1783672370
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://103.151.60.162:2121/play/a013/49579998.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://live-aburayhan1106.telewebion.ir/ek/sport1/live/1080p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 4K
 http://fastshare1.com/live/25711345/late8airline/745270.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 4K
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 https://cdn-tt.pages.dev/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://cdn-tt.pages.dev/ch6.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://cdn-tt.pages.dev/ch2.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
@@ -54,16 +44,16 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://10.50.50.50:8082/PTV-SPORTS-HD/index.m3u8?token=486aee59997dfd113fe5e4a3f3922ae927d63a80-d926ea180e303531e92fb013b03dc456-1783699441-1783688641&remote=no_check_ip
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://10.50.50.50:8082/AND.FLIX.HD/index.m3u8?token=dedd45d4b8445a26a15c67e0e02317e62e6d7fe8-9323790bcf60615902f2c48361af9d30-1783699344-1783688544&remote=no_check_ip
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://103.165.93.31:8095/unt-s/video.m3u8
-http://103.151.60.162:2121/play/a0f8/41591113.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://fastshare1.com/live/25711345/late8airline/741567.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
@@ -71,7 +61,7 @@ http://66.102.126.10:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://fastshare1.com/live/25711345/late8airline/751354.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
@@ -79,7 +69,7 @@ http://fastshare1.com/live/25711345/late8airline/742610.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://fastshare1.com/live/25711345/late8airline/742611.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://live05.koepgd.app/live/24561735.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
