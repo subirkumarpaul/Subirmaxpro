@@ -35,8 +35,9 @@ https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=0452c91f403e3a24b55d26c
 https://cdn-tt.pages.dev/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
-
-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+https://iptv.ryvoxtb.workers.dev/live/Star_Spts_1.m3u8?token=5c714e8e92bbce8303cab0c1f84e5067&time=1783750611
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
@@ -50,7 +51,6 @@ http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBa
 http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://fastshare1.com/live/25711345/late8airline/741567.ts
-
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 4K
